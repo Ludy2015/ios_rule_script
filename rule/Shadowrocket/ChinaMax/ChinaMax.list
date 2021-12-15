@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-15 22:59:39
+# UPDATED: 2021-12-16 02:10:29
 # USER-AGENT: 63
-# DOMAIN-SUFFIX: 72631
-# DOMAIN: 57
+# DOMAIN-SUFFIX: 72643
+# DOMAIN: 61
 # IP-CIDR: 6211
 # DOMAIN-KEYWORD: 1
-# TOTAL: 78963
+# TOTAL: 78979
 DOMAIN-KEYWORD,.tmall.com
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve

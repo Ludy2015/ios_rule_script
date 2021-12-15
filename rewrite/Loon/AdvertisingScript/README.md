@@ -18,10 +18,10 @@
 | DOMAIN | 4 |
 | URL-REGEX | 7 |
 | USER-AGENT | 1 |
+| IP-CIDR | 1 |
 | DOMAIN-SUFFIX | 1 |
 | IP-CIDR6 | 1 |
-| IP-CIDR | 1 |
-| reject | 21 |
+| reject | 22 |
 | http-response | 33 |
 | http-request | 1 |
 ## 配置说明

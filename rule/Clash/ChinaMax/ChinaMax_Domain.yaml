@@ -1,16 +1,17 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-15 22:59:35
-# DOMAIN-SUFFIX: 72631
+# UPDATED: 2021-12-16 02:10:28
+# DOMAIN-SUFFIX: 72643
 # PROCESS-NAME: 6
-# DOMAIN: 57
+# DOMAIN: 61
 # IP-CIDR: 6211
 # IP-CIDR6: 5529
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84435
+# TOTAL: 84451
 payload:
   - '265.com'
+  - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
   - 'c.android.clients.google.com'
   - 'cache.pack.google.com'
@@ -44,6 +45,7 @@ payload:
   - 'officecdn-microsoft-com.akamaized.net'
   - 'opencourse.pku.edu.cn'
   - 'p16-tiktokcdn-com.akamaized.net'
+  - 'pagead-googlehosted.l.google.com'
   - 'pki-goog.l.google.com'
   - 'productcard.gog-statics.com'
   - 'recaptcha.net'
@@ -52,6 +54,7 @@ payload:
   - 'safebrowsing-cache.google.com'
   - 'sms.imagetasks.com'
   - 'ss.bjmu.edu.cn'
+  - 'ssl-google-analytics.l.google.com'
   - 'ssl.gstatic.com'
   - 'static-login.gog-statics.com'
   - 'steamcommunity-a.akamaihd.net'
@@ -64,6 +67,7 @@ payload:
   - 'update.googleapis.com'
   - 'uplaypc-s-ubisoft.cdn.ubi.com'
   - 'weizhiyundong.list'
+  - 'www-googletagmanager.l.google.com'
   - 'www.gstatic.com'
   - 'www.recaptcha.net'
   - 'www4-static.gog-statics.com'
@@ -1613,6 +1617,7 @@ payload:
   - '+.166cdn.com'
   - '+.166dns.com'
   - '+.166ks.net'
+  - '+.166sh.com'
   - '+.166xs.cc'
   - '+.166zw.com'
   - '+.16768.com'
@@ -2281,6 +2286,7 @@ payload:
   - '+.1zsoft.com'
   - '+.1zu.com'
   - '+.1zw.com'
+  - '+.2-01-5830-0005.cdx.cedexis.net'
   - '+.2-class.com'
   - '+.2-mm.net'
   - '+.2.gy'
@@ -20411,6 +20417,7 @@ payload:
   - '+.dfss-club.com'
   - '+.dfstw.com'
   - '+.dfsyjm.com'
+  - '+.dftoutiao.com'
   - '+.dftq.net'
   - '+.dftzj.com'
   - '+.dfv5.net'
@@ -21879,6 +21886,7 @@ payload:
   - '+.duhao.net'
   - '+.dui.ai'
   - '+.dui1dui.com'
+  - '+.dui88.com'
   - '+.duia.com'
   - '+.duiai.com'
   - '+.duihuan123.com'
@@ -22027,6 +22035,7 @@ payload:
   - '+.dushu365.com'
   - '+.dushu369.com'
   - '+.dushudaren.com'
+  - '+.dushuge.net'
   - '+.dushuzhe.com'
   - '+.dushuzhong.com'
   - '+.dushw.com'
@@ -27428,6 +27437,7 @@ payload:
   - '+.gotoip2.com'
   - '+.gotoip3.com'
   - '+.gotoip4.com'
+  - '+.gotoip55.com'
   - '+.gotojp.net'
   - '+.gotokeep.com'
   - '+.gotonets.com'
@@ -39464,6 +39474,7 @@ payload:
   - '+.lbyczf.com'
   - '+.lbzuo.com'
   - '+.lc-cn-n1-npxfk.com'
+  - '+.lc-cn-n1-shared.com'
   - '+.lc-cn-n1-thovg.com'
   - '+.lc-news.com'
   - '+.lc123.net'
@@ -44173,6 +44184,7 @@ payload:
   - '+.msddp.com'
   - '+.msdelectron.com'
   - '+.msecnd.net'
+  - '+.msedge.net'
   - '+.msfpay.com'
   - '+.msgcarry.com'
   - '+.msgtjj.com'
@@ -51748,6 +51760,7 @@ payload:
   - '+.scbyx.net'
   - '+.scbz.org'
   - '+.scbz120.com'
+  - '+.scc.ssacdn.com'
   - '+.scccyts.com'
   - '+.sccin.com'
   - '+.sccm.cc'
@@ -56745,6 +56758,7 @@ payload:
   - '+.taozaisheng.com'
   - '+.taozhutu.com'
   - '+.tapapis.com'
+  - '+.tapas.net'
   - '+.tapd.cn'
   - '+.tapdata.net'
   - '+.tapechat.net'
@@ -60234,6 +60248,7 @@ payload:
   - '+.videougc.com'
   - '+.videoyi.com'
   - '+.videoyx.com'
+  - '+.videozhishi.com'
   - '+.vidoadsplus.xyz'
   - '+.vienblog.com'
   - '+.viewones.com'
@@ -62205,6 +62220,7 @@ payload:
   - '+.whnatural.com'
   - '+.whnfc.com'
   - '+.whngd.org'
+  - '+.whoami.akamai.net'
   - '+.whoceansys.com'
   - '+.whocool.com'
   - '+.whoil.net'

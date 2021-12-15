@@ -1,16 +1,17 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-15 22:59:35
-# DOMAIN-SUFFIX: 72631
+# UPDATED: 2021-12-16 02:10:28
+# DOMAIN-SUFFIX: 72643
 # PROCESS-NAME: 6
-# DOMAIN: 57
+# DOMAIN: 61
 # IP-CIDR: 6211
 # IP-CIDR6: 5529
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84435
+# TOTAL: 84451
 payload:
   - DOMAIN,265.com
+  - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,c.android.clients.google.com
   - DOMAIN,cache.pack.google.com
@@ -44,6 +45,7 @@ payload:
   - DOMAIN,officecdn-microsoft-com.akamaized.net
   - DOMAIN,opencourse.pku.edu.cn
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  - DOMAIN,pagead-googlehosted.l.google.com
   - DOMAIN,pki-goog.l.google.com
   - DOMAIN,productcard.gog-statics.com
   - DOMAIN,recaptcha.net
@@ -52,6 +54,7 @@ payload:
   - DOMAIN,safebrowsing-cache.google.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,ss.bjmu.edu.cn
+  - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,static-login.gog-statics.com
   - DOMAIN,steamcommunity-a.akamaihd.net
@@ -64,6 +67,7 @@ payload:
   - DOMAIN,update.googleapis.com
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,weizhiyundong.list
+  - DOMAIN,www-googletagmanager.l.google.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www4-static.gog-statics.com
@@ -1613,6 +1617,7 @@ payload:
   - DOMAIN-SUFFIX,166cdn.com
   - DOMAIN-SUFFIX,166dns.com
   - DOMAIN-SUFFIX,166ks.net
+  - DOMAIN-SUFFIX,166sh.com
   - DOMAIN-SUFFIX,166xs.cc
   - DOMAIN-SUFFIX,166zw.com
   - DOMAIN-SUFFIX,16768.com
@@ -2281,6 +2286,7 @@ payload:
   - DOMAIN-SUFFIX,1zsoft.com
   - DOMAIN-SUFFIX,1zu.com
   - DOMAIN-SUFFIX,1zw.com
+  - DOMAIN-SUFFIX,2-01-5830-0005.cdx.cedexis.net
   - DOMAIN-SUFFIX,2-class.com
   - DOMAIN-SUFFIX,2-mm.net
   - DOMAIN-SUFFIX,2.gy
@@ -20411,6 +20417,7 @@ payload:
   - DOMAIN-SUFFIX,dfss-club.com
   - DOMAIN-SUFFIX,dfstw.com
   - DOMAIN-SUFFIX,dfsyjm.com
+  - DOMAIN-SUFFIX,dftoutiao.com
   - DOMAIN-SUFFIX,dftq.net
   - DOMAIN-SUFFIX,dftzj.com
   - DOMAIN-SUFFIX,dfv5.net
@@ -21879,6 +21886,7 @@ payload:
   - DOMAIN-SUFFIX,duhao.net
   - DOMAIN-SUFFIX,dui.ai
   - DOMAIN-SUFFIX,dui1dui.com
+  - DOMAIN-SUFFIX,dui88.com
   - DOMAIN-SUFFIX,duia.com
   - DOMAIN-SUFFIX,duiai.com
   - DOMAIN-SUFFIX,duihuan123.com
@@ -22027,6 +22035,7 @@ payload:
   - DOMAIN-SUFFIX,dushu365.com
   - DOMAIN-SUFFIX,dushu369.com
   - DOMAIN-SUFFIX,dushudaren.com
+  - DOMAIN-SUFFIX,dushuge.net
   - DOMAIN-SUFFIX,dushuzhe.com
   - DOMAIN-SUFFIX,dushuzhong.com
   - DOMAIN-SUFFIX,dushw.com
@@ -27428,6 +27437,7 @@ payload:
   - DOMAIN-SUFFIX,gotoip2.com
   - DOMAIN-SUFFIX,gotoip3.com
   - DOMAIN-SUFFIX,gotoip4.com
+  - DOMAIN-SUFFIX,gotoip55.com
   - DOMAIN-SUFFIX,gotojp.net
   - DOMAIN-SUFFIX,gotokeep.com
   - DOMAIN-SUFFIX,gotonets.com
@@ -39464,6 +39474,7 @@ payload:
   - DOMAIN-SUFFIX,lbyczf.com
   - DOMAIN-SUFFIX,lbzuo.com
   - DOMAIN-SUFFIX,lc-cn-n1-npxfk.com
+  - DOMAIN-SUFFIX,lc-cn-n1-shared.com
   - DOMAIN-SUFFIX,lc-cn-n1-thovg.com
   - DOMAIN-SUFFIX,lc-news.com
   - DOMAIN-SUFFIX,lc123.net
@@ -44173,6 +44184,7 @@ payload:
   - DOMAIN-SUFFIX,msddp.com
   - DOMAIN-SUFFIX,msdelectron.com
   - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msfpay.com
   - DOMAIN-SUFFIX,msgcarry.com
   - DOMAIN-SUFFIX,msgtjj.com
@@ -51748,6 +51760,7 @@ payload:
   - DOMAIN-SUFFIX,scbyx.net
   - DOMAIN-SUFFIX,scbz.org
   - DOMAIN-SUFFIX,scbz120.com
+  - DOMAIN-SUFFIX,scc.ssacdn.com
   - DOMAIN-SUFFIX,scccyts.com
   - DOMAIN-SUFFIX,sccin.com
   - DOMAIN-SUFFIX,sccm.cc
@@ -56745,6 +56758,7 @@ payload:
   - DOMAIN-SUFFIX,taozaisheng.com
   - DOMAIN-SUFFIX,taozhutu.com
   - DOMAIN-SUFFIX,tapapis.com
+  - DOMAIN-SUFFIX,tapas.net
   - DOMAIN-SUFFIX,tapd.cn
   - DOMAIN-SUFFIX,tapdata.net
   - DOMAIN-SUFFIX,tapechat.net
@@ -60234,6 +60248,7 @@ payload:
   - DOMAIN-SUFFIX,videougc.com
   - DOMAIN-SUFFIX,videoyi.com
   - DOMAIN-SUFFIX,videoyx.com
+  - DOMAIN-SUFFIX,videozhishi.com
   - DOMAIN-SUFFIX,vidoadsplus.xyz
   - DOMAIN-SUFFIX,vienblog.com
   - DOMAIN-SUFFIX,viewones.com
@@ -62205,6 +62220,7 @@ payload:
   - DOMAIN-SUFFIX,whnatural.com
   - DOMAIN-SUFFIX,whnfc.com
   - DOMAIN-SUFFIX,whngd.org
+  - DOMAIN-SUFFIX,whoami.akamai.net
   - DOMAIN-SUFFIX,whoceansys.com
   - DOMAIN-SUFFIX,whocool.com
   - DOMAIN-SUFFIX,whoil.net

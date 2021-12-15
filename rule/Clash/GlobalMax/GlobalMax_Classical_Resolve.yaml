@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-15 22:59:37
+# UPDATED: 2021-12-16 02:10:29
 # DOMAIN: 27
-# DOMAIN-SUFFIX: 36907
+# DOMAIN-SUFFIX: 36921
 # IP-CIDR: 1196
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # DOMAIN-KEYWORD: 6
-# TOTAL: 38223
+# TOTAL: 38237
 payload:
   - DOMAIN,api-p014.ribob01.net
   - DOMAIN,api.okzy.tv
@@ -222,6 +222,7 @@ payload:
   - DOMAIN-SUFFIX,0rz.tw
   - DOMAIN-SUFFIX,1-10.fr
   - DOMAIN-SUFFIX,1-apple.com.tw
+  - DOMAIN-SUFFIX,1-cl0ud.com
   - DOMAIN-SUFFIX,1-dk.cg-dialup.net
   - DOMAIN-SUFFIX,1.bb5522.ws
   - DOMAIN-SUFFIX,1.buyu213.com
@@ -4006,6 +4007,7 @@ payload:
   - DOMAIN-SUFFIX,apple.com.pr
   - DOMAIN-SUFFIX,apple.com.pt
   - DOMAIN-SUFFIX,apple.com.py
+  - DOMAIN-SUFFIX,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,apple.ee
   - DOMAIN-SUFFIX,apple.hamburg
   - DOMAIN-SUFFIX,apple.hr
@@ -8850,6 +8852,7 @@ payload:
   - DOMAIN-SUFFIX,cristyli.com
   - DOMAIN-SUFFIX,crit-staging.com
   - DOMAIN-SUFFIX,critstaging.com
+  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
   - DOMAIN-SUFFIX,crmdynintgcc.com
@@ -13467,6 +13470,7 @@ payload:
   - DOMAIN-SUFFIX,gesgxsj.com
   - DOMAIN-SUFFIX,gesundteam.se
   - DOMAIN-SUFFIX,get-a-fuck-tonight.com
+  - DOMAIN-SUFFIX,get-express-vpn.com
   - DOMAIN-SUFFIX,get-out.co
   - DOMAIN-SUFFIX,get-tune.net
   - DOMAIN-SUFFIX,get.app
@@ -15788,6 +15792,7 @@ payload:
   - DOMAIN-SUFFIX,icegay.com
   - DOMAIN-SUFFIX,icerocket.com
   - DOMAIN-SUFFIX,icevil.webege.com
+  - DOMAIN-SUFFIX,icgirls.com
   - DOMAIN-SUFFIX,ichineseporn.com
   - DOMAIN-SUFFIX,icij.org
   - DOMAIN-SUFFIX,icili.net
@@ -16783,6 +16788,7 @@ payload:
   - DOMAIN-SUFFIX,isamusician.com
   - DOMAIN-SUFFIX,isanaccountant.com
   - DOMAIN-SUFFIX,isanactress.com
+  - DOMAIN-SUFFIX,isanalyze.com
   - DOMAIN-SUFFIX,isanartist.com
   - DOMAIN-SUFFIX,isanengineer.com
   - DOMAIN-SUFFIX,isanurse.com
@@ -18618,6 +18624,7 @@ payload:
   - DOMAIN-SUFFIX,lobsangwangyal.com
   - DOMAIN-SUFFIX,lobsterbay.hk
   - DOMAIN-SUFFIX,lobstertube.com
+  - DOMAIN-SUFFIX,localbitcoins.com
   - DOMAIN-SUFFIX,localbitcoins.net
   - DOMAIN-SUFFIX,localbitcoinschain.com
   - DOMAIN-SUFFIX,localdomain.ws
@@ -19482,6 +19489,7 @@ payload:
   - DOMAIN-SUFFIX,meetfasttrack.com
   - DOMAIN-SUFFIX,meeting.yunghsuan.me
   - DOMAIN-SUFFIX,meetme.com
+  - DOMAIN-SUFFIX,meetsexygirls.org
   - DOMAIN-SUFFIX,meetsmartbook.com
   - DOMAIN-SUFFIX,meetup.com
   - DOMAIN-SUFFIX,meetyourdevices.com
@@ -24135,6 +24143,7 @@ payload:
   - DOMAIN-SUFFIX,quality-electronics.com
   - DOMAIN-SUFFIX,qualityelectronics.com
   - DOMAIN-SUFFIX,qualphone.com
+  - DOMAIN-SUFFIX,qualtrics.com
   - DOMAIN-SUFFIX,quanben-xiaoshuo.com
   - DOMAIN-SUFFIX,quanbenxiaoshuo.com
   - DOMAIN-SUFFIX,quannengshen.org
@@ -24320,6 +24329,7 @@ payload:
   - DOMAIN-SUFFIX,rationalwiki.org
   - DOMAIN-SUFFIX,ratujtybet.org
   - DOMAIN-SUFFIX,rauchmeldershop.ch
+  - DOMAIN-SUFFIX,ravm.tv
   - DOMAIN-SUFFIX,raw.githack.com
   - DOMAIN-SUFFIX,rawcdn.githack.com
   - DOMAIN-SUFFIX,rawdirect.com
@@ -25279,6 +25289,7 @@ payload:
   - DOMAIN-SUFFIX,sebooks.com
   - DOMAIN-SUFFIX,seccionamarilla.com.mx
   - DOMAIN-SUFFIX,secomtrust.net
+  - DOMAIN-SUFFIX,secretchina.com
   - DOMAIN-SUFFIX,secretgarden.no
   - DOMAIN-SUFFIX,secretofluck.com
   - DOMAIN-SUFFIX,secretproxy.org
@@ -30167,6 +30178,7 @@ payload:
   - DOMAIN-SUFFIX,watchespn.com
   - DOMAIN-SUFFIX,watchinese.com
   - DOMAIN-SUFFIX,watchjavonline.com
+  - DOMAIN-SUFFIX,watchmygf.com
   - DOMAIN-SUFFIX,watchmygf.net
   - DOMAIN-SUFFIX,watchout.tw
   - DOMAIN-SUFFIX,watchtowerdocuments.com
@@ -34137,6 +34149,7 @@ payload:
   - DOMAIN-SUFFIX,www.pucocn.com
   - DOMAIN-SUFFIX,www.puff-store.com
   - DOMAIN-SUFFIX,www.pugetsound.edu
+  - DOMAIN-SUFFIX,www.purechat.com
   - DOMAIN-SUFFIX,www.pureland-buddhism.org
   - DOMAIN-SUFFIX,www.purelandbuddhism.org
   - DOMAIN-SUFFIX,www.purevpn.net
@@ -35693,6 +35706,7 @@ payload:
   - DOMAIN-SUFFIX,xm.com
   - DOMAIN-SUFFIX,xmaduras.com
   - DOMAIN-SUFFIX,xmasxtv.com
+  - DOMAIN-SUFFIX,xmatch.com
   - DOMAIN-SUFFIX,xmbs1.xyz
   - DOMAIN-SUFFIX,xmbs2.xyz
   - DOMAIN-SUFFIX,xmbs3.xyz
