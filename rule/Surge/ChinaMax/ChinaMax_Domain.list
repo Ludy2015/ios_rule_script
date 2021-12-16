@@ -1,36 +1,31 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:19:59
+# UPDATED: 2021-12-16 17:32:37
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72550
+# DOMAIN-SUFFIX: 72595
 # PROCESS-NAME: 6
-# DOMAIN: 71
+# DOMAIN: 56
 # IP-CIDR: 6211
 # IP-CIDR6: 5529
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84430
+# TOTAL: 84460
 265.com
-a1.mzstatic.com
-a2.mzstatic.com
-a3.mzstatic.com
-a4.mzstatic.com
-a5.mzstatic.com
-apps.mzstatic.com
 c.android.clients.google.com
 cache.pack.google.com
 cdn.ampproject.org
 checkin.gstatic.com
 client.amplifi.com
 clientservices.googleapis.com
-cn.actual.battle.net
 connectivitycheck.gstatic.com
 corp.google.com
 crl.pki.goog
 csi-china.l.google.com
 dl.google.com
 dl.l.google.com
+download.jetbrains.com
 emoi-cncdn.bing.com
+file-igamecj.akamaized.net
 fonts.googleapis.com
 fonts.gstatic.com
 g1.gstatic.com
@@ -42,20 +37,11 @@ hospital.pku.edu.cn
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 ip.istatmenus.app
-is1-ssl.mzstatic.com
-is1.mzstatic.com
-is2-ssl.mzstatic.com
-is2.mzstatic.com
-is3-ssl.mzstatic.com
-is3.mzstatic.com
-is4-ssl.mzstatic.com
-is4.mzstatic.com
-is5-ssl.mzstatic.com
-is5.mzstatic.com
 kc.kexinshe.com
 menu-static.gog-statics.com
 moocs.unipus.cn
 ocsp.pki.goog
+officecdn-microsoft-com.akamaized.net
 opencourse.pku.edu.cn
 p16-tiktokcdn-com.akamaized.net
 pki-goog.l.google.com
@@ -63,7 +49,6 @@ productcard.gog-statics.com
 recaptcha.net
 redirector.gvt1.com
 regioninfo-pa.googleapis.com
-s.mzstatic.com
 safebrowsing-cache.google.com
 sms.imagetasks.com
 ss.bjmu.edu.cn
@@ -8291,6 +8276,7 @@ www4-static.gog-statics.com
 .accsh.org
 .accu.cc
 .accurate-china.com
+.accuweather.com
 .accyy.com
 .acde.net
 .ace-pow.com
@@ -8354,6 +8340,7 @@ www4-static.gog-statics.com
 .ackeline.com
 .acloudbaas.com
 .aclqc.com
+.acm.org
 .acmcoder.com
 .acmicpc.info
 .acmoba.com
@@ -8370,6 +8357,7 @@ www4-static.gog-statics.com
 .acq42.com
 .across-mbox.com
 .acrpc.com
+.acs.org
 .acshoes.com
 .acsrq.com
 .act-telecom.com
@@ -8478,6 +8466,7 @@ www4-static.gog-statics.com
 .adobe55.com
 .adobeae.com
 .adobeedu.com
+.adobesc.com
 .adobetop.com
 .adoceans.com
 .adoregeek.com
@@ -9602,6 +9591,7 @@ www4-static.gog-statics.com
 .ambition-soft.com
 .ambow.com
 .amchamchina.org
+.amd.com
 .amdotibet.com
 .amec-inc.com
 .amemv.cn
@@ -9788,6 +9778,7 @@ www4-static.gog-statics.com
 .annelhair.com
 .annhe.net
 .annto.com
+.annualreviews.org
 .anoah.com
 .anonym-hi.com
 .anorectal.net
@@ -10177,6 +10168,7 @@ www4-static.gog-statics.com
 .appying.com
 .appzhonghua.com
 .appzhu.com
+.aps.org
 .apsgo.com
 .apt.so
 .aptchina.com
@@ -11417,6 +11409,7 @@ www4-static.gog-statics.com
 .batpool.com
 .batterydir.com
 .batterykey.com
+.battle.net
 .battlenet.com
 .battleofballs.com
 .baudu.com
@@ -11993,8 +11986,6 @@ www4-static.gog-statics.com
 .bfyx.net
 .bfzhuce.com
 .bfzzmj.com
-.bg.v4.a.dl.ws.microsoft.com
-.bg4.v4.a.dl.ws.microsoft.com
 .bgbk.org
 .bgctv.com
 .bgcyygl.com
@@ -12865,6 +12856,7 @@ www4-static.gog-statics.com
 .blingoffice.com
 .blinkol.com
 .blissmall.net
+.blizzard.com
 .blizzardcn.com
 .blkkj.com
 .bln7.com
@@ -13140,6 +13132,7 @@ www4-static.gog-statics.com
 .bookdao.com
 .bookdown.net
 .bookersea.com
+.booking.com
 .booking001.com
 .bookinlife.net
 .bookresource.net
@@ -13355,6 +13348,7 @@ www4-static.gog-statics.com
 .bsrczpw.com
 .bssrvdns.com
 .bst24.com
+.bstatic.com
 .bsteel.net
 .bstinfo.com
 .bstjiaoyu.com
@@ -13702,6 +13696,7 @@ www4-static.gog-statics.com
 .bytelb.net
 .bytemastatic.com
 .byteorge.com
+.byteoversea.com
 .bytescm.com
 .bytesfield.com
 .bytesmanager.com
@@ -14040,6 +14035,7 @@ www4-static.gog-statics.com
 .cambm.com
 .cambodiafang.com
 .cambricon.com
+.cambridge.org
 .camcap.us
 .camcard.com
 .came-online.org
@@ -16956,6 +16952,7 @@ www4-static.gog-statics.com
 .clady.cc
 .clanzx.net
 .claritywallpaper.com
+.clarivate.com
 .clashroyaleapp.com
 .class01.com
 .classix-unlimited.co.uk
@@ -17274,7 +17271,6 @@ www4-static.gog-statics.com
 .cmpay.com
 .cmread.com
 .cmri.cc
-.cms.ibm.com
 .cms1924.org
 .cmsblogs.com
 .cmschina.com
@@ -18960,7 +18956,6 @@ www4-static.gog-statics.com
 .ctlcdn.cn
 .ctlcdn.com
 .ctlcdn.net
-.ctldl.windowsupdate.com
 .ctlife.tv
 .ctmcdn.cn
 .ctmcdn.com
@@ -20334,7 +20329,6 @@ www4-static.gog-statics.com
 .devask.net
 .devclub.cc
 .developer.dji.com
-.developer.microsoft.com
 .devemi.com
 .devework.com
 .devexception.com
@@ -21011,7 +21005,6 @@ www4-static.gog-statics.com
 .dkys.org
 .dl-origin.ubnt.com
 .dl-rc.com
-.dl.delivery.mp.microsoft.com
 .dl.djicdn.com
 .dl.ubnt.com
 .dl0728.com
@@ -21288,8 +21281,6 @@ www4-static.gog-statics.com
 .docpe.com
 .docs.cdnetworks.com
 .docs.djicdn.com
-.docs.microsoft.com
-.docs.oracle.com
 .docschina.org
 .docsou.com
 .doctorcom.com
@@ -21621,9 +21612,6 @@ www4-static.gog-statics.com
 .downjoy.com
 .downkr.com
 .downkuai.com
-.download.microsoft.com
-.download.visualstudio.microsoft.com
-.download.windowsupdate.com
 .downloadcenter.samsung.com
 .downloadla.pro
 .downok.com
@@ -23156,7 +23144,6 @@ www4-static.gog-statics.com
 .emcbtc.com
 .emcite.com
 .emcsosin.com
-.emdl.ws.microsoft.com
 .emea.cdnetworks.com
 .emeixs.com
 .emeor.com
@@ -23222,6 +23209,7 @@ www4-static.gog-statics.com
 .eng24.com
 .eng888.com
 .engeniustec.com
+.engineeringvillage.com
 .englishtownpromotion.com
 .engloncar.com
 .engpx.com
@@ -24767,6 +24755,7 @@ www4-static.gog-statics.com
 .fireemulator.com
 .firefallgame.cn
 .fireflyacg.com
+.firefox.com
 .firefoxbug.com
 .firefoxcn.com
 .firekylin.org
@@ -25296,7 +25285,6 @@ www4-static.gog-statics.com
 .frysb.com
 .frytea.com
 .fs-ade.com
-.fs.microsoft.com
 .fs008.net
 .fs0757.com
 .fs121.com
@@ -30849,6 +30837,7 @@ www4-static.gog-statics.com
 .hotkey123.com
 .hotkidclub.com
 .hotking.com
+.hotmail.com
 .hotoos.com
 .hotpotpro.com
 .hotpub.com
@@ -32517,6 +32506,7 @@ www4-static.gog-statics.com
 .iblue.me
 .ibluefrog.com
 .ibluesocial.com
+.ibm.com
 .ibmcampus.com
 .ibmwclub.com
 .ibook8.com
@@ -32542,6 +32532,7 @@ www4-static.gog-statics.com
 .ibuychem.com
 .ibuying.com
 .ibw.cc
+.ibytedtos.com
 .ic-ldo.com
 .ic-valley.com
 .ic2china.com
@@ -32686,6 +32677,8 @@ www4-static.gog-statics.com
 .ickimg.com
 .iclicash.com
 .iclickstatic.com
+.icloud-content.com
+.icloud.com
 .icloudgslb.com
 .icloudnews.net
 .iclouds.work
@@ -32944,6 +32937,7 @@ www4-static.gog-statics.com
 .ieduchina.com
 .ieduw.com
 .ieechina.com
+.ieee.org
 .ieeewifi.com
 .ieepa.org
 .iefang.com
@@ -33425,6 +33419,7 @@ www4-static.gog-statics.com
 .imageplusplus.com.cn
 .imageplusplus.net
 .imagepy.org
+.images-amazon.com
 .images-cache.com
 .images.benchmarkemail.com
 .images.samsung.com
@@ -33851,6 +33846,7 @@ www4-static.gog-statics.com
 .ionichina.com
 .ionicliquid.org
 .iooeoo.com
+.iop.org
 .iopenhec.com
 .ioperat.com
 .iopiopl.com
@@ -34730,6 +34726,7 @@ www4-static.gog-statics.com
 .jalan.space
 .jalorsoft.com
 .jals1rfsfo.com
+.jamanetwork.com
 .jamespan.me
 .jamidol.com
 .jammyfm.com
@@ -34757,6 +34754,7 @@ www4-static.gog-statics.com
 .jasve.com
 .jatd.org
 .java-er.com
+.java.com
 .java1234.com
 .java2000.net
 .java2008.com
@@ -36753,6 +36751,7 @@ www4-static.gog-statics.com
 .jstdtncj.com
 .jstfdz.com
 .jstoo.com
+.jstor.org
 .jstour.com
 .jstoys.net
 .jstti.com
@@ -40849,6 +40848,7 @@ www4-static.gog-statics.com
 .lnzsks.com
 .lo97.com
 .load-page.com
+.localizecdn.com
 .locatran.com
 .locez.com
 .lockfans.com
@@ -40922,6 +40922,7 @@ www4-static.gog-statics.com
 .loli.cd
 .loli.ee
 .loli.my
+.loli.net
 .lolico.moe
 .lolip.net
 .lolitaf.com
@@ -42528,6 +42529,7 @@ www4-static.gog-statics.com
 .mdy-edu.com
 .mdybk.com
 .me-city.com
+.me.com
 .me361.com
 .me4399.com
 .me97.com
@@ -43131,6 +43133,8 @@ www4-static.gog-statics.com
 .microlz.com
 .micromouse.tech
 .microrui.net
+.microsoft.com
+.microsoftonline.com
 .microvcard.com
 .microvirt.com
 .microvoip.com
@@ -44143,6 +44147,7 @@ www4-static.gog-statics.com
 .ms6666111.com
 .ms7caryw5i48t.com
 .msanjia.com
+.msauth.net
 .msc1434.com
 .mscbsc.com
 .mschcdn.com
@@ -44150,10 +44155,9 @@ www4-static.gog-statics.com
 .mscxw.com
 .msddp.com
 .msdelectron.com
+.msecnd.net
 .msfpay.com
 .msgcarry.com
-.msgr.dlservice.microsoft.com
-.msgruser.dlservice.microsoft.com
 .msgtjj.com
 .mshandong.com
 .mshare.cc
@@ -44168,6 +44172,7 @@ www4-static.gog-statics.com
 .mslzz.com
 .msmartlife.com
 .msmbjp.com
+.msocdn.com
 .msoso.com
 .mspharm.com
 .mspring.org
@@ -44748,6 +44753,7 @@ www4-static.gog-statics.com
 .mzres.com
 .mzsky.cc
 .mzsmn.com
+.mzstatic.com
 .mzsvn.com
 .mztgame.com
 .mztzzx.com
@@ -44911,6 +44917,7 @@ www4-static.gog-statics.com
 .nattest-china.com
 .naturali.io
 .nature-museum.net
+.nature.com
 .naturesvariety-china.com
 .natywish.com
 .nauac.com
@@ -45940,6 +45947,7 @@ www4-static.gog-statics.com
 .nvcong.com
 .nvdiao.com
 .nvidia-china.com
+.nvidia.com
 .nvliren.com
 .nvloo.com
 .nvren.com
@@ -46151,9 +46159,10 @@ www4-static.gog-statics.com
 .offer-wow.com
 .office-cn.net
 .office-peixun.com
+.office.com
+.office.net
 .office26.com
 .office68.com
-.officecdn.microsoft.com
 .officectrl.com
 .officedoyen.com
 .officeedit.com
@@ -46365,6 +46374,7 @@ www4-static.gog-statics.com
 .onemovie.com
 .onemsdn.com
 .oneniceapp.com
+.onenote.net
 .onenoter.com
 .onephper.com
 .onepiecevip.com
@@ -46583,6 +46593,7 @@ www4-static.gog-statics.com
 .oq78.com
 .oqss.com
 .or-sun.com
+.oracle.com
 .oracledatabase12g.com
 .oracleoaec.net
 .oradbca.com
@@ -46739,6 +46750,7 @@ www4-static.gog-statics.com
 .ouou.com
 .ouou.icu
 .ouougo.com
+.oup.com
 .oupeng.com
 .oupeng.net.cn
 .oupeng9.com
@@ -46822,6 +46834,7 @@ www4-static.gog-statics.com
 .oushivoyages.com
 .ousns.net
 .outlets365.com
+.outlook.com
 .ouvps.com
 .ouyabosi.com
 .ouyada.com
@@ -46845,6 +46858,7 @@ www4-static.gog-statics.com
 .ovhlb.com
 .ovhlb.net
 .ovicnet.com
+.ovid.com
 .ovital.com
 .ovital.net
 .ovopark.com
@@ -46867,6 +46881,9 @@ www4-static.gog-statics.com
 .ox5tis8cm7zg82.com
 .oxbridgedu.org
 .oxerr.net
+.oxfordartonline.com
+.oxfordbibliographies.com
+.oxfordmusiconline.com
 .oxiaohua.com
 .oxygenos.com
 .oxyry.com
@@ -47195,6 +47212,7 @@ www4-static.gog-statics.com
 .paylf.com
 .paymax.cc
 .paympay.com
+.paypal.me
 .payrao.com
 .paysapi.com
 .paytend.com
@@ -47969,6 +47987,7 @@ www4-static.gog-statics.com
 .pmyes.com
 .pmyuanxing.com
 .pn66.com
+.pnas.org
 .pnetp.org
 .pngui.com
 .pniao.com
@@ -48293,6 +48312,7 @@ www4-static.gog-statics.com
 .prolto.com
 .promisingedu.com
 .promoadx.com
+.proquest.com
 .proresearch.org
 .protect-file.com
 .prototype.im
@@ -48807,7 +48827,6 @@ www4-static.gog-statics.com
 .qh-cdn.com
 .qh-dl.com
 .qh-lb.com
-.qh.dlservice.microsoft.com
 .qh0534.net
 .qh24.com
 .qh5800.com
@@ -51139,6 +51158,7 @@ www4-static.gog-statics.com
 .rrzxw.net
 .rs05.com
 .rs485.net
+.rsc.org
 .rscala.com
 .rscloudmart.com
 .rsdgd.com
@@ -51380,6 +51400,7 @@ www4-static.gog-statics.com
 .rzyjyl.com
 .s-02.com
 .s-dom.net
+.s-microsoft.com
 .s-mob.com
 .s-ns.com
 .s-reader.com
@@ -51439,6 +51460,7 @@ www4-static.gog-statics.com
 .safestdns.com
 .safewiki.org
 .safp.com
+.sagepub.com
 .sagocloud.com
 .sahcqmu.com
 .saibeiip.com
@@ -51868,6 +51890,7 @@ www4-static.gog-statics.com
 .sciencechina.cn
 .sciencechina.net.cn
 .sciencechina.org.cn
+.sciencedirect.com
 .sciencefocus.ac.cn
 .sciencemeta.com
 .scientrans.com
@@ -51909,6 +51932,7 @@ www4-static.gog-statics.com
 .scoee.com
 .scommander.com
 .scomper.me
+.scopus.com
 .scoregg.com
 .scowqbfk.com
 .scp-wiki-cn.org
@@ -52100,7 +52124,6 @@ www4-static.gog-statics.com
 .sdwdxl.com
 .sdwenlian.com
 .sdwgyy.com
-.sdx.microsoft.com
 .sdxczn.com
 .sdxietong.com
 .sdxjpc.com
@@ -52734,6 +52757,7 @@ www4-static.gog-statics.com
 .sharejoytech.com
 .sharejs.com
 .shareoneplanet.org
+.sharepoint.com
 .sharetao.com
 .sharetome.com
 .sharetrace.com
@@ -53779,7 +53803,6 @@ www4-static.gog-statics.com
 .silukeke.com
 .silusheji.com
 .siluwu.com
-.silverlight.dlservice.microsoft.com
 .silverlighter.net
 .sim.djicdn.com
 .sim800.com
@@ -54254,7 +54277,6 @@ www4-static.gog-statics.com
 .slsteel.com
 .slswx7.com
 .sltv.net
-.slupdate.dlservice.microsoft.com
 .slvdy.com
 .slwh-dfh.com
 .slwwedding.com
@@ -54264,6 +54286,7 @@ www4-static.gog-statics.com
 .sm-cq.com
 .sm-main.com
 .sm.cn
+.sm.ms
 .sm160.com
 .sm160.net
 .sm688839.com
@@ -54925,6 +54948,7 @@ www4-static.gog-statics.com
 .sphinxrating.com
 .sphinxsearch.org
 .spibj.com
+.spiedigitallibrary.org
 .spiiker.com
 .spin-view.com
 .spinytech.com
@@ -54962,6 +54986,8 @@ www4-static.gog-statics.com
 .springcloud.cc
 .springcocoon.com
 .springen.cn
+.springer.com
+.springerlink.com
 .springsunday.net
 .springtour.com
 .spriteapp.com
@@ -55259,7 +55285,6 @@ www4-static.gog-statics.com
 .storagesemicon.com
 .store.dji.com
 .store.nike.com
-.storeedgefd.dsx.mp.microsoft.com
 .storkapp.me
 .stormorai.com
 .stormsend1.djicdn.com
@@ -56466,6 +56491,7 @@ www4-static.gog-statics.com
 .tancdn.com
 .tanchinese.com
 .tandehao.com
+.tandfonline.com
 .tandjx.com
 .tang-lei.com
 .tang.su
@@ -57079,6 +57105,7 @@ www4-static.gog-statics.com
 .tesoon.com
 .test-edu.net
 .test-ipv4.com
+.test-ipv6.com
 .test404.com
 .testbird.com
 .testcoo.com
@@ -58282,6 +58309,7 @@ www4-static.gog-statics.com
 .trejhtyrjetyjetyrkuy-3.xyz
 .trekin.space
 .trekiz.com
+.trellocdn.com
 .trend6.com
 .trendsmen.com
 .trendtokyo.com
@@ -59216,6 +59244,7 @@ www4-static.gog-statics.com
 .uczhidao.com
 .ucziliao.com
 .udache.com
+.udacity.com
 .udalogistic.com
 .udamall.com
 .udangjia.com
@@ -59425,6 +59454,7 @@ www4-static.gog-statics.com
 .ums86.com
 .umvsoft.com
 .un-bug.com
+.un.org
 .un10086.com
 .un1c0de.xyz
 .una-ad.com
@@ -60315,6 +60345,7 @@ www4-static.gog-statics.com
 .vista123.com
 .vistastory.com
 .visualchina.com
+.visualstudio.com
 .visvachina.com
 .visweet.com
 .vitagou.com
@@ -61304,6 +61335,7 @@ www4-static.gog-statics.com
 .webmagic.io
 .webmeng.net
 .webnovel.com
+.webofknowledge.com
 .webok.me
 .webond.net
 .weboss.hk
@@ -62325,6 +62357,7 @@ www4-static.gog-statics.com
 .wilddog.com
 .wilddream.net
 .wildgun.net
+.wiley.com
 .will6.com
 .willcdn.com
 .willmao.com
@@ -62391,12 +62424,15 @@ www4-static.gog-statics.com
 .windin.com
 .windleaf.site
 .windmsn.com
+.windows.com
+.windows.net
 .windows10.pro
 .windows10zj.com
 .windows11.pro
 .windows7adobe.com
 .windows7en.com
 .windows7home.com
+.windowsupdate.com
 .windowszj.com
 .windowszj.net
 .windrunner.me
@@ -62585,7 +62621,6 @@ www4-static.gog-statics.com
 .wkshipark.com
 .wkzf.com
 .wkzuche.com
-.wl.dlservice.microsoft.com
 .wl369.com
 .wlanadmin.com
 .wlanbanlv.com
@@ -63071,8 +63106,6 @@ www4-static.gog-statics.com
 .wsclouddns.com
 .wscloudsec.com
 .wscloudvpn.com
-.wscont1.apps.microsoft.com
-.wscont2.apps.microsoft.com
 .wscrm.net
 .wscso.com
 .wscstrace.com
@@ -63437,16 +63470,13 @@ www4-static.gog-statics.com
 .wwjia.com
 .wwleww.com
 .wwmhdq.com
-.www-05.ibm.com
 .www-123490.com
 .www-175345.com
 .www-4620.com
 .www-63608.com
-.www-api.ibm.com
 .www.adobe.com
 .www.agoda.com
 .www.akamai.com
-.www.amd.com
 .www.analog.com
 .www.cc
 .www.cdnetworks.com
@@ -63461,7 +63491,6 @@ www4-static.gog-statics.com
 .www.htc.com
 .www.htcsense.com
 .www.kaspersky.com
-.www.microsoft.com
 .www.net.cn
 .www.nike.com
 .www.pandora.net
@@ -63815,7 +63844,6 @@ www4-static.gog-statics.com
 .xazzg.com
 .xazzp.com
 .xazzs.com
-.xb.dlservice.microsoft.com
 .xb100.net
 .xb2s.com
 .xb5.cc
@@ -63854,6 +63882,8 @@ www4-static.gog-statics.com
 .xbniao.com
 .xbongbong.com
 .xbooklist.com
+.xbox.com
+.xboxlive.com
 .xbptc.com
 .xbpz9.com
 .xbriyu.com

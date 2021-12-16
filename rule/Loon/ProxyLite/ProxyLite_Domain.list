@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:20:07
-# DOMAIN-SUFFIX: 33466
+# UPDATED: 2021-12-16 17:32:44
+# DOMAIN-SUFFIX: 33413
 # USER-AGENT: 10
 # DOMAIN: 19
 # IP-CIDR: 86
 # IP-CIDR6: 3
-# TOTAL: 33584
+# TOTAL: 33531
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -2724,7 +2724,6 @@ widgets.stripst.com
 .accountpaypal.info
 .accountpaypal.net
 .accountpaypal.org
-.accuweather.com
 .acebooik.com
 .acebook.com
 .acel.com
@@ -2759,7 +2758,6 @@ widgets.stripst.com
 .acheterfollowersinstagram.com
 .achievementanalytics.com
 .aclweb.org
-.acm.org
 .acmedia365.com
 .acmetoy.com
 .acmvalidations.com
@@ -2769,7 +2767,6 @@ widgets.stripst.com
 .acpocketcamp.com
 .acproxy.com
 .acrobat.com
-.acs.org
 .actfortibet.org
 .actimes.com.au
 .actiongirls.com
@@ -2845,7 +2842,6 @@ widgets.stripst.com
 .adobeplatinumclub.com
 .adobepress.ch
 .adobeprojectm.com
-.adobesc.com
 .adobesign.com
 .adobesigncdn.com
 .adobespark.com
@@ -3193,7 +3189,6 @@ widgets.stripst.com
 .alhayat.com
 .ali3215.com
 .alias.awsapps.com
-.alibabacloud.com
 .alice.xfu.jp
 .alicejapan.co.jp
 .alicloud.com
@@ -3379,7 +3374,6 @@ widgets.stripst.com
 .amcs44.com
 .amcs55.com
 .amcs88.com
-.amd.com
 .amdfanstore.com
 .amdwc88.com
 .amdwc888.com
@@ -3551,7 +3545,6 @@ widgets.stripst.com
 .annikasorenstam.com
 .annoyer.com
 .annstores.net
-.annualreviews.org
 .anobii.com
 .anon-v.com
 .anonasurf.com
@@ -3960,7 +3953,6 @@ widgets.stripst.com
 .appule.com
 .appye.com
 .apress.com
-.aps.org
 .apsense.com
 .aptoide.com
 .apuestasdemurcia.es
@@ -4610,7 +4602,6 @@ widgets.stripst.com
 .baterias-hp.com
 .bateriashp.com
 .battle.gtasia777.com
-.battle.net
 .battle1.gtasia777.com
 .battlebreakers.com
 .battlefield.com
@@ -5479,7 +5470,6 @@ widgets.stripst.com
 .blinw.com
 .blip.tv
 .bliporn.com
-.blizzard.com
 .blizzardgearstore.com
 .blm1.app
 .blm2.app
@@ -6043,7 +6033,6 @@ widgets.stripst.com
 .bookdepository.co.uk
 .bookdepository.com
 .bookepub.com
-.booking.com
 .bookinh.com.br
 .booklive.jp
 .bookmybridgestonetyre.com
@@ -6232,7 +6221,6 @@ widgets.stripst.com
 .bsadreview.com
 .bsdrp.net
 .bst5588.com
-.bstatic.com
 .bt-king.xyz
 .bt.shousibaocai.com
 .bt168.net
@@ -6525,7 +6513,6 @@ widgets.stripst.com
 .byt707.com
 .byt909.com
 .byte.co
-.byteoversea.com
 .bytes.com
 .bytextv.com
 .byyzgtapp.com
@@ -6701,7 +6688,6 @@ widgets.stripst.com
 .cam4.jp
 .cam4.sg
 .camaleonjuguetes.cl
-.cambridge.org
 .cambridgedigital.net
 .cambridgemaths.org
 .cambridgeschoolshakespeare.com
@@ -7517,7 +7503,6 @@ widgets.stripst.com
 .cl.yyq.im
 .clapaftis.com
 .clarionproject.org
-.clarivate.com
 .claro.com.co
 .classicalguitarblog.net
 .classicnike.com
@@ -10082,7 +10067,6 @@ widgets.stripst.com
 .eng.collectivehealth.com
 .engadget.com
 .engagedaily.org
-.engineeringvillage.com
 .englandproxy.co.uk
 .english.astroawani.com
 .english.moc.gov.tw
@@ -11140,7 +11124,6 @@ widgets.stripst.com
 .firech.at
 .fireemblemawakening.com
 .fireemblemheroes.com
-.firefox.com
 .firefoxfan.com
 .firefoxusercontent.com
 .fireofliberty.org
@@ -14124,7 +14107,6 @@ widgets.stripst.com
 .iblist.com
 .iblogserv-f.net
 .iblogservf.net
-.ibm.com
 .ibm.net
 .ibo.com
 .ibook.com
@@ -14135,7 +14117,6 @@ widgets.stripst.com
 .ibros.org
 .ibtimes.com
 .ibvpn.com
-.ibytedtos.com
 .ibyteimg.com
 .icable.com
 .icahn.mssm.edu
@@ -14224,7 +14205,6 @@ widgets.stripst.com
 .ieee-tems.org
 .ieee-uffc.org
 .ieee-vics.org
-.ieee.org
 .ieee.tv
 .ieeeaess.org
 .ieeeaps.org
@@ -14379,7 +14359,6 @@ widgets.stripst.com
 .imagegals.com
 .imagepost.com
 .imagepower.com
-.images-amazon.com
 .images-gaytube.com
 .images.chesscomfiles.com
 .imagesamazon.com
@@ -14750,7 +14729,6 @@ widgets.stripst.com
 .ioe.com
 .ioffergift.com
 .ionic.cf
-.iop.org
 .iosinthecar.com
 .iou.info
 .iownyour.biz
@@ -15167,7 +15145,6 @@ widgets.stripst.com
 .jailbreaked.net
 .jakubpejzl.me
 .jamaat.org
-.jamanetwork.com
 .jamescyoung.com
 .jamestabor.com
 .jamestown.org
@@ -15213,7 +15190,6 @@ widgets.stripst.com
 .jav68.tv
 .jav720p.com
 .jav777.cc
-.java.com
 .java.net
 .java.openyu.org
 .javakiba.org
@@ -15573,7 +15549,6 @@ widgets.stripst.com
 .jshint.com
 .jsok369.com
 .jsproxy.tk
-.jstor.org
 .jtbc.joins.com
 .jtfx.mobi
 .jtvnw.net
@@ -16661,7 +16636,6 @@ widgets.stripst.com
 .localbitcoins.net
 .localbitcoinschain.com
 .localdomain.ws
-.localizecdn.com
 .localizejs.com
 .localizestatus.com
 .localmedia.org
@@ -16699,7 +16673,6 @@ widgets.stripst.com
 .lolfanart.net
 .loli.com.co
 .loli.help
-.loli.net
 .lolisz.com
 .lolitw.com
 .lolo.pro
@@ -18711,7 +18684,6 @@ widgets.stripst.com
 .nationsonline.org
 .nationwide.com
 .naturalvoices.com
-.nature.com
 .naughtyamerica.com
 .naughtyblog.org
 .naughtymag.com
@@ -19489,7 +19461,6 @@ widgets.stripst.com
 .nvidia.asia
 .nvidia.be
 .nvidia.ch
-.nvidia.com
 .nvidia.it
 .nvidiaforhp.com
 .nvpn.net
@@ -19858,7 +19829,6 @@ widgets.stripst.com
 .optimumssl.com
 .opus-gaming.com
 .opusgaming.com
-.oracle.com
 .oraclecloud.com
 .oraclefoundation.org
 .oracleimg.com
@@ -19930,7 +19900,6 @@ widgets.stripst.com
 .ottofaster.xyz
 .otzo.com
 .ouo.io
-.oup.com
 .ouplaw.com
 .ourdearamy.com
 .ourfr.com
@@ -19959,7 +19928,6 @@ widgets.stripst.com
 .overthumbs.com
 .overwall.org
 .ovi.com
-.ovid.com
 .ovpn.com
 .ovpn.se
 .ow.ly
@@ -19970,15 +19938,12 @@ widgets.stripst.com
 .owl.li
 .owltail.com
 .oxfordaasc.com
-.oxfordartonline.com
-.oxfordbibliographies.com
 .oxfordclinicalpsych.com
 .oxforddnb.com
 .oxfordfirstsource.com
 .oxfordhandbooks.com
 .oxfordlawtrove.com
 .oxfordmedicine.com
-.oxfordmusiconline.com
 .oxfordpoliticstrove.com
 .oxfordre.com
 .oxfordreference.com
@@ -20321,7 +20286,6 @@ widgets.stripst.com
 .paypal-viewpoints.net
 .paypal.com
 .paypal.info
-.paypal.me
 .paypal.so
 .paypalactivate.com
 .paypalactivate.info
@@ -20869,7 +20833,6 @@ widgets.stripst.com
 .pmatehunter.com
 .pmates.com
 .pmo.gov.sg
-.pnas.org
 .pniehus.de
 .po09s0272.vooreeno.com
 .po2b.com
@@ -21214,7 +21177,6 @@ widgets.stripst.com
 .proporn.com
 .proptiger.com
 .propub.li
-.proquest.com
 .pros.ee
 .prosiben.de
 .prostores.com
@@ -22207,7 +22169,6 @@ widgets.stripst.com
 .rrrxv.com
 .rrtis.com
 .rryqp.cc
-.rsc.org
 .rscihoops.com
 .rscredito.com.br
 .rsdlmonitor.com
@@ -22354,7 +22315,6 @@ widgets.stripst.com
 .safety.google
 .safevpn.net
 .saffrontech.com
-.sagepub.com
 .sagitario.com.ar
 .sahabatsetiasmartone.com
 .sahajayoga.ie
@@ -22546,7 +22506,6 @@ widgets.stripst.com
 .sci-hub.mksa.top
 .sci.hubg.org
 .sciencedaily.com
-.sciencedirect.com
 .sciencedirectassets.com
 .sciencemag.org
 .sciencenets.com
@@ -22571,7 +22530,6 @@ widgets.stripst.com
 .scoop.sh
 .scope.co.id
 .scopemarkets.com
-.scopus.com
 .scoreland.com
 .scotchbrand.com
 .scotsindependent.org
@@ -23223,7 +23181,6 @@ widgets.stripst.com
 .slyip.com
 .slyip.net
 .sm-miracle.com
-.sm.ms
 .sm5278.com
 .smallgg.tv
 .smart-edge.com
@@ -23532,7 +23489,6 @@ widgets.stripst.com
 .spiceworks.com
 .spiceworksstatic.com
 .spideroak.com
-.spiedigitallibrary.org
 .spiegel-online.de
 .spiegel.de
 .spiegel.tv
@@ -23599,8 +23555,6 @@ widgets.stripst.com
 .spring.net
 .spring4u.info
 .springboardplatform.com
-.springer.com
-.springerlink.com
 .springernature.com
 .sprint.com
 .sprint0.net
@@ -24308,7 +24262,6 @@ widgets.stripst.com
 .tandberg-china.com
 .tandberg.com
 .tandbergchina.com
-.tandfonline.com
 .tandtfamily.org
 .tangalan.ga
 .tangben.com
@@ -24520,7 +24473,6 @@ widgets.stripst.com
 .tesla.com
 .teslamotors.com
 .test-idc-3.fjla37itnf5dpsen.com
-.test-ipv6.com
 .test-wiki-01.site88.net
 .test.domain888.pw
 .test.freepac.pw
@@ -25241,7 +25193,6 @@ widgets.stripst.com
 .treasurysource.bokf.com
 .treemall.com.tw
 .trello.com
-.trellocdn.com
 .trementina.ml
 .trendhunter.com
 .trendsmap.com
@@ -25754,7 +25705,6 @@ widgets.stripst.com
 .ucountit.com
 .ucptt.com
 .ucvtelevision.cl
-.udacity.com
 .udemy.com
 .udemycdn.com
 .uderzo.it
@@ -25825,7 +25775,6 @@ widgets.stripst.com
 .umyaquene.gq
 .un.com
 .un.na.tl
-.un.org
 .unafotocondios.com
 .unanimis.ro
 .unblock-proxy.com
@@ -27174,7 +27123,6 @@ widgets.stripst.com
 .weboas.is
 .webobjects.com
 .webobjects.net
-.webofknowledge.com
 .webofscience.com
 .webok.tw
 .weboproxy.com
@@ -27419,7 +27367,6 @@ widgets.stripst.com
 .wildfireapp.com
 .wildhardsex.com
 .wildsides.com
-.wiley.com
 .williamhiggins.com
 .williamhill.com
 .williamhill.it

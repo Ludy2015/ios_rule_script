@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:20:10
-# DOMAIN-SUFFIX: 34733
-# DOMAIN: 20
+# UPDATED: 2021-12-16 17:32:48
+# DOMAIN-SUFFIX: 26557
+# DOMAIN: 28
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # DOMAIN-KEYWORD: 1
-# TOTAL: 34888
+# TOTAL: 26720
 payload:
   - DOMAIN-KEYWORD,spotify.com
   - IP-CIDR,1.201.0.0/24
