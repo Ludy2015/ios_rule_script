@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-15 22:59:26
-# HOST: 22610
+# UPDATED: 2021-12-16 10:27:40
+# HOST: 22620
 # HOST-SUFFIX: 13241
 # IP-CIDR: 158
 # HOST-KEYWORD: 2
 # IP6-CIDR: 1
-# TOTAL: 36012
+# TOTAL: 36022
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -129,6 +129,7 @@ HOST,1298bab69bbc4.com,AdvertisingLite
 HOST,12dc71b7cb820f2a.com,AdvertisingLite
 HOST,12i.cn,AdvertisingLite
 HOST,12l22.net,AdvertisingLite
+HOST,12mnkys.com,AdvertisingLite
 HOST,12place.com,AdvertisingLite
 HOST,12wd87h.top,AdvertisingLite
 HOST,13190546cd1dec9bbdc.com,AdvertisingLite
@@ -3157,6 +3158,7 @@ HOST,barjfzpdeqmwi.com,AdvertisingLite
 HOST,baronsoffers.com,AdvertisingLite
 HOST,barrister.org.cn,AdvertisingLite
 HOST,basebanner.com,AdvertisingLite
+HOST,baseniao.com.cn,AdvertisingLite
 HOST,basepush.com,AdvertisingLite
 HOST,basicstat.com,AdvertisingLite
 HOST,basilic.io,AdvertisingLite
@@ -3292,6 +3294,7 @@ HOST,begun.ru,AdvertisingLite
 HOST,behavioralengine.com,AdvertisingLite
 HOST,beholder.xyz,AdvertisingLite
 HOST,behybmunweid.com,AdvertisingLite
+HOST,beineiros.xyz,AdvertisingLite
 HOST,beiyu.xin,AdvertisingLite
 HOST,bejotlmrijxvor.com,AdvertisingLite
 HOST,bekannt-im-web.de,AdvertisingLite
@@ -3466,6 +3469,7 @@ HOST,bima.weathercn.com,AdvertisingLite
 HOST,bimlocal.com,AdvertisingLite
 HOST,bin-layer.de,AdvertisingLite
 HOST,bin-layer.ru,AdvertisingLite
+HOST,binaryoptions24h.com,AdvertisingLite
 HOST,binchoise.ml,AdvertisingLite
 HOST,bingo4affiliates.com,AdvertisingLite
 HOST,bingohall.ag,AdvertisingLite
@@ -6897,6 +6901,7 @@ HOST,elsad.tw,AdvertisingLite
 HOST,elsbfby.com,AdvertisingLite
 HOST,eltex.co.jp,AdvertisingLite
 HOST,eluxer.net,AdvertisingLite
+HOST,elwraek.xyz,AdvertisingLite
 HOST,email-match.com,AdvertisingLite
 HOST,email-reflex.com,AdvertisingLite
 HOST,emailing.rfi.fr,AdvertisingLite
@@ -12623,6 +12628,7 @@ HOST,mo.bsxr.com.cn,AdvertisingLite
 HOST,mo.dfnbyn.top,AdvertisingLite
 HOST,mo.drzd9.cn,AdvertisingLite
 HOST,mo.grqf.com.cn,AdvertisingLite
+HOST,mo.lbmx.com.cn,AdvertisingLite
 HOST,mo.mktrkn.cn,AdvertisingLite
 HOST,mo.mptckm.cn,AdvertisingLite
 HOST,mo.oneshouyou.cn,AdvertisingLite
@@ -14116,6 +14122,7 @@ HOST,oracleinfinity.io,AdvertisingLite
 HOST,orangeads.fr,AdvertisingLite
 HOST,oranges88.com,AdvertisingLite
 HOST,orarala.com,AdvertisingLite
+HOST,oratosaeron.com,AdvertisingLite
 HOST,orbengine.com,AdvertisingLite
 HOST,orbitfour47.com,AdvertisingLite
 HOST,orbowlada.strefa.pl,AdvertisingLite
@@ -14420,6 +14427,7 @@ HOST,pathful.com,AdvertisingLite
 HOST,pathlime.com,AdvertisingLite
 HOST,patiskcontentdelivery.info,AdvertisingLite
 HOST,patlgfvxkto.com,AdvertisingLite
+HOST,patoris.xyz,AdvertisingLite
 HOST,paumoogo.net,AdvertisingLite
 HOST,paupbxxmhh.com,AdvertisingLite
 HOST,pave.elisecries.com,AdvertisingLite
@@ -14916,6 +14924,7 @@ HOST,popmarker.com,AdvertisingLite
 HOST,popmog.com,AdvertisingLite
 HOST,popmonetizer.com,AdvertisingLite
 HOST,popmonetizer.net,AdvertisingLite
+HOST,popmyad.com,AdvertisingLite
 HOST,popmyads.com,AdvertisingLite
 HOST,popnc.com,AdvertisingLite
 HOST,poponclick.com,AdvertisingLite
@@ -22595,6 +22604,7 @@ HOST,zydvsvwgqqyxb.com,AdvertisingLite
 HOST,zygrlkimddjzd.com,AdvertisingLite
 HOST,zyiis.net,AdvertisingLite
 HOST,zyikzhgqzjyvgu.com,AdvertisingLite
+HOST,zylstina.xyz,AdvertisingLite
 HOST,zymbrlgu.cn,AdvertisingLite
 HOST,zypenetwork.com,AdvertisingLite
 HOST,zyrdu.cruisingsmallship.com,AdvertisingLite

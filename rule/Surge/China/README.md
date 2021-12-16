@@ -10,15 +10,15 @@
 
 ## 规则统计
 
-总计规则：692 条。
+总计规则：555 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 627 |
-| USER-AGENT | 32 |
-| DOMAIN | 14 |
+| DOMAIN-SUFFIX | 501 |
+| USER-AGENT | 31 |
+| DOMAIN | 4 |
 | IP-CIDR | 14 |
 | IP-CIDR6 | 4 |
 | DOMAIN-KEYWORD | 1 |
@@ -45,6 +45,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 
 当前分流规则，未包含其他子规则。
+
+当前分流规则，已排除以下规则：
+
+- Proxy
 
 ## 数据来源
 

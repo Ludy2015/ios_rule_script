@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-15 22:59:32
-# DOMAIN: 22610
+# UPDATED: 2021-12-16 10:27:47
+# DOMAIN: 22620
 # DOMAIN-SUFFIX: 13241
 # IP-CIDR: 158
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 36012
+# TOTAL: 36022
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -130,6 +130,7 @@ payload:
   - DOMAIN,12dc71b7cb820f2a.com
   - DOMAIN,12i.cn
   - DOMAIN,12l22.net
+  - DOMAIN,12mnkys.com
   - DOMAIN,12place.com
   - DOMAIN,12wd87h.top
   - DOMAIN,13190546cd1dec9bbdc.com
@@ -3158,6 +3159,7 @@ payload:
   - DOMAIN,baronsoffers.com
   - DOMAIN,barrister.org.cn
   - DOMAIN,basebanner.com
+  - DOMAIN,baseniao.com.cn
   - DOMAIN,basepush.com
   - DOMAIN,basicstat.com
   - DOMAIN,basilic.io
@@ -3293,6 +3295,7 @@ payload:
   - DOMAIN,behavioralengine.com
   - DOMAIN,beholder.xyz
   - DOMAIN,behybmunweid.com
+  - DOMAIN,beineiros.xyz
   - DOMAIN,beiyu.xin
   - DOMAIN,bejotlmrijxvor.com
   - DOMAIN,bekannt-im-web.de
@@ -3467,6 +3470,7 @@ payload:
   - DOMAIN,bimlocal.com
   - DOMAIN,bin-layer.de
   - DOMAIN,bin-layer.ru
+  - DOMAIN,binaryoptions24h.com
   - DOMAIN,binchoise.ml
   - DOMAIN,bingo4affiliates.com
   - DOMAIN,bingohall.ag
@@ -6898,6 +6902,7 @@ payload:
   - DOMAIN,elsbfby.com
   - DOMAIN,eltex.co.jp
   - DOMAIN,eluxer.net
+  - DOMAIN,elwraek.xyz
   - DOMAIN,email-match.com
   - DOMAIN,email-reflex.com
   - DOMAIN,emailing.rfi.fr
@@ -12624,6 +12629,7 @@ payload:
   - DOMAIN,mo.dfnbyn.top
   - DOMAIN,mo.drzd9.cn
   - DOMAIN,mo.grqf.com.cn
+  - DOMAIN,mo.lbmx.com.cn
   - DOMAIN,mo.mktrkn.cn
   - DOMAIN,mo.mptckm.cn
   - DOMAIN,mo.oneshouyou.cn
@@ -14117,6 +14123,7 @@ payload:
   - DOMAIN,orangeads.fr
   - DOMAIN,oranges88.com
   - DOMAIN,orarala.com
+  - DOMAIN,oratosaeron.com
   - DOMAIN,orbengine.com
   - DOMAIN,orbitfour47.com
   - DOMAIN,orbowlada.strefa.pl
@@ -14421,6 +14428,7 @@ payload:
   - DOMAIN,pathlime.com
   - DOMAIN,patiskcontentdelivery.info
   - DOMAIN,patlgfvxkto.com
+  - DOMAIN,patoris.xyz
   - DOMAIN,paumoogo.net
   - DOMAIN,paupbxxmhh.com
   - DOMAIN,pave.elisecries.com
@@ -14917,6 +14925,7 @@ payload:
   - DOMAIN,popmog.com
   - DOMAIN,popmonetizer.com
   - DOMAIN,popmonetizer.net
+  - DOMAIN,popmyad.com
   - DOMAIN,popmyads.com
   - DOMAIN,popnc.com
   - DOMAIN,poponclick.com
@@ -22596,6 +22605,7 @@ payload:
   - DOMAIN,zygrlkimddjzd.com
   - DOMAIN,zyiis.net
   - DOMAIN,zyikzhgqzjyvgu.com
+  - DOMAIN,zylstina.xyz
   - DOMAIN,zymbrlgu.cn
   - DOMAIN,zypenetwork.com
   - DOMAIN,zyrdu.cruisingsmallship.com

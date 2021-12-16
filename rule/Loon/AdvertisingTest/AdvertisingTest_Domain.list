@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-15 22:59:29
+# UPDATED: 2021-12-16 10:27:44
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 42334
-# DOMAIN-SUFFIX: 92162
+# DOMAIN: 42344
+# DOMAIN-SUFFIX: 92186
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 135057
+# TOTAL: 135091
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -4991,6 +4991,7 @@ beiiwlreless.com
 beijing2shanghai.com
 beijingpifukeyiyuan.com
 beikehongbei.com
+beineiros.xyz
 beinstapro.com
 bejotlmrijxvor.com
 bekantounjioise.com
@@ -5364,6 +5365,7 @@ binancie.com
 binarybuzzer.com
 binaryindicatorpro.com
 binaryonlinewealth.com
+binaryoptions24h.com
 binaryoptionsmaximizer.com
 binaryoptionssystems.org
 binasmdul.com
@@ -5931,6 +5933,7 @@ brandsandproduct.com
 branovate.com
 brassrule.com
 brassyobedientcotangent.com
+bratfeldt.com
 brave-frontier-hack.com
 bravefrontiercheats.com
 bravenet.com
@@ -8134,6 +8137,7 @@ comcomsystems.com
 comdados.com
 comercialherby.com
 comexxxcxx.com
+comfortqatar.com
 comiculture.com
 comitecamaqua.com
 comlerosn.com
@@ -24511,6 +24515,7 @@ myaccount-ld.com
 myaccount-limits-manage.com
 myadstack.net
 myadstracking.xyz
+myadultagent.com
 myadultdiary.com
 myadultempire.com
 myaetherwalet.com
@@ -27451,6 +27456,7 @@ pathwaysranch.net
 patiencebearsessa.com
 patlgfvxkto.com
 patnahousing.com
+patoris.xyz
 patraglobal.com
 patriciadarosier.com
 patriciaycarlitos.com
@@ -36094,6 +36100,7 @@ triligenergy.com
 tripedrated.xyz
 triplequadturbo.com
 trippinger.com
+trislee.xyz
 trismendamko.com
 tritetongue.com
 triumphchinhhang.net
@@ -38534,6 +38541,7 @@ warnawira.com
 warneracademy.com
 warninginfo.xyz
 warofmercenarieshack.net
+warthunderhack.com
 wartunehack.net
 warwickvalleyliving.com
 waschbankcraft.org
@@ -39595,6 +39603,7 @@ www-gemini.com
 www-googletagmanager.l.google.com
 www-mvetherwallet.com
 www-myethervvallet.com
+www-myetherwallet.com
 www-service-appleld.com
 www-tb7c.pr0gramm.com
 www.0uk.net
@@ -42313,6 +42322,7 @@ zyikzhgqzjyvgu.com
 zykqvbxfdqbdvj.com
 zyleqnzmvupg.com
 zylokfmgrtzv.com
+zylstina.xyz
 zynga-poker-hack.net
 zynga-poker-hacks.com
 zyngapokerchips4free.com
@@ -54358,6 +54368,7 @@ zzzpooeaz-france.com
 .api.mobileanjian.com
 .api.mobitech-content.xyz
 .api.mobojoy.baidu.com
+.api.monedata.io
 .api.monedata.iomericreceiver.cellrebel.com
 .api.mp.uc.cn
 .api.muneris.io
@@ -56081,6 +56092,7 @@ zzzpooeaz-france.com
 .aypbpr.tokopedia.com
 .ayqxx.com
 .ayrovalcontain.info
+.aysccnn.cn
 .ayswrotesre.club
 .ayues.com
 .ayun.ltd
@@ -57887,6 +57899,7 @@ zzzpooeaz-france.com
 .bestwebdeal.net
 .bestwebpillplace.com
 .bestwing.org
+.bestwinterclck.name
 .bestzba.com
 .besucherstats.de
 .besucherzaehler-counter.de
@@ -60869,6 +60882,7 @@ zzzpooeaz-france.com
 .casalemedia.com
 .casalemedia.com.edgekey.net
 .casalmedia.com
+.casavasstamnoi.com
 .casbanlly.com
 .cascadehunterelton.com
 .cascadion.thermofisher.com
@@ -65876,6 +65890,7 @@ zzzpooeaz-france.com
 .custom.plausible.io
 .custom3hurricanedigitalmedia.com
 .customad.cnn.com
+.customads.co
 .customer-security.online
 .customer.heartinternet.co.uk
 .customer.io
@@ -73130,7 +73145,6 @@ zzzpooeaz-france.com
 .ext-stat.ru
 .ext.goguardian.com
 .ext.movixhub.com
-.ext.royalcactus.com
 .ext.theglobalweb.com
 .ext.week.news
 .exta-z.ru
@@ -74043,6 +74057,7 @@ zzzpooeaz-france.com
 .fengzhilu.cn
 .fenhao14.com
 .fenixm.com
+.fenkang.tech
 .fenqihome.com
 .fenrunwayradiant.com
 .fensifuligo.com
@@ -76599,6 +76614,7 @@ zzzpooeaz-france.com
 .genieessp.com
 .genieessp.jp
 .genieesspv.jp
+.genigh.com
 .genishury.pro
 .genistawabbler.com
 .geniusbanners.com
@@ -79573,6 +79589,7 @@ zzzpooeaz-france.com
 .hesxz.com
 .hetaint.com
 .hetapus.com
+.hetartwg.com
 .hetaruvg.com
 .hetaruwg.com
 .hetchi.com
@@ -82330,6 +82347,7 @@ zzzpooeaz-france.com
 .inaffiliago.it
 .inaftracker.com
 .inaharice.pw
+.inanemuseum.com
 .inapp.1sapp.com
 .inappadvertising.com
 .inarchang.site
@@ -89426,6 +89444,7 @@ zzzpooeaz-france.com
 .luolitang.com
 .luomanzhubao.cn
 .luomi.com
+.luopqsao.top
 .luoshenbest.cn
 .luotediao.net
 .luoyuanedu.cn
@@ -92777,6 +92796,7 @@ zzzpooeaz-france.com
 .metricfast.com
 .metricode.com
 .metricool.com
+.metricreceiver.cellrebel.com
 .metrics-api.librato.com
 .metrics-broker.prod.p.tf1.fr
 .metrics-cbslocal-com.cdn.ampproject.org
@@ -94345,6 +94365,7 @@ zzzpooeaz-france.com
 .mjnzmb.jasmine.ua
 .mjonkers.nl
 .mjpiqb.cn
+.mjrdficwuyy.top
 .mjs.csyymp4.com
 .mjsnvi.extraspace.com
 .mjsyqwpqnjbgua.com
@@ -95233,6 +95254,7 @@ zzzpooeaz-france.com
 .mown5gaze.com
 .mowuzoji.xyz
 .mowyappedbibs.com
+.moxiaoqihuoguo.com
 .moxiaoyang.top
 .moyangao.com
 .moyfoto.net
@@ -95357,6 +95379,7 @@ zzzpooeaz-france.com
 .mr087.cn
 .mr2cnjuh34jb.com
 .mr5aqoqlegsp.com
+.mradx.net
 .mrakosy.ru
 .mrbasic.com
 .mrclown.cn
@@ -98822,6 +98845,7 @@ zzzpooeaz-france.com
 .oei1.gq
 .oeitlgqjw.com
 .oek7.april-moto.com
+.oelco.cn
 .oem.cnrghj.cn
 .oende.cn
 .oeocriaq.cn
@@ -98837,6 +98861,8 @@ zzzpooeaz-france.com
 .oewa.at
 .oewabox.at
 .oewdfyhdfq.xyz
+.oey53uw-1ye.cn
+.oey53uw1ye.cn
 .oezto.com
 .ofapes.com
 .ofbjgf.com
@@ -102279,8 +102305,10 @@ zzzpooeaz-france.com
 .pick-savings.com
 .pickcard.info
 .picketwelcomeappreciation.com
+.picklesadamantempire.com
 .picksavings.com
 .pickuchu.com
+.pickupmorbid.com
 .pickytime.com
 .piclick.cn
 .piclick.kr
@@ -105694,6 +105722,7 @@ zzzpooeaz-france.com
 .qlpwqpvuw.com
 .qlqtnqlruou.com
 .qlssbq.cn
+.qlsvowqnbzu.com
 .qlubfrance.carte-gr.total.fr
 .qluutrppsh.com
 .qlzn6i1l.com
@@ -106142,7 +106171,6 @@ zzzpooeaz-france.com
 .r.kleertjes.com
 .r.mail.163.com
 .r.mail.ru
-.r.mradx.net
 .r.msn.com
 .r.my.com
 .r.myadx.net
@@ -106158,7 +106186,6 @@ zzzpooeaz-france.com
 .r.topdent.ru
 .r.toplaygame.ru
 .r.z2.fm
-.r0.mradx.net
 .r023m83skv5v.com
 .r0wa9z6t8t.ru
 .r1ztni.oui.sncf
@@ -107922,6 +107949,7 @@ zzzpooeaz-france.com
 .rjjtf.biz
 .rjk1.com
 .rjltpektsuqsu.com
+.rjnjjin.cn
 .rjr-rs.com.br
 .rjrrs.com.br
 .rjtpos.cn
@@ -108045,7 +108073,6 @@ zzzpooeaz-france.com
 .robiaa.com
 .robjamguy.club
 .robocat.me
-.robot.royalcactus.com
 .robotadserver.com
 .robotext.info
 .robotreplay.com
@@ -108277,6 +108304,7 @@ zzzpooeaz-france.com
 .roxyaffiliates.com
 .royal-cash.com
 .royalads.net
+.royalcactus.com
 .royalcount.de
 .royapp.com
 .rozamimo9za10.com
@@ -110194,6 +110222,7 @@ zzzpooeaz-france.com
 .sdk-configuration.gimbal.com
 .sdk-info.gimbal.com
 .sdk-log-inter.youdao.com
+.sdk-monitoring.ogury.co
 .sdk-resources.blinkreceipt.com
 .sdk.adincube.com
 .sdk.adsongo.com
@@ -110835,6 +110864,7 @@ zzzpooeaz-france.com
 .sensitivenessbuttons.com
 .sensitivenesscrummytea.com
 .sensor.org.ua
+.sensorcyclegloves.com
 .sensors.cloud.tencent.com
 .sensors.snappea.com
 .sensors.yodo1api.com
@@ -115283,6 +115313,7 @@ zzzpooeaz-france.com
 .sqlserverdriver.beesearch.info
 .sqm.telemetry.microsoft.com.nsatc.net
 .sqmydhk.cn
+.sqnrxhisgsmye.top
 .sqnwmwnwok.com
 .sqpgncbm.com
 .sqr3.xyz
@@ -115885,7 +115916,6 @@ zzzpooeaz-france.com
 .starkpropagandaattacks.com
 .starkunfinisheddestroyed.com
 .starlayer.com
-.starling-va.byteoversea.com
 .starlix.ql.st
 .starlizard.com.cn
 .starmobs.com
@@ -116204,6 +116234,7 @@ zzzpooeaz-france.com
 .static.bmob.cn
 .static.cdn.gtsmobi.com
 .static.clevertap.com
+.static.cloud.coveo.com
 .static.danmu.baofeng.com
 .static.diditaxi.com.cn
 .static.duoshuo.com
@@ -122356,6 +122387,7 @@ zzzpooeaz-france.com
 .tracker.thinkindot.com
 .tracker.timesgroup.com
 .tracker.tiu.ru
+.tracker.tubecj.com
 .tracker.tv.sohu.com
 .tracker.twenga.nl
 .tracker.twenga.pl
@@ -124780,6 +124812,7 @@ zzzpooeaz-france.com
 .undayblogg.club
 .undedfracted.club
 .undedsunbese.site
+.undens.com
 .under2given.com
 .underclick.ru
 .undercoverbatch.com
@@ -125160,6 +125193,7 @@ zzzpooeaz-france.com
 .upush.res.meizu.com
 .upxip.xyz
 .upz1.destinia.lt
+.uqakkye.cn
 .uqbmzwv.cn
 .uqcxdtodqv.xyz
 .uqfot.com
@@ -125984,7 +126018,6 @@ zzzpooeaz-france.com
 .vconf.f.360.cn
 .vcpcvmfnocsfay.com
 .vcrypt.net
-.vcs-va.byteoversea.com
 .vcslotoplay.com
 .vcsoat.cn
 .vcuor.com
@@ -126123,7 +126156,6 @@ zzzpooeaz-france.com
 .vergestatic.com
 .vergilimus.com
 .vericlick.com
-.verification-va.byteoversea.com
 .verified-extensions.com
 .verified.beefbooster.com
 .verifiedextensions.com
@@ -131260,6 +131292,7 @@ zzzpooeaz-france.com
 .xiaohuau.xyz
 .xiaohui2.cn
 .xiaokeaiapp.com
+.xiaokeji.club
 .xiaolipc.cn
 .xiaomeihq.info
 .xiaomengquan.cn
@@ -133717,6 +133750,7 @@ zzzpooeaz-france.com
 .zgty365.com
 .zgumwv.stepstone.de
 .zgunion.cn
+.zgvcfridw.com
 .zgvvx.com
 .zgwlbjy.cn
 .zgxrht.com

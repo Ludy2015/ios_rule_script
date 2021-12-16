@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-15 22:59:37
+# UPDATED: 2021-12-16 10:27:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 22610
+# DOMAIN: 22620
 # DOMAIN-SUFFIX: 13241
 # IP-CIDR: 158
 # DOMAIN-KEYWORD: 2
 # URL-REGEX: 296
-# TOTAL: 36307
+# TOTAL: 36317
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -130,6 +130,7 @@
 12dc71b7cb820f2a.com
 12i.cn
 12l22.net
+12mnkys.com
 12place.com
 12wd87h.top
 13190546cd1dec9bbdc.com
@@ -3158,6 +3159,7 @@ barjfzpdeqmwi.com
 baronsoffers.com
 barrister.org.cn
 basebanner.com
+baseniao.com.cn
 basepush.com
 basicstat.com
 basilic.io
@@ -3293,6 +3295,7 @@ begun.ru
 behavioralengine.com
 beholder.xyz
 behybmunweid.com
+beineiros.xyz
 beiyu.xin
 bejotlmrijxvor.com
 bekannt-im-web.de
@@ -3467,6 +3470,7 @@ bima.weathercn.com
 bimlocal.com
 bin-layer.de
 bin-layer.ru
+binaryoptions24h.com
 binchoise.ml
 bingo4affiliates.com
 bingohall.ag
@@ -6898,6 +6902,7 @@ elsad.tw
 elsbfby.com
 eltex.co.jp
 eluxer.net
+elwraek.xyz
 email-match.com
 email-reflex.com
 emailing.rfi.fr
@@ -12624,6 +12629,7 @@ mo.bsxr.com.cn
 mo.dfnbyn.top
 mo.drzd9.cn
 mo.grqf.com.cn
+mo.lbmx.com.cn
 mo.mktrkn.cn
 mo.mptckm.cn
 mo.oneshouyou.cn
@@ -14117,6 +14123,7 @@ oracleinfinity.io
 orangeads.fr
 oranges88.com
 orarala.com
+oratosaeron.com
 orbengine.com
 orbitfour47.com
 orbowlada.strefa.pl
@@ -14421,6 +14428,7 @@ pathful.com
 pathlime.com
 patiskcontentdelivery.info
 patlgfvxkto.com
+patoris.xyz
 paumoogo.net
 paupbxxmhh.com
 pave.elisecries.com
@@ -14917,6 +14925,7 @@ popmarker.com
 popmog.com
 popmonetizer.com
 popmonetizer.net
+popmyad.com
 popmyads.com
 popnc.com
 poponclick.com
@@ -22596,6 +22605,7 @@ zydvsvwgqqyxb.com
 zygrlkimddjzd.com
 zyiis.net
 zyikzhgqzjyvgu.com
+zylstina.xyz
 zymbrlgu.cn
 zypenetwork.com
 zyrdu.cruisingsmallship.com
