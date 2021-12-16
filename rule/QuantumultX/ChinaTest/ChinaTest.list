@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 10:27:41
-# HOST-SUFFIX: 68921
+# UPDATED: 2021-12-16 17:20:02
+# HOST-SUFFIX: 68922
 # USER-AGENT: 31
-# HOST: 98
+# HOST: 96
 # IP-CIDR: 14
 # IP6-CIDR: 4
 # HOST-KEYWORD: 1
-# TOTAL: 69069
+# TOTAL: 69068
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,a1.mzstatic.com,ChinaTest
@@ -42,7 +42,6 @@ HOST,dl.google.com,ChinaTest
 HOST,dl.l.google.com,ChinaTest
 HOST,doubleclick.net,ChinaTest
 HOST,emoi-cncdn.bing.com,ChinaTest
-HOST,firebase-settings.crashlytics.com,ChinaTest
 HOST,fonts.googleapis.com,ChinaTest
 HOST,fonts.gstatic.com,ChinaTest
 HOST,g1.gstatic.com,ChinaTest
@@ -87,7 +86,6 @@ HOST,regioninfo-pa.googleapis.com,ChinaTest
 HOST,s.mzstatic.com,ChinaTest
 HOST,safebrowsing-cache.google.com,ChinaTest
 HOST,safebrowsing.googleapis.com,ChinaTest
-HOST,settings.crashlytics.com,ChinaTest
 HOST,sms.imagetasks.com,ChinaTest
 HOST,ss.bjmu.edu.cn,ChinaTest
 HOST,ssl-google-analytics.l.google.com,ChinaTest
@@ -17814,6 +17812,7 @@ HOST-SUFFIX,crabchina.com,ChinaTest
 HOST-SUFFIX,crackersta.com,ChinaTest
 HOST-SUFFIX,craftcontact.com,ChinaTest
 HOST-SUFFIX,crandom.com,ChinaTest
+HOST-SUFFIX,crashlytics.com,ChinaTest
 HOST-SUFFIX,crazepony.com,ChinaTest
 HOST-SUFFIX,crazydyz.cc,ChinaTest
 HOST-SUFFIX,crazyenglish.org,ChinaTest

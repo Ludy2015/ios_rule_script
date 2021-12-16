@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 10:27:54
-# DOMAIN-SUFFIX: 68921
+# UPDATED: 2021-12-16 17:20:12
+# DOMAIN-SUFFIX: 68922
 # USER-AGENT: 31
-# DOMAIN: 98
+# DOMAIN: 96
 # IP-CIDR: 14
 # DOMAIN-KEYWORD: 1
-# TOTAL: 69065
+# TOTAL: 69064
 265.com
 2mdn.net
 a1.mzstatic.com
@@ -41,7 +41,6 @@ dl.google.com
 dl.l.google.com
 doubleclick.net
 emoi-cncdn.bing.com
-firebase-settings.crashlytics.com
 fonts.googleapis.com
 fonts.gstatic.com
 g1.gstatic.com
@@ -86,7 +85,6 @@ regioninfo-pa.googleapis.com
 s.mzstatic.com
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
-settings.crashlytics.com
 sms.imagetasks.com
 ss.bjmu.edu.cn
 ssl-google-analytics.l.google.com
@@ -17813,6 +17811,7 @@ www4-static.gog-statics.com
 .crackersta.com
 .craftcontact.com
 .crandom.com
+.crashlytics.com
 .crazepony.com
 .crazydyz.cc
 .crazyenglish.org

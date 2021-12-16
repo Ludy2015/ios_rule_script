@@ -10,15 +10,15 @@
 
 ## 规则统计
 
-总计规则：35838 条。
+总计规则：34936 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 35703 |
+| DOMAIN-SUFFIX | 34802 |
 | USER-AGENT | 12 |
-| DOMAIN | 32 |
+| DOMAIN | 31 |
 | IP-CIDR | 88 |
 | IP-CIDR6 | 3 |
 ## 配置说明
@@ -56,6 +56,10 @@ Proxy_Domain.list 请使用DOMAIN-SET。
 
 
 当前分流规则，未包含其他子规则。
+
+当前分流规则，已排除以下规则：
+
+- Advertising
 
 ## 数据来源
 
