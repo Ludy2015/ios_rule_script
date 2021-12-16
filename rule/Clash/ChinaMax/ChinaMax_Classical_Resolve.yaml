@@ -1,16 +1,17 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:48
-# DOMAIN-SUFFIX: 72595
+# UPDATED: 2021-12-17 02:10:43
+# DOMAIN-SUFFIX: 72606
 # PROCESS-NAME: 6
-# DOMAIN: 56
-# IP-CIDR: 6211
+# DOMAIN: 60
+# IP-CIDR: 6187
 # IP-CIDR6: 5529
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84398
+# TOTAL: 84389
 payload:
   - DOMAIN,265.com
+  - DOMAIN,analytics.strava.com
   - DOMAIN,c.android.clients.google.com
   - DOMAIN,cache.pack.google.com
   - DOMAIN,cdn.ampproject.org
@@ -44,6 +45,7 @@ payload:
   - DOMAIN,officecdn-microsoft-com.akamaized.net
   - DOMAIN,opencourse.pku.edu.cn
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  - DOMAIN,pagead-googlehosted.l.google.com
   - DOMAIN,pki-goog.l.google.com
   - DOMAIN,productcard.gog-statics.com
   - DOMAIN,recaptcha.net
@@ -52,6 +54,7 @@ payload:
   - DOMAIN,safebrowsing-cache.google.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,ss.bjmu.edu.cn
+  - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,static-login.gog-statics.com
   - DOMAIN,tesla-cdn.thron.cn
@@ -63,6 +66,7 @@ payload:
   - DOMAIN,update.googleapis.com
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,weizhiyundong.list
+  - DOMAIN,www-googletagmanager.l.google.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www4-static.gog-statics.com
@@ -1612,6 +1616,7 @@ payload:
   - DOMAIN-SUFFIX,166cdn.com
   - DOMAIN-SUFFIX,166dns.com
   - DOMAIN-SUFFIX,166ks.net
+  - DOMAIN-SUFFIX,166sh.com
   - DOMAIN-SUFFIX,166xs.cc
   - DOMAIN-SUFFIX,166zw.com
   - DOMAIN-SUFFIX,16768.com
@@ -2280,6 +2285,7 @@ payload:
   - DOMAIN-SUFFIX,1zsoft.com
   - DOMAIN-SUFFIX,1zu.com
   - DOMAIN-SUFFIX,1zw.com
+  - DOMAIN-SUFFIX,2-01-5830-0005.cdx.cedexis.net
   - DOMAIN-SUFFIX,2-class.com
   - DOMAIN-SUFFIX,2-mm.net
   - DOMAIN-SUFFIX,2.gy
@@ -20405,6 +20411,7 @@ payload:
   - DOMAIN-SUFFIX,dfss-club.com
   - DOMAIN-SUFFIX,dfstw.com
   - DOMAIN-SUFFIX,dfsyjm.com
+  - DOMAIN-SUFFIX,dftoutiao.com
   - DOMAIN-SUFFIX,dftq.net
   - DOMAIN-SUFFIX,dftzj.com
   - DOMAIN-SUFFIX,dfv5.net
@@ -21873,6 +21880,7 @@ payload:
   - DOMAIN-SUFFIX,duhao.net
   - DOMAIN-SUFFIX,dui.ai
   - DOMAIN-SUFFIX,dui1dui.com
+  - DOMAIN-SUFFIX,dui88.com
   - DOMAIN-SUFFIX,duia.com
   - DOMAIN-SUFFIX,duiai.com
   - DOMAIN-SUFFIX,duihuan123.com
@@ -22021,6 +22029,7 @@ payload:
   - DOMAIN-SUFFIX,dushu365.com
   - DOMAIN-SUFFIX,dushu369.com
   - DOMAIN-SUFFIX,dushudaren.com
+  - DOMAIN-SUFFIX,dushuge.net
   - DOMAIN-SUFFIX,dushuzhe.com
   - DOMAIN-SUFFIX,dushuzhong.com
   - DOMAIN-SUFFIX,dushw.com
@@ -27419,6 +27428,7 @@ payload:
   - DOMAIN-SUFFIX,gotoip2.com
   - DOMAIN-SUFFIX,gotoip3.com
   - DOMAIN-SUFFIX,gotoip4.com
+  - DOMAIN-SUFFIX,gotoip55.com
   - DOMAIN-SUFFIX,gotojp.net
   - DOMAIN-SUFFIX,gotokeep.com
   - DOMAIN-SUFFIX,gotonets.com
@@ -39454,6 +39464,7 @@ payload:
   - DOMAIN-SUFFIX,lbyczf.com
   - DOMAIN-SUFFIX,lbzuo.com
   - DOMAIN-SUFFIX,lc-cn-n1-npxfk.com
+  - DOMAIN-SUFFIX,lc-cn-n1-shared.com
   - DOMAIN-SUFFIX,lc-cn-n1-thovg.com
   - DOMAIN-SUFFIX,lc-news.com
   - DOMAIN-SUFFIX,lc123.net
@@ -51723,6 +51734,7 @@ payload:
   - DOMAIN-SUFFIX,scbyx.net
   - DOMAIN-SUFFIX,scbz.org
   - DOMAIN-SUFFIX,scbz120.com
+  - DOMAIN-SUFFIX,scc.ssacdn.com
   - DOMAIN-SUFFIX,scccyts.com
   - DOMAIN-SUFFIX,sccin.com
   - DOMAIN-SUFFIX,sccm.cc
@@ -56715,6 +56727,7 @@ payload:
   - DOMAIN-SUFFIX,taozaisheng.com
   - DOMAIN-SUFFIX,taozhutu.com
   - DOMAIN-SUFFIX,tapapis.com
+  - DOMAIN-SUFFIX,tapas.net
   - DOMAIN-SUFFIX,tapd.cn
   - DOMAIN-SUFFIX,tapdata.net
   - DOMAIN-SUFFIX,tapechat.net
@@ -60200,6 +60213,7 @@ payload:
   - DOMAIN-SUFFIX,videougc.com
   - DOMAIN-SUFFIX,videoyi.com
   - DOMAIN-SUFFIX,videoyx.com
+  - DOMAIN-SUFFIX,videozhishi.com
   - DOMAIN-SUFFIX,vidoadsplus.xyz
   - DOMAIN-SUFFIX,vienblog.com
   - DOMAIN-SUFFIX,viewones.com
@@ -62170,6 +62184,7 @@ payload:
   - DOMAIN-SUFFIX,whnatural.com
   - DOMAIN-SUFFIX,whnfc.com
   - DOMAIN-SUFFIX,whngd.org
+  - DOMAIN-SUFFIX,whoami.akamai.net
   - DOMAIN-SUFFIX,whoceansys.com
   - DOMAIN-SUFFIX,whocool.com
   - DOMAIN-SUFFIX,whoil.net
@@ -74708,7 +74723,6 @@ payload:
   - IP-CIDR,107.176.0.0/15
   - IP-CIDR,107.6.231.0/24
   - IP-CIDR,107.6.240.0/24
-  - IP-CIDR,109.197.200.0/22
   - IP-CIDR,109.244.0.0/16
   - IP-CIDR,109.71.4.0/24
   - IP-CIDR,110.152.0.0/14
@@ -75502,7 +75516,6 @@ payload:
   - IP-CIDR,125.98.0.0/16
   - IP-CIDR,128.1.62.200/31
   - IP-CIDR,128.108.0.0/16
-  - IP-CIDR,128.75.237.0/24
   - IP-CIDR,129.204.0.0/16
   - IP-CIDR,129.211.0.0/16
   - IP-CIDR,129.223.254.0/24
@@ -76035,8 +76048,6 @@ payload:
   - IP-CIDR,194.138.136.0/24
   - IP-CIDR,194.138.202.0/23
   - IP-CIDR,194.138.245.0/24
-  - IP-CIDR,194.186.221.0/24
-  - IP-CIDR,194.186.78.0/24
   - IP-CIDR,195.142.215.0/24
   - IP-CIDR,197.199.0.0/18
   - IP-CIDR,197.210.163.0/24
@@ -77705,11 +77716,6 @@ payload:
   - IP-CIDR,212.64.0.0/17
   - IP-CIDR,213.199.169.0/24
   - IP-CIDR,213.255.231.0/24
-  - IP-CIDR,217.118.66.0/24
-  - IP-CIDR,217.118.68.0/22
-  - IP-CIDR,217.118.72.0/22
-  - IP-CIDR,217.118.76.0/23
-  - IP-CIDR,217.118.88.0/23
   - IP-CIDR,218.0.0.0/11
   - IP-CIDR,218.100.128.0/17
   - IP-CIDR,218.100.96.0/19
@@ -77945,8 +77951,6 @@ payload:
   - IP-CIDR,27.99.128.0/17
   - IP-CIDR,3.5.214.0/23
   - IP-CIDR,3.5.216.0/24
-  - IP-CIDR,31.13.146.0/23
-  - IP-CIDR,31.13.148.0/22
   - IP-CIDR,36.0.0.0/22
   - IP-CIDR,36.0.128.0/17
   - IP-CIDR,36.0.16.0/20
@@ -77989,8 +77993,6 @@ payload:
   - IP-CIDR,36.69.32.0/19
   - IP-CIDR,36.69.64.0/18
   - IP-CIDR,36.96.0.0/11
-  - IP-CIDR,37.9.240.0/22
-  - IP-CIDR,37.9.247.0/24
   - IP-CIDR,38.126.127.0/24
   - IP-CIDR,38.142.239.114/32
   - IP-CIDR,39.0.0.0/24
@@ -78656,9 +78658,7 @@ payload:
   - IP-CIDR,45.65.16.0/20
   - IP-CIDR,45.87.53.0/24
   - IP-CIDR,45.87.54.0/23
-  - IP-CIDR,46.16.96.0/21
   - IP-CIDR,46.248.24.0/23
-  - IP-CIDR,46.250.52.0/22
   - IP-CIDR,47.235.0.0/16
   - IP-CIDR,47.236.0.0/14
   - IP-CIDR,47.240.0.0/14
@@ -78825,7 +78825,6 @@ payload:
   - IP-CIDR,67.198.192.0/23
   - IP-CIDR,67.198.195.0/24
   - IP-CIDR,67.198.199.0/24
-  - IP-CIDR,67.198.201.0/24
   - IP-CIDR,67.198.207.0/24
   - IP-CIDR,67.198.208.0/24
   - IP-CIDR,67.198.221.0/24
@@ -78858,16 +78857,8 @@ payload:
   - IP-CIDR,81.52.161.0/24
   - IP-CIDR,81.68.0.0/14
   - IP-CIDR,82.156.0.0/15
-  - IP-CIDR,83.220.225.0/24
-  - IP-CIDR,83.220.226.0/24
-  - IP-CIDR,83.220.232.0/22
-  - IP-CIDR,83.220.240.0/20
-  - IP-CIDR,85.115.236.0/22
-  - IP-CIDR,85.115.246.0/24
-  - IP-CIDR,85.115.252.0/22
   - IP-CIDR,85.97.220.0/22
   - IP-CIDR,87.254.207.0/24
-  - IP-CIDR,89.113.0.0/20
   - IP-CIDR,89.19.34.0/23
   - IP-CIDR,91.234.36.0/24
   - IP-CIDR,93.183.14.0/24
