@@ -1,9 +1,9 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-17 13:21:25
+# UPDATED: 2021-12-18 02:10:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 35897
+# DOMAIN-SUFFIX: 36057
 # USER-AGENT: 78
 # DOMAIN: 48
 # IP-CIDR: 1196
@@ -11,7 +11,7 @@
 # PROCESS-NAME: 56
 # DOMAIN-KEYWORD: 6
 # URL-REGEX: 8
-# TOTAL: 37320
+# TOTAL: 37480
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
