@@ -1,17 +1,16 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-17 02:10:42
+# UPDATED: 2021-12-17 13:21:25
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72606
+# DOMAIN-SUFFIX: 72596
 # PROCESS-NAME: 6
-# DOMAIN: 60
-# IP-CIDR: 6187
-# IP-CIDR6: 5529
+# DOMAIN: 56
+# IP-CIDR: 6188
+# IP-CIDR6: 5536
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84451
+# TOTAL: 84445
 265.com
-analytics.strava.com
 c.android.clients.google.com
 cache.pack.google.com
 cdn.ampproject.org
@@ -45,7 +44,6 @@ ocsp.pki.goog
 officecdn-microsoft-com.akamaized.net
 opencourse.pku.edu.cn
 p16-tiktokcdn-com.akamaized.net
-pagead-googlehosted.l.google.com
 pki-goog.l.google.com
 productcard.gog-statics.com
 recaptcha.net
@@ -54,7 +52,6 @@ regioninfo-pa.googleapis.com
 safebrowsing-cache.google.com
 sms.imagetasks.com
 ss.bjmu.edu.cn
-ssl-google-analytics.l.google.com
 ssl.gstatic.com
 static-login.gog-statics.com
 tesla-cdn.thron.cn
@@ -66,7 +63,6 @@ translation.googleapis.com
 update.googleapis.com
 uplaypc-s-ubisoft.cdn.ubi.com
 weizhiyundong.list
-www-googletagmanager.l.google.com
 www.gstatic.com
 www.recaptcha.net
 www4-static.gog-statics.com
@@ -1616,7 +1612,6 @@ www4-static.gog-statics.com
 .166cdn.com
 .166dns.com
 .166ks.net
-.166sh.com
 .166xs.cc
 .166zw.com
 .16768.com
@@ -2285,7 +2280,6 @@ www4-static.gog-statics.com
 .1zsoft.com
 .1zu.com
 .1zw.com
-.2-01-5830-0005.cdx.cedexis.net
 .2-class.com
 .2-mm.net
 .2.gy
@@ -20411,7 +20405,6 @@ www4-static.gog-statics.com
 .dfss-club.com
 .dfstw.com
 .dfsyjm.com
-.dftoutiao.com
 .dftq.net
 .dftzj.com
 .dfv5.net
@@ -21880,7 +21873,6 @@ www4-static.gog-statics.com
 .duhao.net
 .dui.ai
 .dui1dui.com
-.dui88.com
 .duia.com
 .duiai.com
 .duihuan123.com
@@ -22029,7 +22021,6 @@ www4-static.gog-statics.com
 .dushu365.com
 .dushu369.com
 .dushudaren.com
-.dushuge.net
 .dushuzhe.com
 .dushuzhong.com
 .dushw.com
@@ -27428,7 +27419,6 @@ www4-static.gog-statics.com
 .gotoip2.com
 .gotoip3.com
 .gotoip4.com
-.gotoip55.com
 .gotojp.net
 .gotokeep.com
 .gotonets.com
@@ -28522,6 +28512,7 @@ www4-static.gog-statics.com
 .hackhw.com
 .hacking-linux.com
 .hacking8.com
+.hackinn.com
 .hackline.net
 .hacknical.com
 .hackp.com
@@ -39464,7 +39455,6 @@ www4-static.gog-statics.com
 .lbyczf.com
 .lbzuo.com
 .lc-cn-n1-npxfk.com
-.lc-cn-n1-shared.com
 .lc-cn-n1-thovg.com
 .lc-news.com
 .lc123.net
@@ -51734,7 +51724,6 @@ www4-static.gog-statics.com
 .scbyx.net
 .scbz.org
 .scbz120.com
-.scc.ssacdn.com
 .scccyts.com
 .sccin.com
 .sccm.cc
@@ -56727,7 +56716,6 @@ www4-static.gog-statics.com
 .taozaisheng.com
 .taozhutu.com
 .tapapis.com
-.tapas.net
 .tapd.cn
 .tapdata.net
 .tapechat.net
@@ -60213,7 +60201,6 @@ www4-static.gog-statics.com
 .videougc.com
 .videoyi.com
 .videoyx.com
-.videozhishi.com
 .vidoadsplus.xyz
 .vienblog.com
 .viewones.com
@@ -62184,7 +62171,6 @@ www4-static.gog-statics.com
 .whnatural.com
 .whnfc.com
 .whngd.org
-.whoami.akamai.net
 .whoceansys.com
 .whocool.com
 .whoil.net

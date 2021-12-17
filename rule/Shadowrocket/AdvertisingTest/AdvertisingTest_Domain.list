@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:50
+# UPDATED: 2021-12-17 13:21:30
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 42344
-# DOMAIN-SUFFIX: 92186
+# DOMAIN: 42352
+# DOMAIN-SUFFIX: 92217
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # URL-REGEX: 302
-# TOTAL: 135090
+# TOTAL: 135129
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -6995,6 +6995,7 @@ cepteteb-bonus.com
 cepteteb-tr.com
 ceptetebkampanyaonay.com
 ceqlw.saqibsiddiqui.com
+ceramicprolascruces.com
 cerberhhyed5frqa.305iot.top
 cerberhhyed5frqa.cmr95i.top
 cerberhhyed5frqa.cneo59.top
@@ -13957,6 +13958,7 @@ freegiftcode.com
 freegiftcodegenerator.com
 freegoogleplaycodes.com
 freeguildwars.com
+freehack-softwares.com
 freehackandbots.com
 freehackingtools24.com
 freehackpl.com
@@ -18616,6 +18618,7 @@ inputs.alooma.com
 insanepays.com
 insanity2.thezeroworld.com
 insbrvwfrcgb.com
+insdrbot.com
 insect-collector.com
 inside.unbounce.com
 insidewestnile.com
@@ -21255,6 +21258,7 @@ laserhairremovalstore.com
 laserstrength.com
 lashaucu.net
 lashawnbarber.com
+lashopdone.com
 lasierrecilla.com
 laslomaspta.com
 lasosheriff.org
@@ -21742,6 +21746,7 @@ limpezadefossas.com
 limpingline.com
 linconpark.com
 lindsaykphotography.net
+lindysmithphotography.com
 line-xpress.com
 line.beike188.com
 linenghb.com
@@ -25576,6 +25581,7 @@ nishagopal.com
 nishkampolishsewakjatha.com
 nissan-datsunsolo.com
 nitrohacks.com
+nitsche.top
 nittlopp.online
 niuosnd.ru
 niusifan.com
@@ -31874,6 +31880,7 @@ security-account-block.com
 security-alert.th8fp9.top
 security-bankofireland.com
 security-notifications.com
+security-paypal.com
 security-support-nab.com
 security-update-chase04.com
 securityaccountapple-id.com
@@ -32889,6 +32896,7 @@ smapohsnoww.com
 smart-feed-online.com
 smart-help-online.com
 smart-m-system.com
+smart.arrowlauncher.com
 smart.brvaffs.com
 smart.hola.com
 smart.tinyhoneybee.com
@@ -46260,9 +46268,6 @@ zzzpooeaz-france.com
 .ablatesgascon.cam
 .ablebodiedcool.com
 .ablehed.pro
-.ablen03.tk
-.ablen05.tk
-.ablen11.tk
 .ablenctionalle.info
 .ablerivetdoubted.com
 .ablesasme.co
@@ -52347,6 +52352,7 @@ zzzpooeaz-france.com
 .aidsro.ostin.com
 .aidstirring.com
 .aiea6gaza.com
+.aifaka.cc
 .aifei.info
 .aifei0755.net
 .aifenka.cn
@@ -55454,6 +55460,7 @@ zzzpooeaz-france.com
 .assurancelocusmat.com
 .assurancemercysneak.com
 .assuremath.com
+.ast2ya4ee8wtnax.com
 .astancerta.fun
 .astat.appmifile.com
 .astat.nikkei.co.jp
@@ -57639,6 +57646,7 @@ zzzpooeaz-france.com
 .beilamusi.com
 .beintoo.com
 .beiren.xyz
+.beisb.com
 .beishangdichan.com
 .beitd.com
 .beiven.pw
@@ -57648,6 +57656,7 @@ zzzpooeaz-france.com
 .beixcw.cn
 .beiyc.com
 .beiyu.xin
+.beiyz.com
 .beizhoujt.cn
 .beizkw.cn
 .beiztw.cn
@@ -58938,6 +58947,7 @@ zzzpooeaz-france.com
 .bogscarcely.com
 .boguetrust.com
 .bogusadmiral.com
+.bogwoodleprosy.com
 .bogytoeelf.com
 .bohowhepsandked.info
 .bohuaqiche.com
@@ -59109,6 +59119,7 @@ zzzpooeaz-france.com
 .boringberry.com
 .boringcoat.com
 .boriouseruwer.info
+.boriskink.com
 .bornobid.com
 .bororango.com
 .boroskola.info
@@ -61085,6 +61096,7 @@ zzzpooeaz-france.com
 .cbtrk.net
 .cbuacategic.xyz
 .cbxe1r.cn
+.cbxxlecddlrd.com
 .cby521.cn
 .cby521.com
 .cbyckdf.cn
@@ -61914,6 +61926,7 @@ zzzpooeaz-france.com
 .charitablepausing.com
 .charles.huqindustries.co.uk
 .charlesfc.com
+.charleslee.cc
 .charlizetheron.1stok.com
 .charltonmedia.com
 .charmeddipware.com
@@ -63041,6 +63054,7 @@ zzzpooeaz-france.com
 .clientsviolet.com
 .clietns-download.com
 .clietnsdownload.com
+.clifads.com
 .clikerz.net
 .cliksolution.com
 .climbcoder.com
@@ -65268,6 +65282,7 @@ zzzpooeaz-france.com
 .cqdzjc.com
 .cqerbihou.com
 .cqfangduan.com
+.cqfnvznw.info
 .cqftonline.com
 .cqgya.com
 .cqhciif9bjtplrc.ru
@@ -66994,7 +67009,6 @@ zzzpooeaz-france.com
 .daretodreamfarm.com
 .daringprobablywithin.com
 .darkenedshrine.com
-.darking01.tk
 .darmowe-liczniki.info
 .darmowe-zakupy.com
 .darmoweliczniki.info
@@ -69351,6 +69365,7 @@ zzzpooeaz-france.com
 .doveprovidingyear.com
 .dovewallet.com
 .dowelsobject.com
+.dowfbrodder.com
 .dowhatyouneed.com
 .down-paradise.com
 .down.360.cn
@@ -72272,6 +72287,7 @@ zzzpooeaz-france.com
 .erileni.ru
 .eringassumpt.club
 .eriniquep.club
+.erinitesorchin.com
 .erkaseriilan.com.tr
 .erkchpofubojfm.com
 .erkesi.cn
@@ -74089,6 +74105,7 @@ zzzpooeaz-france.com
 .fertilitycommand.com
 .fertilizeranaemiaupcoming.com
 .fertilizermessyshortcut.com
+.ferulaecharger.com
 .fervortracer.com
 .fessmegilscha.info
 .fessoovy.com
@@ -75192,6 +75209,7 @@ zzzpooeaz-france.com
 .framentyder.pro
 .frameptp.com
 .framespinchambiguous.com
+.frameworkdeserve.com
 .france.alphabet.com
 .franchemduty.work
 .franchiserecruitment.bakersdelight.com.au
@@ -75416,7 +75434,6 @@ zzzpooeaz-france.com
 .freshnews.su
 .freshplum.com
 .freshrefresher.com
-.freshrefreshnerer186rb.info
 .freshsaladtoday.com
 .freshvideo.com
 .fresnel-events.vimeocdn.com
@@ -76556,6 +76573,7 @@ zzzpooeaz-france.com
 .geebicom.net
 .geede.info
 .geedoovu.net
+.geeksundigne.com
 .geepwnfly.club
 .geesopso.net
 .geethoap.com
@@ -78812,6 +78830,7 @@ zzzpooeaz-france.com
 .h51.com
 .h5e6d5.xyz
 .h5jww.com
+.h5log.zongheng.com
 .h5tjj3loy2.com
 .h5v.eu
 .h6295.com
@@ -79567,6 +79586,7 @@ zzzpooeaz-france.com
 .herofandhist.info
 .heroinnever.com
 .heroismyouroutnumber.com
+.herominers.com
 .heron.joel.is
 .heron.notability.com
 .herpes.1.p2l.info
@@ -79613,6 +79633,7 @@ zzzpooeaz-france.com
 .heyad.xyz
 .heygugu.com
 .heyhelga.net
+.heyi.shop
 .heylink.com
 .heylookhere.top
 .heyloyalty.com
@@ -80314,6 +80335,7 @@ zzzpooeaz-france.com
 .hometownlow.com
 .homewares.org
 .homeyloanedmes.work
+.homfen.me
 .homicidearousedhand.com
 .homify.com.mx
 .homrus.net
@@ -81710,7 +81732,6 @@ zzzpooeaz-france.com
 .ihosetch.com
 .ihowed.info
 .ihpsfd.jusnet.co.jp
-.ihreapotheken.de
 .ihuajian.com
 .ihualun.com
 .ihuanmei.com
@@ -82914,6 +82935,7 @@ zzzpooeaz-france.com
 .ingivergrimier.com
 .ingoinghitchstick.com
 .ingoomychan.com
+.ingorob.com
 .ingpercent.biz
 .ingprographyt.info
 .ingratitudedaintyblockade.com
@@ -83018,7 +83040,6 @@ zzzpooeaz-france.com
 .insanestudiedrick.com
 .insanityoh.com
 .inscriptionothernarcotic.com
-.insdrbot.com
 .insectadvertisesecretly.com
 .insectdatabasesignificantly.com
 .insenz.com
@@ -83627,6 +83648,7 @@ zzzpooeaz-france.com
 .irritatebeing.com
 .irritatecheaplyintrigue.com
 .irritatehopper.com
+.irritationburlydusk.com
 .irrrymucwxjl.ru
 .irs01.com
 .irs01.net
@@ -84616,6 +84638,7 @@ zzzpooeaz-france.com
 .jiyuanzixun.com
 .jiztini.com
 .jizzads.com
+.jizzensirrah.com
 .jizzy.org
 .jj.198dh.cn
 .jj0453.com
@@ -86801,6 +86824,7 @@ zzzpooeaz-france.com
 .l2ksixujfcg5.com
 .l2wisd9g5d9u.com
 .l30od.cn
+.l33tsite.info
 .l3g3media.com
 .l3op.info
 .l4elb.cn
@@ -95378,7 +95402,6 @@ zzzpooeaz-france.com
 .mr087.cn
 .mr2cnjuh34jb.com
 .mr5aqoqlegsp.com
-.mradx.net
 .mrakosy.ru
 .mrbasic.com
 .mrclown.cn
@@ -96444,7 +96467,6 @@ zzzpooeaz-france.com
 .nawpush.com
 .naxnet.or.jp
 .naytev.com
-.nazarickol.com
 .nazhenkj.com
 .nb.5.p2l.info
 .nb.myspace.com
@@ -97455,7 +97477,6 @@ zzzpooeaz-france.com
 .nitrogenpleahierarchy.com
 .nitropay.com
 .nitsano.ru
-.nitsche.top
 .nityannoun.top
 .nitytolearnan.biz
 .niubiba.com
@@ -97750,6 +97771,7 @@ zzzpooeaz-france.com
 .normkela.com
 .normugtog.com
 .nornelis.pw
+.norseltraheen.com
 .nortaumi.net
 .norteevu.com
 .northbase.club
@@ -98387,6 +98409,7 @@ zzzpooeaz-france.com
 .nzmeads.co.nz
 .nzmelistings.co.nz
 .nzmkzl.mytheresa.com
+.nznxgecb.com
 .nzopiswswp.com
 .nzphoenix.com
 .nzq5.u95ivu.xyz
@@ -100167,6 +100190,7 @@ zzzpooeaz-france.com
 .oribi.io
 .oriel.io
 .orientneedlehurts.com
+.origaniberes.com
 .origer.info
 .origin-tracking.trulia.com
 .origin.chron.com
@@ -104047,6 +104071,7 @@ zzzpooeaz-france.com
 .proadvert.de
 .proadvertising.com
 .probabilidades.net
+.probablpatas.com
 .problem-check-700.com
 .problemcheck700.com
 .problemsroadsideparticularly.com
@@ -104865,6 +104890,7 @@ zzzpooeaz-france.com
 .pulpyads.com
 .puls.lv
 .pulsar.ebay.com
+.pulsarback.mail.ru
 .pulse.delta.com
 .pulse.svod.aetnd.com
 .pulse360.com
@@ -105822,6 +105848,7 @@ zzzpooeaz-france.com
 .qqm98.com
 .qqmilk.ru
 .qqppz.com
+.qqq123987.site
 .qqqmmm.top
 .qqqwes.com
 .qqqyuz.madoross.com
@@ -106071,6 +106098,7 @@ zzzpooeaz-france.com
 .qvorcqfon.com
 .qvpublish.com
 .qvuehosxuzhagv.com
+.qvvoom.com
 .qw.baidu.com
 .qwa3ldhn9u0t.com
 .qwcp5tza48tt.xpollinate.io
@@ -106170,6 +106198,7 @@ zzzpooeaz-france.com
 .r.kleertjes.com
 .r.mail.163.com
 .r.mail.ru
+.r.mradx.net
 .r.msn.com
 .r.my.com
 .r.myadx.net
@@ -106185,6 +106214,7 @@ zzzpooeaz-france.com
 .r.topdent.ru
 .r.toplaygame.ru
 .r.z2.fm
+.r0.mradx.net
 .r023m83skv5v.com
 .r0wa9z6t8t.ru
 .r1ztni.oui.sncf
@@ -108637,6 +108667,7 @@ zzzpooeaz-france.com
 .runtime.lemonpi.io
 .runtnc.net
 .runtujs.com
+.runwaff.com
 .rup5.destinia.ru
 .ruschopi.ru
 .ruscontext.com
@@ -108885,6 +108916,7 @@ zzzpooeaz-france.com
 .s.infogram.com
 .s.insidehalton.com
 .s.insideottawavalley.com
+.s.izrnvo.com
 .s.jandan.com
 .s.jlminte.com
 .s.justblinds.com
@@ -109663,6 +109695,7 @@ zzzpooeaz-france.com
 .sat.public.bd.313.nl
 .sat.sanoma.fi
 .satcityads.com
+.satisfactorilybewitchgreatness.com
 .satisfactorydipforeman.com
 .satisfactoryviolin.com
 .satisfycork.com
@@ -112359,6 +112392,7 @@ zzzpooeaz-france.com
 .slrviazqkilu.com
 .sls2.loisirsencheres.com
 .slshiye.cn
+.sltcp.cn
 .sltint.adv.ott.cibntv.net
 .slug.vatsim.uk
 .sluhcvyzgd.com
@@ -116343,6 +116377,7 @@ zzzpooeaz-france.com
 .statistic.imgpay.ru
 .statistic.qzone.qq.com
 .statistic.takungpao.com
+.statistic2.reichelt.de
 .statistiche-free.com
 .statistiche-web.com
 .statistiche.it
@@ -119208,7 +119243,6 @@ zzzpooeaz-france.com
 .taxmartbrevity.com
 .taxodiu2m2dis7tichum.com
 .taxzcqghel.com
-.tazm9p7tso.trade
 .tb.code.twyxi.com
 .tb.turbocap.net
 .tba4.cn
@@ -120759,6 +120793,7 @@ zzzpooeaz-france.com
 .tljivh.com
 .tll54g7.cn
 .tlmybj.cn
+.tlngnashes.com
 .tlocatering.club
 .tlootas.org
 .tlp5.mimale.com
@@ -123069,7 +123104,6 @@ zzzpooeaz-france.com
 .traffic-redirecting.com
 .traffic-stats.streamsolutions.co.uk
 .traffic-supremacy.com
-.traffic-tech-service.info
 .traffic-updates.info
 .traffic.acwebconnecting.com
 .traffic.buyservices.com
@@ -123236,6 +123270,7 @@ zzzpooeaz-france.com
 .tramadol.4.p2l.info
 .tramadol2006.3xforum.ro
 .tramate.ru
+.tramcarnamby.cam
 .trampreliablediligence.com
 .tran.news.so.com
 .trandlife.info
@@ -124688,7 +124723,6 @@ zzzpooeaz-france.com
 .ultimatecounter.com
 .ultimatefashiongifts.com
 .ultimowraxle.com
-.ultra-cdn.pl
 .ultra2.tsinghua.edu.cn
 .ultraadserver.com
 .ultrabestportal.com
@@ -125021,6 +125055,7 @@ zzzpooeaz-france.com
 .unusedstone.com
 .unusualneighbor.com
 .unusualtitle.com
+.unvexedmehari.com
 .unwashedsound.com
 .unwieldyhealth.com
 .unwillingcalumny.com
@@ -126007,6 +126042,7 @@ zzzpooeaz-france.com
 .vchat.essaygator.net
 .vchim.com
 .vchiy.com
+.vciayrf.cn
 .vcipo.info
 .vclick.vn
 .vclicks.net
@@ -126582,6 +126618,7 @@ zzzpooeaz-france.com
 .vilaghelyzete.blogspot.com
 .vilagpolgarok.blogspot.hu
 .vilagunk.hu
+.vilelaaccable.com
 .vilercarpetfolk.com
 .viliaff.com
 .villagarden.pl
@@ -127123,6 +127160,7 @@ zzzpooeaz-france.com
 .vptlrn.sportspar.de
 .vpvsy.com
 .vpyqdlrweoc.com
+.vpzccwpyilvoyg.ru
 .vq1qi.pw
 .vq40567.com
 .vq6nsu.cn
@@ -128709,7 +128747,6 @@ zzzpooeaz-france.com
 .whycywhivu.pro
 .whynotyesterday.com
 .whypillyellow.com
-.whysoserius.cl
 .whysoserius.club
 .whytoss.com
 .whyxqoc.cn
@@ -128998,6 +129035,7 @@ zzzpooeaz-france.com
 .winfoxflip.com
 .winfreeprize.online
 .wingads.com
+.wingerssetiger.com
 .wingersunbrand.com
 .wingouco.club
 .wingsenormous.com
@@ -133719,6 +133757,7 @@ zzzpooeaz-france.com
 .zfsfkp.com
 .zfvadntnx.com
 .zfvklk.ru
+.zfw.me
 .zfzhwz.hema.nl
 .zg.mmyuer.com
 .zg40c.cn

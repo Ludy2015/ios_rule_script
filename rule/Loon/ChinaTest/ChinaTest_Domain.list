@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:42
-# DOMAIN-SUFFIX: 68967
+# UPDATED: 2021-12-17 13:21:26
+# DOMAIN-SUFFIX: 68968
 # USER-AGENT: 31
 # DOMAIN: 81
 # IP-CIDR: 14
 # IP-CIDR6: 4
 # DOMAIN-KEYWORD: 1
-# TOTAL: 69098
+# TOTAL: 69099
 265.com
 2mdn.net
 adservice.google.com
@@ -26982,6 +26982,7 @@ www4-static.gog-statics.com
 .hackhw.com
 .hacking-linux.com
 .hacking8.com
+.hackinn.com
 .hackline.net
 .hacknical.com
 .hackp.com

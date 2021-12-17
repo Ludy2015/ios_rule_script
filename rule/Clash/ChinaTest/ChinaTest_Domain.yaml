@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:46
-# DOMAIN-SUFFIX: 68967
+# UPDATED: 2021-12-17 13:21:28
+# DOMAIN-SUFFIX: 68968
 # DOMAIN: 81
 # IP-CIDR: 14
 # IP-CIDR6: 4
 # DOMAIN-KEYWORD: 1
-# TOTAL: 69067
+# TOTAL: 69068
 payload:
   - '265.com'
   - '2mdn.net'
@@ -26982,6 +26982,7 @@ payload:
   - '+.hackhw.com'
   - '+.hacking-linux.com'
   - '+.hacking8.com'
+  - '+.hackinn.com'
   - '+.hackline.net'
   - '+.hacknical.com'
   - '+.hackp.com'
