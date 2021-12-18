@@ -1,12 +1,12 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-18 02:10:33
-# DOMAIN-SUFFIX: 34085
+# UPDATED: 2021-12-19 02:10:30
+# DOMAIN-SUFFIX: 34086
 # DOMAIN: 20
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34196
+# TOTAL: 34197
 payload:
   - IP-CIDR,1.201.0.0/24
   - IP-CIDR,103.2.28.0/22

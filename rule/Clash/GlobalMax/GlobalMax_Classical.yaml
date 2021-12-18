@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-18 02:10:33
-# DOMAIN-SUFFIX: 36057
+# UPDATED: 2021-12-19 02:10:31
+# DOMAIN-SUFFIX: 36058
 # DOMAIN: 48
 # IP-CIDR: 1196
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # DOMAIN-KEYWORD: 6
-# TOTAL: 37394
+# TOTAL: 37395
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,api-p014.ribob01.net
@@ -27897,6 +27897,7 @@ payload:
   - DOMAIN-SUFFIX,typepad.com
   - DOMAIN-SUFFIX,typesquare.com
   - DOMAIN-SUFFIX,typography.com
+  - DOMAIN-SUFFIX,typora.io
   - DOMAIN-SUFFIX,u.cc.st
   - DOMAIN-SUFFIX,u.f-q.me
   - DOMAIN-SUFFIX,u.fq.me

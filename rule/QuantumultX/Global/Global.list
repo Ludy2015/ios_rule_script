@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:40
-# HOST-SUFFIX: 26557
+# UPDATED: 2021-12-19 02:10:27
+# HOST-SUFFIX: 26558
 # USER-AGENT: 49
 # HOST: 28
 # IP-CIDR: 129
 # IP6-CIDR: 4
 # HOST-KEYWORD: 1
-# TOTAL: 26768
+# TOTAL: 26769
 HOST,amp-api.podcasts.apple.com,Global
 HOST,apple.comscoreresearch.com,Global
 HOST,appleid.apple.com,Global
@@ -19379,6 +19379,7 @@ HOST-SUFFIX,typcn.com,Global
 HOST-SUFFIX,typekit.net,Global
 HOST-SUFFIX,typepad.com,Global
 HOST-SUFFIX,typography.com,Global
+HOST-SUFFIX,typora.io,Global
 HOST-SUFFIX,u.cc.st,Global
 HOST-SUFFIX,u.f-q.me,Global
 HOST-SUFFIX,u.fq.me,Global

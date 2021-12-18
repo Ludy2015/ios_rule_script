@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-18 02:10:30
-# HOST-SUFFIX: 36057
+# UPDATED: 2021-12-19 02:10:27
+# HOST-SUFFIX: 36058
 # USER-AGENT: 78
 # HOST: 48
 # IP-CIDR: 1196
 # IP6-CIDR: 31
 # HOST-KEYWORD: 6
-# TOTAL: 37416
+# TOTAL: 37417
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -27896,6 +27896,7 @@ HOST-SUFFIX,typenetwork.com,GlobalMax
 HOST-SUFFIX,typepad.com,GlobalMax
 HOST-SUFFIX,typesquare.com,GlobalMax
 HOST-SUFFIX,typography.com,GlobalMax
+HOST-SUFFIX,typora.io,GlobalMax
 HOST-SUFFIX,u.cc.st,GlobalMax
 HOST-SUFFIX,u.f-q.me,GlobalMax
 HOST-SUFFIX,u.fq.me,GlobalMax

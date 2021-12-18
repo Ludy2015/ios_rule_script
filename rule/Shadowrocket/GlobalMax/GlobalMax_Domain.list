@@ -1,15 +1,15 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-18 02:10:34
+# UPDATED: 2021-12-19 02:10:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 36057
+# DOMAIN-SUFFIX: 36058
 # USER-AGENT: 78
 # DOMAIN: 48
 # IP-CIDR: 1196
 # DOMAIN-KEYWORD: 6
 # URL-REGEX: 8
-# TOTAL: 37393
+# TOTAL: 37394
 amp-api.podcasts.apple.com
 api-p014.ribob01.net
 api.okzy.tv
@@ -27897,6 +27897,7 @@ zeke.scea.com
 .typepad.com
 .typesquare.com
 .typography.com
+.typora.io
 .u.cc.st
 .u.f-q.me
 .u.fq.me

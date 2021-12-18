@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:48
-# DOMAIN-SUFFIX: 26557
+# UPDATED: 2021-12-19 02:10:30
+# DOMAIN-SUFFIX: 26558
 # DOMAIN: 28
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # DOMAIN-KEYWORD: 1
-# TOTAL: 26720
+# TOTAL: 26721
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,apple.comscoreresearch.com
@@ -19380,6 +19380,7 @@ payload:
   - DOMAIN-SUFFIX,typekit.net
   - DOMAIN-SUFFIX,typepad.com
   - DOMAIN-SUFFIX,typography.com
+  - DOMAIN-SUFFIX,typora.io
   - DOMAIN-SUFFIX,u.cc.st
   - DOMAIN-SUFFIX,u.f-q.me
   - DOMAIN-SUFFIX,u.fq.me
