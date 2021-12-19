@@ -18,8 +18,8 @@
 | ---- | ---- |
 | mitm | 601 |
 | force_http_engine_hosts | 12 |
-| DOMAIN | 2 |
 | DOMAIN-SUFFIX | 1 |
+| DOMAIN | 2 |
 | reject | 788 |
 ## 配置说明
 

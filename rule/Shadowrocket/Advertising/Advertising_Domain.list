@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-19 02:10:31
+# UPDATED: 2021-12-20 02:09:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 44081
-# DOMAIN-SUFFIX: 79994
+# DOMAIN: 44124
+# DOMAIN-SUFFIX: 80022
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # URL-REGEX: 302
-# TOTAL: 124635
+# TOTAL: 124706
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1594,6 +1594,7 @@ ad.period-calendar.com
 ad.plus-a.net
 ad.policeone.com
 ad.reachppc.com
+ad.reunion.com
 ad.searchhound.com
 ad.sgdgjarfpp123.com
 ad.theepochtimes.com
@@ -1875,6 +1876,7 @@ ads.adual.net
 ads.adverster.com
 ads.advertise.net
 ads.adx.adsnxs.com
+ads.affiliateclub.com
 ads.affiliates-spinit.com
 ads.afraccess.com
 ads.ah-ha.com
@@ -3223,6 +3225,7 @@ ambitionpowerbd.com
 ambqphwf.com
 ambulanciaslazaro.com
 amcpusvcit.com
+amecargo.com
 ameli-espace-assure.com
 ameli-scvs.net
 ameliasalzman.com
@@ -3943,6 +3946,7 @@ appleid-zhiphone.com
 appleid.app.intl-member.com
 appleid.iosots.cn
 appleidchinaios.com
+appleidmaps.com
 appleids-locked-issue.com
 appleidsafety.com
 appleidstoree.com
@@ -4902,6 +4906,7 @@ bandbuzzer.com
 bandhan98.com
 bandicapital.com
 bandithacks.com
+bandroxoma.com
 baner.energy-torrent.com
 banex.bikers-engine.com
 bang-hotties.com
@@ -4909,6 +4914,7 @@ bangkoktravelmate.com
 bangladeshnewstoday.com
 bango.combango.org
 bangpots.com
+banizeusz.com
 bank0famerikan.com
 bank30hrs.com
 bankaciligi-halkbank.com
@@ -6520,6 +6526,7 @@ buylicensekey.com
 buyonshop.com
 buypartylights.com
 buypillsonline24h.com
+buythis.ad
 buyu0000.com
 buyu1234.com
 buyu2018.com
@@ -7793,6 +7800,7 @@ chinafoodlng.com
 chinagrad.ru
 chinakingstthomas.com
 chinalve.com
+chinanews93.com
 chinaplanning.org
 chinapower7.com
 chinashadenet.com
@@ -11146,6 +11154,7 @@ dragonborn.dlcodes.com
 dragoncity-hack.net
 dragoncity-hack.org
 dragoncity.gaminghazard.com
+dragoncity.hack-team.org
 dragoncity.newzgames.com
 dragoncitycheatengine.com
 dragoncitycheats-fr.com
@@ -11263,6 +11272,7 @@ drteachme.com
 drtqfejznjnl.com
 drturkiye.com
 drudgetube.com
+drug-rehab-oklahoma.com
 drughelporganizations.com
 drugrehabslouisiana.org
 drugstoreforyou.com
@@ -11727,6 +11737,7 @@ ecircle-ag.com
 eclkspsa.com
 eco-delo.com
 ecole-saint-simon.net
+ecolecampus.com
 ecollection.upgd-tec4n.com
 ecom.intl.xiaomi.com
 ecomanyattahousing.com
@@ -11882,6 +11893,7 @@ eggpcuzaire.com
 eghuntsrizvbt.com
 egine.zhengongfupills.com
 egitimcisitesi.com
+egkkeahdzjqy.com
 egnatius-ear.com
 egoldenglove.com
 egqvppwseieyu.com
@@ -15670,6 +15682,7 @@ getamobilesite.com
 getbeerfast.com
 getbesttraffic.com
 getbetafree.com
+getbonusnow3.com
 getbtcprivate.org
 getcashforsurveys.com
 getcertifiedonline.com
@@ -15889,6 +15902,8 @@ gisiwdcqte.com
 gitmovies.com
 giustramedical.org
 give-aways.net
+giveaway-binance.com
+giveaway-eth.com
 giveaway.ether-claim.org
 giveawayheaven.com
 giveaways.club
@@ -15990,6 +16005,7 @@ globallogisticsunit.com
 globalmixgroup.cn
 globalnameshop.cn
 globalnursesonline.com
+globalogroup.com
 globalpoweringgathering.com
 globalrubbercorporation.com
 globalsaved.com
@@ -16069,6 +16085,7 @@ gnuxgnnkflvkm.com
 gnytravel.com
 go-free-gifts.com
 go-in-search.net
+go-quicky.com
 go-stats.dlinkddns.com
 go-waters.com
 go.ad2upapp.com
@@ -17285,6 +17302,7 @@ harreneo.com
 harrow.aa978.com
 harshita-india.com
 harshwhispers.com
+harsonsy.com
 hartwellcogop.com
 hartwigplumbing.com
 harvardbp.vo.llnwd.net
@@ -18506,6 +18524,7 @@ hyprintsolutions.com
 hyrnujewyatvd.com
 hysnqwbokyuvsm.com
 hystersister.com
+hysyqgbls.com
 hytkatubjuln.com
 hytrfserw.is-gone.com
 hyubowucvkch.com
@@ -19298,6 +19317,7 @@ indianweeklynews.com
 indiaonclick.com
 indiaproxydl.org
 indiatouragency.com
+indlzxgptf.com
 indo-salodo.3eeweb.com
 indogator.com
 indojav1102.com
@@ -19417,6 +19437,7 @@ insight.magnetic.com
 insightexpresserdd.com
 insights.blogfoster.com
 insights.catalina.com
+insightthk.com
 insomniatguide.com
 inspecteur-en-batiment.net
 inspectletws.herokuapp.com
@@ -19550,6 +19571,7 @@ interrentye.org
 interstatesiqns.com
 intervista.youdao.com
 interweb-billing9.com
+intextscript.com
 inthevip-sex.com
 intidayads.com
 intl-paypal-com.com
@@ -21598,6 +21620,7 @@ klio908.wixsite.com
 klixfiles.com
 klkblessingcorporation.com
 klljshial.com
+klmaotte.xyz
 klmdwvqhi.com
 klmvharqoxdq.com
 klnzalfz.com
@@ -22035,6 +22058,7 @@ ladietaalcalina.top
 ladipage.net
 ladivalink.com
 ladkwuz9-site.gtempurl.com
+ladon.wshareit.com
 ladsbrown.com
 ladsinfo.com
 ladslims.com
@@ -24257,6 +24281,7 @@ members.sexroulette.com
 membersconnects.com
 memberscs.com
 membership-webid934.com
+membershipsalesmachine.com
 membersonlyseminars.com
 meme.smhlmao.com
 memeglobal.com
@@ -25674,9 +25699,11 @@ myethereumwaliet.com
 myethereumwalilet.com
 myethereumwallct.com
 myethereumwalletntw.com
+myethereumwallets.com
 myethereunwallet.com
 myetherewa11et.com
 myetherewalle.com
+myetherewallet.com
 myetherieumwallet.com
 myethermywallet.com
 myetherrwallnet.com
@@ -25684,6 +25711,7 @@ myetherswailet.com
 myetherswaliet.com
 myetherswalilet.com
 myetherswalleit.top
+myetherswallet.com
 myethertawallet.com
 myetheruimwallet.com
 myetherumwalet.com
@@ -26617,6 +26645,7 @@ ninjacashmachine.com
 ninjagod.com
 ninjakeygens.com
 ninjasaga.haxdo.com
+nintendo3ds4free.com
 nintendo3dshack.com
 nintendobro.com
 nintoucha.matinkimiaco.com
@@ -26894,6 +26923,7 @@ nrgqdsjqu.com
 nriqpzwgco.org
 nrllvmtosawfm.com
 nrmcznhlqnx.com
+nrrxxpvgtf.com
 nrservicesgroup.com
 nrtapaiums.com
 nrtorbqr.com
@@ -27740,6 +27770,7 @@ onlinetoday34.xyz
 onlinetoday36.xyz
 onlinetribun.com
 onlinetuneswebconnect.com
+onlinewatch24.com
 onlinewatchmoviez.com
 onlinexploits.com
 onlinksoft.org
@@ -30002,6 +30033,7 @@ proadsdirect.com
 proanalytics.cn
 proascolcolombia.com
 probablyfuture.net
+probannerswap.com
 probanzfbbdix.com
 problem-check-700.com
 problemseqo.com
@@ -31481,6 +31513,7 @@ realimob.com
 realinnovation.com
 realitance.com
 realkeygen.com
+reallacharite.com
 reallatinaexposed.com
 reallesbianexposed.com
 reallifecam.com
@@ -31627,6 +31660,7 @@ regionalconcreteco.com
 regist-cairdanaepat.com
 registration-india.com
 registros-saintandera.com
+registry-clean-up.net
 registry-cleaner.net
 registry-error-cleaner.com
 registry-fix-softwares.com
@@ -36420,6 +36454,7 @@ textcube.com
 textilesmavi.com
 textreason.com
 textron.vo.llnwd.net
+textspeier.de
 texttalkservice.com
 texturepacksminecraft.com
 texwaxrolls.com
@@ -36570,6 +36605,7 @@ theft4me.com
 thefxarchive.com
 thegamehack.com
 theghkip.org
+thegifited.com
 thegira.net
 theglug.net
 thegoldenretriever.org
@@ -38285,6 +38321,7 @@ umhpzzloestt.com
 umiortechnical.com
 umkmpascaunikom.com
 umlrvgjkexv.com
+umnalalobae.com
 umnsvtykkptl.com
 umpfgcwqbunivs.xyz
 umqhjmowzjrl.com
@@ -38380,6 +38417,7 @@ unixbroungs.top
 unjqjnzvzyrtw.com
 unkercase.com
 unkrokwhwn.com
+unlcked.net
 unlimiclick.com
 unlimitdocs.net
 unlimited-hacks.net
@@ -39034,6 +39072,7 @@ vastopped.com
 vastpaketet.se
 vastu-realty.com
 vastuvedinfra.org
+vatakaranriforum.com
 vatech2.com
 vatytxdw.com
 vavdmrnsrxfgjl.com
@@ -39312,6 +39351,7 @@ vialanviltec.in.net
 viambull.000webhostapp.com
 vianaedias.net
 vibepartiesonline.com
+viber.hack-team.org
 vibgyorartschool.com
 vicandbarbs.net
 vicbiznetworkinc.com
@@ -39386,6 +39426,7 @@ viewdocs.000webhostapp.com
 viewdocument.comxa.com
 viewex.co.uk
 viewfile.org
+viewgona.com
 viewivo.com
 viewmatchprofiles.com
 viewmymatchpics.com
@@ -43412,6 +43453,7 @@ zarepta.com
 zarinakhan.net
 zarobek4u.com
 zarobicpieniadze.com
+zartashakona.com
 zasccycohek.com
 zashgroup.net
 zastenchivosti.net
@@ -43625,6 +43667,7 @@ zilliaq.com
 zilogora.com
 zimbras.org
 zinphyra.com
+zintext.com
 zinzino.com
 ziomale.net63.net
 zipitfast.com
@@ -53114,6 +53157,7 @@ zzzpooeaz-france.com
 .aiode.cn
 .aipmedia.com
 .aipofeem.net
+.aiptu.cn
 .aipu.mobi
 .aiqruwinhkrxk.xyz
 .air.audioeye.com
@@ -57514,8 +57558,10 @@ zzzpooeaz-france.com
 .beiven.pw
 .beiwaicd.com
 .beiwc.com
+.beiwf.com
 .beiwh.com
 .beiwm.com
+.beiwz.com
 .beixbw.cn
 .beixcw.cn
 .beiyc.com
@@ -58311,6 +58357,7 @@ zzzpooeaz-france.com
 .bkqqpm.com
 .bkrkv.com
 .bkrtx.com
+.bksijiunc.com
 .bksoup.v.qq.com
 .bkvtrack.com
 .bkyhq.cn
@@ -59299,6 +59346,7 @@ zzzpooeaz-france.com
 .btrll.com
 .bts05.site
 .btsaffiliations.com
+.btser.cn
 .btserve.com
 .btssy.net
 .btstatic.com
@@ -59915,6 +59963,7 @@ zzzpooeaz-france.com
 .c03jij5q.website
 .c0563.com
 .c0594.com
+.c09.xyz
 .c0c.xyz
 .c0i.ckoi.com
 .c0i8h8ac7e.bid
@@ -64532,6 +64581,7 @@ zzzpooeaz-france.com
 .csxjys.com
 .csxsyp.cn
 .csxvsd.cn
+.csyfe.com
 .cszlks.com
 .cszz.ru
 .ct.5.p2l.info
@@ -65683,6 +65733,7 @@ zzzpooeaz-france.com
 .dalianhengtai.com
 .dalianruosen.com
 .daliantong.com.cn
+.dalingjia.ren
 .dalj98ktasppa.cloudfront.net
 .daljntupdaoejb.com
 .dallavel.com
@@ -72837,6 +72888,7 @@ zzzpooeaz-france.com
 .fqab5xq7qlgt.info
 .fqbucxkfcya.com
 .fqceyqo.com
+.fqcltrhcblpupm.top
 .fqigyr.xyz
 .fqjgxtyaqftpt.com
 .fqjinyinhua.shop
@@ -76566,6 +76618,7 @@ zzzpooeaz-france.com
 .hebadu.com
 .hebdotop.com
 .hebeixingfei.com
+.hebeiyichen.com
 .hebhec.cn
 .hebiichigo.com
 .hebkb.cn
@@ -79011,6 +79064,7 @@ zzzpooeaz-france.com
 .immedlinkum.info
 .immensehoney.com
 .immersedcopythinking.com
+.immf.me
 .immigrantarchipelagopoetic.com
 .immigrateignorantdual.com
 .immob.cn
@@ -80107,6 +80161,7 @@ zzzpooeaz-france.com
 .ipinyou.com
 .ipinyou.com.cn
 .ipjackets.com
+.ipjvrkudtfxwodj.top
 .iplabel.net
 .iplist.cc
 .iplocationtools.com
@@ -81867,6 +81922,7 @@ zzzpooeaz-france.com
 .jyzae.cn
 .jyzai.cn
 .jyzaj.cn
+.jyzap.cn
 .jyzaw.cn
 .jyzce.cn
 .jyzmsy.com.cn
@@ -84425,6 +84481,7 @@ zzzpooeaz-france.com
 .livecam.com
 .livecheck.theperfectsystoupdating.date
 .livecheck2update.thepointofforcontentingclear.bid
+.livecheersharder.com
 .liveclix.net
 .livecount.fr
 .livecounter.dk
@@ -87709,6 +87766,7 @@ zzzpooeaz-france.com
 .mediagauge.com
 .mediageneral.com
 .mediaglacier.com
+.mediago.io
 .mediagra.com
 .mediagridwork.com
 .mediaguides.de
@@ -89458,6 +89516,7 @@ zzzpooeaz-france.com
 .mistletoeethicleak.com
 .mistressavouchdeity.com
 .misunderstanddependableour.com
+.misunderstandlosingaffluent.com
 .misusefreeze.com
 .misxgkvnlf.com
 .mit.db.com
@@ -89533,6 +89592,7 @@ zzzpooeaz-france.com
 .mkaqh.cn
 .mkavkaz.ru
 .mkazanc.com
+.mkdrrqtfnpyw.top
 .mkhoj.com
 .mkitgfs.com
 .mkjopsvjorjkw.top
@@ -90391,6 +90451,7 @@ zzzpooeaz-france.com
 .mrtbbnr.com
 .mrvio.com
 .mrw.so
+.mrwen.xyz
 .mryang.cloud
 .mrzfjsbjj.com
 .mrzhifu.net
@@ -93530,6 +93591,7 @@ zzzpooeaz-france.com
 .ohxrqr.ilvi.com
 .oiat.dow.com
 .oicchina.com
+.oicode.com
 .oicssiq.com
 .oidah.com
 .oidaio.com
@@ -95531,6 +95593,7 @@ zzzpooeaz-france.com
 .paypopup.com
 .paypublicity.it
 .payqjd.subito.it
+.payslipsplunge.com
 .payslipsprolong.com
 .payslipsscowl.com
 .paywithcrytpo.com
@@ -99154,6 +99217,7 @@ zzzpooeaz-france.com
 .qfs365.com
 .qfszmlxypcqqyb.com
 .qfwjclpckrdehi.com
+.qfxdvti.cn
 .qfy.innotechx.com
 .qfzcwlvmhjgjmi.com
 .qgamsa.com
@@ -99480,6 +99544,7 @@ zzzpooeaz-france.com
 .qttbfdygj.com
 .qttmjwno.com
 .qtymi.com
+.qtzvsufbkpxin.com
 .quackexclusfdfjd.com
 .quacksquirrel.com
 .quadasdata.cn
@@ -104772,6 +104837,7 @@ zzzpooeaz-france.com
 .siplyresox.com
 .sippansy.com
 .siqwqjza.m.yikanxiaoshuo.net
+.sirdata.io
 .siredonlacs.com
 .sireundermineoperative.com
 .sirondel.com
@@ -115319,6 +115385,7 @@ zzzpooeaz-france.com
 .ujiasm.com
 .ujieva.com
 .ujikdd041o.cn
+.ujjhemhlax.top
 .ujlvongqbjouubp.xyz
 .ujm.clr9t.com
 .ujm.snackmachinery.cn
@@ -120916,6 +120983,7 @@ zzzpooeaz-france.com
 .xc.gouchezj.com
 .xc.macd.cn
 .xc.mydrivers.com
+.xc7789.top
 .xcads.cn
 .xcbmwx.com
 .xcclzs.com
@@ -121197,6 +121265,7 @@ zzzpooeaz-france.com
 .xingxingdm.com
 .xingyao.doubiy.com
 .xingyaoapi.com
+.xingyou46.icu
 .xingzhu.top
 .xingzuomeixue.com
 .xinhaogong.xyz
@@ -123379,6 +123448,7 @@ zzzpooeaz-france.com
 .zhangkc.com
 .zhangranfilm.com
 .zhangshiyuan.com
+.zhangtiantian.cc
 .zhangxinzhixun.com
 .zhangyiqian.top
 .zhangyumo.top
@@ -123409,6 +123479,7 @@ zzzpooeaz-france.com
 .zhengyejixie.com
 .zhengyuanguojimc.com
 .zhengzhoupengbo.com
+.zhenxinchicken.xyz
 .zhenxinet.com
 .zhenxingkuangchanpin.com
 .zherimo.ru
