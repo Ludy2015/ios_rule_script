@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-19 02:10:30
-# DOMAIN-SUFFIX: 26558
+# UPDATED: 2021-12-21 02:10:26
+# DOMAIN-SUFFIX: 26557
 # DOMAIN: 28
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # DOMAIN-KEYWORD: 1
-# TOTAL: 26721
+# TOTAL: 26720
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,apple.comscoreresearch.com
@@ -17227,7 +17227,6 @@ payload:
   - DOMAIN-SUFFIX,simplydivinebakery.com
   - DOMAIN-SUFFIX,simplydivinebakery.org
   - DOMAIN-SUFFIX,simustation.com
-  - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,sina.com.hk
   - DOMAIN-SUFFIX,sina.com.tw
   - DOMAIN-SUFFIX,sinaapp.co

@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-19 02:10:27
-# HOST-SUFFIX: 26545
+# UPDATED: 2021-12-21 02:10:22
+# HOST-SUFFIX: 26550
 # USER-AGENT: 12
 # HOST: 5
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 26653
+# TOTAL: 26658
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
 HOST,cvws.icloud-content.com,Proxy
 HOST,developer.apple.com,Proxy
@@ -3932,6 +3932,7 @@ HOST-SUFFIX,bbs.jygnet.org,Proxy
 HOST-SUFFIX,bbs.lxty8.com,Proxy
 HOST-SUFFIX,bbs.mf8.com.cn,Proxy
 HOST-SUFFIX,bbs.sex169.xyz,Proxy
+HOST-SUFFIX,bbs.sina.com,Proxy
 HOST-SUFFIX,bbs.sopboy.com,Proxy
 HOST-SUFFIX,bbs.soul-plus.org,Proxy
 HOST-SUFFIX,bbs.soulplus.org,Proxy
@@ -4466,6 +4467,7 @@ HOST-SUFFIX,blogspot.ug,Proxy
 HOST-SUFFIX,blogtd.net,Proxy
 HOST-SUFFIX,blogtd.org,Proxy
 HOST-SUFFIX,blogunions.com,Proxy
+HOST-SUFFIX,blogus.sina.com,Proxy
 HOST-SUFFIX,blogvirals.com,Proxy
 HOST-SUFFIX,bloodshed.net,Proxy
 HOST-SUFFIX,bloomberg.cn,Proxy
@@ -5522,6 +5524,7 @@ HOST-SUFFIX,chinammm.la,Proxy
 HOST-SUFFIX,chinammm.net,Proxy
 HOST-SUFFIX,chinamule.com,Proxy
 HOST-SUFFIX,chinamz.org,Proxy
+HOST-SUFFIX,chinanews.sina.com,Proxy
 HOST-SUFFIX,chinanewscenter.com,Proxy
 HOST-SUFFIX,chinapost.com.tw,Proxy
 HOST-SUFFIX,chinapress.com.my,Proxy
@@ -6380,6 +6383,7 @@ HOST-SUFFIX,dailymaverick.com,Proxy
 HOST-SUFFIX,dailymotion.com,Proxy
 HOST-SUFFIX,dailymotion.fr,Proxy
 HOST-SUFFIX,dailymotion.it,Proxy
+HOST-SUFFIX,dailynews.sina.com,Proxy
 HOST-SUFFIX,dailyniner.com,Proxy
 HOST-SUFFIX,dailypoliticalreview.com,Proxy
 HOST-SUFFIX,dailysabah.com,Proxy
@@ -10368,6 +10372,7 @@ HOST-SUFFIX,home.hicworks.idv.tw,Proxy
 HOST-SUFFIX,home.mihk.tv,Proxy
 HOST-SUFFIX,home.nzcity.co.nz,Proxy
 HOST-SUFFIX,home.shadowsocks.ch,Proxy
+HOST-SUFFIX,home.sina.com,Proxy
 HOST-SUFFIX,home.sonet.net.tw,Proxy
 HOST-SUFFIX,homebitcoin.club,Proxy
 HOST-SUFFIX,homebrewshanghai.com,Proxy
@@ -14180,6 +14185,7 @@ HOST-SUFFIX,news.housefun.com.tw,Proxy
 HOST-SUFFIX,news.mb.com.ph,Proxy
 HOST-SUFFIX,news.mn,Proxy
 HOST-SUFFIX,news.modia.com.hk,Proxy
+HOST-SUFFIX,news.sina.com,Proxy
 HOST-SUFFIX,news.siteintelgroup.com,Proxy
 HOST-SUFFIX,news100.com.tw,Proxy
 HOST-SUFFIX,news1024.com,Proxy
@@ -17173,7 +17179,6 @@ HOST-SUFFIX,simplexsolutionsinc.com,Proxy
 HOST-SUFFIX,simplydivinebakery.com,Proxy
 HOST-SUFFIX,simplydivinebakery.org,Proxy
 HOST-SUFFIX,simustation.com,Proxy
-HOST-SUFFIX,sina.com,Proxy
 HOST-SUFFIX,sina.com.hk,Proxy
 HOST-SUFFIX,sina.com.tw,Proxy
 HOST-SUFFIX,sinaapp.co,Proxy

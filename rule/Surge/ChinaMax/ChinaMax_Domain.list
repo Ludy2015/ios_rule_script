@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-20 02:09:36
+# UPDATED: 2021-12-21 02:10:21
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72526
+# DOMAIN-SUFFIX: 72527
 # PROCESS-NAME: 6
 # DOMAIN: 56
-# IP-CIDR: 6188
+# IP-CIDR: 6186
 # IP-CIDR6: 5536
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84375
+# TOTAL: 84374
 265.com
 c.android.clients.google.com
 cache.pack.google.com
@@ -60384,6 +60384,7 @@ www4-static.gog-statics.com
 .vokop.com
 .vol.moe
 .volccdn.com
+.volcdem.com
 .volcgtm.com
 .volchina.com
 .volcimagex.net

@@ -1,10 +1,10 @@
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:46
-# DOMAIN-SUFFIX: 255
+# UPDATED: 2021-12-21 02:10:25
+# DOMAIN-SUFFIX: 258
 # IP-CIDR: 1
-# TOTAL: 256
+# TOTAL: 259
 payload:
   - DOMAIN-SUFFIX,2333333333333.com
   - DOMAIN-SUFFIX,365yg.com
@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,cdndns2.com
   - DOMAIN-SUFFIX,changdunovel.com
   - DOMAIN-SUFFIX,cookicut.com
+  - DOMAIN-SUFFIX,csjplatform.com
   - DOMAIN-SUFFIX,dailygn.com
   - DOMAIN-SUFFIX,dongchedi.com
   - DOMAIN-SUFFIX,douyin.com
@@ -227,6 +228,8 @@ payload:
   - DOMAIN-SUFFIX,ulikecam.com
   - DOMAIN-SUFFIX,ulikecam.mobi
   - DOMAIN-SUFFIX,ulikecam.net
+  - DOMAIN-SUFFIX,volccdn.com
+  - DOMAIN-SUFFIX,volcdem.com
   - DOMAIN-SUFFIX,woaihuoshan.com
   - DOMAIN-SUFFIX,wohst8.com
   - DOMAIN-SUFFIX,wtturl.cn

@@ -1,12 +1,12 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-19 02:10:29
-# DOMAIN-SUFFIX: 26545
+# UPDATED: 2021-12-21 02:10:25
+# DOMAIN-SUFFIX: 26550
 # DOMAIN: 5
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 26641
+# TOTAL: 26646
 payload:
   - DOMAIN,assets-priconne-redive-us.akamaized.net
   - DOMAIN,cvws.icloud-content.com
@@ -3932,6 +3932,7 @@ payload:
   - DOMAIN-SUFFIX,bbs.lxty8.com
   - DOMAIN-SUFFIX,bbs.mf8.com.cn
   - DOMAIN-SUFFIX,bbs.sex169.xyz
+  - DOMAIN-SUFFIX,bbs.sina.com
   - DOMAIN-SUFFIX,bbs.sopboy.com
   - DOMAIN-SUFFIX,bbs.soul-plus.org
   - DOMAIN-SUFFIX,bbs.soulplus.org
@@ -4466,6 +4467,7 @@ payload:
   - DOMAIN-SUFFIX,blogtd.net
   - DOMAIN-SUFFIX,blogtd.org
   - DOMAIN-SUFFIX,blogunions.com
+  - DOMAIN-SUFFIX,blogus.sina.com
   - DOMAIN-SUFFIX,blogvirals.com
   - DOMAIN-SUFFIX,bloodshed.net
   - DOMAIN-SUFFIX,bloomberg.cn
@@ -5522,6 +5524,7 @@ payload:
   - DOMAIN-SUFFIX,chinammm.net
   - DOMAIN-SUFFIX,chinamule.com
   - DOMAIN-SUFFIX,chinamz.org
+  - DOMAIN-SUFFIX,chinanews.sina.com
   - DOMAIN-SUFFIX,chinanewscenter.com
   - DOMAIN-SUFFIX,chinapost.com.tw
   - DOMAIN-SUFFIX,chinapress.com.my
@@ -6380,6 +6383,7 @@ payload:
   - DOMAIN-SUFFIX,dailymotion.com
   - DOMAIN-SUFFIX,dailymotion.fr
   - DOMAIN-SUFFIX,dailymotion.it
+  - DOMAIN-SUFFIX,dailynews.sina.com
   - DOMAIN-SUFFIX,dailyniner.com
   - DOMAIN-SUFFIX,dailypoliticalreview.com
   - DOMAIN-SUFFIX,dailysabah.com
@@ -10368,6 +10372,7 @@ payload:
   - DOMAIN-SUFFIX,home.mihk.tv
   - DOMAIN-SUFFIX,home.nzcity.co.nz
   - DOMAIN-SUFFIX,home.shadowsocks.ch
+  - DOMAIN-SUFFIX,home.sina.com
   - DOMAIN-SUFFIX,home.sonet.net.tw
   - DOMAIN-SUFFIX,homebitcoin.club
   - DOMAIN-SUFFIX,homebrewshanghai.com
@@ -14180,6 +14185,7 @@ payload:
   - DOMAIN-SUFFIX,news.mb.com.ph
   - DOMAIN-SUFFIX,news.mn
   - DOMAIN-SUFFIX,news.modia.com.hk
+  - DOMAIN-SUFFIX,news.sina.com
   - DOMAIN-SUFFIX,news.siteintelgroup.com
   - DOMAIN-SUFFIX,news100.com.tw
   - DOMAIN-SUFFIX,news1024.com
@@ -17173,7 +17179,6 @@ payload:
   - DOMAIN-SUFFIX,simplydivinebakery.com
   - DOMAIN-SUFFIX,simplydivinebakery.org
   - DOMAIN-SUFFIX,simustation.com
-  - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,sina.com.hk
   - DOMAIN-SUFFIX,sina.com.tw
   - DOMAIN-SUFFIX,sinaapp.co

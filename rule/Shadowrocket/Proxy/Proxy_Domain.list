@@ -1,12 +1,12 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-19 02:10:31
-# DOMAIN-SUFFIX: 26545
+# UPDATED: 2021-12-21 02:10:27
+# DOMAIN-SUFFIX: 26550
 # USER-AGENT: 12
 # DOMAIN: 5
 # IP-CIDR: 88
-# TOTAL: 26650
+# TOTAL: 26655
 assets-priconne-redive-us.akamaized.net
 cvws.icloud-content.com
 developer.apple.com
@@ -3931,6 +3931,7 @@ voice.telephony.goog
 .bbs.lxty8.com
 .bbs.mf8.com.cn
 .bbs.sex169.xyz
+.bbs.sina.com
 .bbs.sopboy.com
 .bbs.soul-plus.org
 .bbs.soulplus.org
@@ -4465,6 +4466,7 @@ voice.telephony.goog
 .blogtd.net
 .blogtd.org
 .blogunions.com
+.blogus.sina.com
 .blogvirals.com
 .bloodshed.net
 .bloomberg.cn
@@ -5521,6 +5523,7 @@ voice.telephony.goog
 .chinammm.net
 .chinamule.com
 .chinamz.org
+.chinanews.sina.com
 .chinanewscenter.com
 .chinapost.com.tw
 .chinapress.com.my
@@ -6379,6 +6382,7 @@ voice.telephony.goog
 .dailymotion.com
 .dailymotion.fr
 .dailymotion.it
+.dailynews.sina.com
 .dailyniner.com
 .dailypoliticalreview.com
 .dailysabah.com
@@ -10367,6 +10371,7 @@ voice.telephony.goog
 .home.mihk.tv
 .home.nzcity.co.nz
 .home.shadowsocks.ch
+.home.sina.com
 .home.sonet.net.tw
 .homebitcoin.club
 .homebrewshanghai.com
@@ -14179,6 +14184,7 @@ voice.telephony.goog
 .news.mb.com.ph
 .news.mn
 .news.modia.com.hk
+.news.sina.com
 .news.siteintelgroup.com
 .news100.com.tw
 .news1024.com
@@ -17172,7 +17178,6 @@ voice.telephony.goog
 .simplydivinebakery.com
 .simplydivinebakery.org
 .simustation.com
-.sina.com
 .sina.com.hk
 .sina.com.tw
 .sinaapp.co

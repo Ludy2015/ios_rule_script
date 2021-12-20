@@ -1,12 +1,12 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-19 02:10:29
-# DOMAIN-SUFFIX: 26545
+# UPDATED: 2021-12-21 02:10:25
+# DOMAIN-SUFFIX: 26550
 # DOMAIN: 5
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 26641
+# TOTAL: 26646
 payload:
   - 'assets-priconne-redive-us.akamaized.net'
   - 'cvws.icloud-content.com'
@@ -3932,6 +3932,7 @@ payload:
   - '+.bbs.lxty8.com'
   - '+.bbs.mf8.com.cn'
   - '+.bbs.sex169.xyz'
+  - '+.bbs.sina.com'
   - '+.bbs.sopboy.com'
   - '+.bbs.soul-plus.org'
   - '+.bbs.soulplus.org'
@@ -4466,6 +4467,7 @@ payload:
   - '+.blogtd.net'
   - '+.blogtd.org'
   - '+.blogunions.com'
+  - '+.blogus.sina.com'
   - '+.blogvirals.com'
   - '+.bloodshed.net'
   - '+.bloomberg.cn'
@@ -5522,6 +5524,7 @@ payload:
   - '+.chinammm.net'
   - '+.chinamule.com'
   - '+.chinamz.org'
+  - '+.chinanews.sina.com'
   - '+.chinanewscenter.com'
   - '+.chinapost.com.tw'
   - '+.chinapress.com.my'
@@ -6380,6 +6383,7 @@ payload:
   - '+.dailymotion.com'
   - '+.dailymotion.fr'
   - '+.dailymotion.it'
+  - '+.dailynews.sina.com'
   - '+.dailyniner.com'
   - '+.dailypoliticalreview.com'
   - '+.dailysabah.com'
@@ -10368,6 +10372,7 @@ payload:
   - '+.home.mihk.tv'
   - '+.home.nzcity.co.nz'
   - '+.home.shadowsocks.ch'
+  - '+.home.sina.com'
   - '+.home.sonet.net.tw'
   - '+.homebitcoin.club'
   - '+.homebrewshanghai.com'
@@ -14180,6 +14185,7 @@ payload:
   - '+.news.mb.com.ph'
   - '+.news.mn'
   - '+.news.modia.com.hk'
+  - '+.news.sina.com'
   - '+.news.siteintelgroup.com'
   - '+.news100.com.tw'
   - '+.news1024.com'
@@ -17173,7 +17179,6 @@ payload:
   - '+.simplydivinebakery.com'
   - '+.simplydivinebakery.org'
   - '+.simustation.com'
-  - '+.sina.com'
   - '+.sina.com.hk'
   - '+.sina.com.tw'
   - '+.sinaapp.co'

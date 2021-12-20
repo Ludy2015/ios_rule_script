@@ -1,9 +1,9 @@
 # NAME: ChinaIPsBGP
 # AUTHOR: misakaio
 # REPO: https://github.com/misakaio/chnroutes2
-# UPDATED: 2021-12-20 02:09:39
-# IP-CIDR: 3366
-# TOTAL: 3366
+# UPDATED: 2021-12-21 02:10:25
+# IP-CIDR: 3355
+# TOTAL: 3355
 payload:
   - IP-CIDR,1.1.8.0/24,no-resolve
   - IP-CIDR,1.116.0.0/15,no-resolve
@@ -693,13 +693,9 @@ payload:
   - IP-CIDR,103.96.214.0/23,no-resolve
   - IP-CIDR,103.96.8.0/22,no-resolve
   - IP-CIDR,103.97.60.0/24,no-resolve
-  - IP-CIDR,103.98.125.0/24,no-resolve
-  - IP-CIDR,103.98.127.0/24,no-resolve
   - IP-CIDR,103.98.164.0/22,no-resolve
   - IP-CIDR,103.98.168.0/22,no-resolve
   - IP-CIDR,103.98.220.0/22,no-resolve
-  - IP-CIDR,103.98.248.0/23,no-resolve
-  - IP-CIDR,103.98.252.0/22,no-resolve
   - IP-CIDR,103.98.44.0/22,no-resolve
   - IP-CIDR,103.99.152.0/22,no-resolve
   - IP-CIDR,106.0.4.0/22,no-resolve
@@ -1510,9 +1506,7 @@ payload:
   - IP-CIDR,123.92.0.0/14,no-resolve
   - IP-CIDR,123.96.0.0/15,no-resolve
   - IP-CIDR,123.99.192.0/18,no-resolve
-  - IP-CIDR,124.112.0.0/15,no-resolve
-  - IP-CIDR,124.115.0.0/16,no-resolve
-  - IP-CIDR,124.116.0.0/14,no-resolve
+  - IP-CIDR,124.112.0.0/13,no-resolve
   - IP-CIDR,124.126.0.0/15,no-resolve
   - IP-CIDR,124.128.0.0/13,no-resolve
   - IP-CIDR,124.14.0.0/20,no-resolve
@@ -2779,11 +2773,7 @@ payload:
   - IP-CIDR,222.240.0.0/13,no-resolve
   - IP-CIDR,222.248.0.0/15,no-resolve
   - IP-CIDR,222.32.0.0/11,no-resolve
-  - IP-CIDR,222.64.0.0/12,no-resolve
-  - IP-CIDR,222.80.0.0/13,no-resolve
-  - IP-CIDR,222.88.0.0/15,no-resolve
-  - IP-CIDR,222.91.0.0/16,no-resolve
-  - IP-CIDR,222.92.0.0/14,no-resolve
+  - IP-CIDR,222.64.0.0/11,no-resolve
   - IP-CIDR,223.0.0.0/12,no-resolve
   - IP-CIDR,223.128.0.0/15,no-resolve
   - IP-CIDR,223.144.0.0/12,no-resolve
@@ -3349,7 +3339,6 @@ payload:
   - IP-CIDR,67.198.208.0/24,no-resolve
   - IP-CIDR,67.198.221.0/24,no-resolve
   - IP-CIDR,67.198.235.0/24,no-resolve
-  - IP-CIDR,67.198.236.0/24,no-resolve
   - IP-CIDR,67.198.239.0/24,no-resolve
   - IP-CIDR,67.198.244.0/24,no-resolve
   - IP-CIDR,67.198.255.0/24,no-resolve

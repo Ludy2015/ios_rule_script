@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-20 02:09:36
+# UPDATED: 2021-12-21 02:10:22
 # HOST-SUFFIX: 68904
 # USER-AGENT: 31
 # HOST: 81
-# IP-CIDR: 14
+# IP-CIDR: 5
 # IP6-CIDR: 4
 # HOST-KEYWORD: 1
-# TOTAL: 69035
+# TOTAL: 69026
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -69027,16 +69027,7 @@ USER-AGENT,hearthstone*,ChinaTest
 USER-AGENT,hide*,ChinaTest
 USER-AGENT,ting_en,ChinaTest
 IP-CIDR,1.255.62.0/24,ChinaTest
-IP-CIDR,101.32.104.4/32,ChinaTest
-IP-CIDR,101.32.104.41/32,ChinaTest
-IP-CIDR,101.32.104.56/32,ChinaTest
-IP-CIDR,101.32.118.25/32,ChinaTest
-IP-CIDR,101.32.133.16/32,ChinaTest
-IP-CIDR,101.32.133.209/32,ChinaTest
-IP-CIDR,101.32.133.53/32,ChinaTest
 IP-CIDR,119.28.28.28/32,ChinaTest
-IP-CIDR,129.226.107.244/32,ChinaTest
-IP-CIDR,129.226.3.47/32,ChinaTest
 IP-CIDR,182.254.116.0/24,ChinaTest
 IP-CIDR,185.188.32.0/22,ChinaTest
 IP-CIDR,203.205.254.0/23,ChinaTest
