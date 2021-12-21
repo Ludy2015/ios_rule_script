@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 15:34:18
-# DOMAIN: 22954
+# UPDATED: 2021-12-22 02:10:27
+# DOMAIN: 23249
 # DOMAIN-SUFFIX: 13241
 # IP-CIDR: 158
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 36356
+# TOTAL: 36651
 payload:
   - DOMAIN-KEYWORD,stsdk.vivo.com.cn
   - DOMAIN-KEYWORD,stsdk.vivoglobal.com
