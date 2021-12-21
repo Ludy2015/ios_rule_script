@@ -1,14 +1,14 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:23
+# UPDATED: 2021-12-21 15:34:17
 # DOMAIN-SUFFIX: 578
 # USER-AGENT: 31
 # DOMAIN: 7
-# IP-CIDR: 5
+# IP-CIDR: 9
 # IP-CIDR6: 4
 # DOMAIN-KEYWORD: 1
-# TOTAL: 626
+# TOTAL: 630
 DOMAIN,analytics.strava.com
 DOMAIN,client.amplifi.com
 DOMAIN,download.jetbrains.com
@@ -627,8 +627,12 @@ USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
 IP-CIDR,1.255.62.0/24,no-resolve
+IP-CIDR,101.32.118.0/23,no-resolve
+IP-CIDR,101.32.96.0/20,no-resolve
 IP-CIDR,119.28.28.28/32,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
 IP-CIDR,182.254.116.0/24,no-resolve
+IP-CIDR,183.128.0.0/11,no-resolve
 IP-CIDR,185.188.32.0/22,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
 IP-CIDR6,2a0b:b580::/48,no-resolve

@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:26
+# UPDATED: 2021-12-21 15:34:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 44130
-# DOMAIN-SUFFIX: 80049
+# DOMAIN: 44129
+# DOMAIN-SUFFIX: 80082
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # URL-REGEX: 302
-# TOTAL: 124739
+# TOTAL: 124771
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -39895,7 +39895,6 @@ vuwdqproq.com
 vuwojxgklca.com
 vuykgvnfe.com
 vuysooqimdbt.com
-vv.video.qq.com
 vvanchain.org
 vvaqbhmahjb.com
 vvaqdyzdovonc.com
@@ -52905,6 +52904,7 @@ zzzpooeaz-france.com
 .aftdt.cn
 .afterdownload.com
 .afterdownloads.com
+.afterthoughtdevil.com
 .afterview.ru
 .afterwardstationquestions.com
 .aftjohnanodes.com
@@ -53061,6 +53061,7 @@ zzzpooeaz-france.com
 .ahwczn.cn
 .ahwrin88tl.com
 .ahxhny.cn
+.ahyafxehqb.top
 .ahyau.com
 .ahylong.cn
 .ahyuns.com
@@ -53301,6 +53302,7 @@ zzzpooeaz-france.com
 .ako.cc
 .akolafovar.com
 .akozxay.cn
+.akqrt.cn
 .akrazappi.com
 .akrgmgjdcojjcws.top
 .akrrbm.loloclo.ru
@@ -54308,6 +54310,7 @@ zzzpooeaz-france.com
 .analyticsq1.com
 .analyticsrhwg.rhcloud.com
 .analyticsscripts.cablelabs.com
+.analyticssdk.yle.fi
 .analyticsserver.gimbal.com
 .analyticssg.tiktok.com
 .analyticssprint.qoqa.com
@@ -56966,6 +56969,7 @@ zzzpooeaz-france.com
 .banzd.com
 .banzdw.cn
 .baobaoshiye.com.cn
+.baobf.com
 .baodaozhan.cn
 .baodc.com
 .baogames.cn
@@ -57574,6 +57578,7 @@ zzzpooeaz-france.com
 .beiwf.com
 .beiwh.com
 .beiwm.com
+.beiwt.com
 .beiwz.com
 .beixbw.cn
 .beixcw.cn
@@ -61491,6 +61496,7 @@ zzzpooeaz-france.com
 .chioneflake.com
 .chip2gift.com
 .chipleader.com
+.chipsleapt.com
 .chipsuziby.com
 .chiptionics.co
 .chirkacylal.com
@@ -61603,6 +61609,7 @@ zzzpooeaz-france.com
 .chushoushijian.cn
 .chutangpu.cn
 .chutsavy.net
+.chuxi888.top
 .chuzrra.cn
 .chuzushijian.cn
 .chvkyymv.xyz
@@ -63821,6 +63828,7 @@ zzzpooeaz-france.com
 .counter.adultcheck.com
 .counter.adultrevenueservice.com
 .counter.advancewebhosting.com
+.counter.ajansspor.com
 .counter.all.biz
 .counter.aport.ru
 .counter.asexhound.com
@@ -70811,6 +70819,7 @@ zzzpooeaz-france.com
 .evbsa.xyz
 .evcknbym.com
 .eveaggravationloosen.com
+.evealm.com
 .evefashion.cn
 .eveley.club
 .evelopiestab.space
@@ -73196,6 +73205,7 @@ zzzpooeaz-france.com
 .frtyo.com
 .fructa.nl
 .frugalrushcap.com
+.fruine.com
 .fruitablock.net
 .fruitflan.com
 .fruitice.realnetwrk.com
@@ -74579,6 +74589,7 @@ zzzpooeaz-france.com
 .ggxt.net
 .ggydofjoubxptm.xyz
 .ggz55268.com
+.gh1024.xyz
 .ghalibaft.com
 .ghargh.com
 .gharnt.com
@@ -74728,6 +74739,7 @@ zzzpooeaz-france.com
 .glaiwhee.net
 .glaixich.net
 .glaksads.net
+.glakychepy.com
 .glamourgreek.com
 .glamurka.net
 .glanceguide.com
@@ -75127,6 +75139,7 @@ zzzpooeaz-france.com
 .goldenbettingefforlessefforless.com
 .goldenfishka.com
 .goldenssp.com
+.goldenwind.icu
 .golderotica.com
 .goldfishnightclubpatronize.com
 .goldmir.com
@@ -75200,6 +75213,7 @@ zzzpooeaz-france.com
 .google-analytics.com
 .google-rank.org
 .googleads.g.doubleclick.net.iberostar.com
+.googleads.github.io
 .googleadservices.com
 .googleadsl.com
 .googleadsserving.cn
@@ -76842,6 +76856,7 @@ zzzpooeaz-france.com
 .hfqclrllll.com
 .hfqjs.cn
 .hfsn.info
+.hfsqlbqvmu.top
 .hfsteel.net
 .hfwmgail.com
 .hfxs01il.com
@@ -77698,6 +77713,7 @@ zzzpooeaz-france.com
 .hpuvkfbww.com
 .hpvvn.com
 .hpxlfmddqw.xyz
+.hpygame.com
 .hpyjmp.com
 .hpyrdr.com
 .hpyue.com
@@ -78118,6 +78134,7 @@ zzzpooeaz-france.com
 .hyinlegvghul.com
 .hyjdz.cn
 .hyjyjc.com
+.hykiarmqudealy.top
 .hylmkele.com
 .hylmxing.com
 .hylyl.club
@@ -82102,6 +82119,7 @@ zzzpooeaz-france.com
 .kanwby.com
 .kanzleiborchers.de
 .kaocha.net
+.kaoftrknb.com
 .kaollpuhcfl.com
 .kaplay.com
 .kappalinks.com
@@ -84127,6 +84145,7 @@ zzzpooeaz-france.com
 .limetreenearly.com
 .limevisitedinaugurate.com
 .liminances.xyz
+.liming23.xyz
 .limitagesdidjet.site
 .limitedfeature.com
 .limkokwing-edu.cn
@@ -89734,6 +89753,7 @@ zzzpooeaz-france.com
 .mmm.carbuyer.co.uk
 .mmm.theweek.co.uk
 .mmnetwork.mobi
+.mmngqvbfuzenlk.com
 .mmo123.co
 .mmoframes.com
 .mmofreegames.online
@@ -92257,6 +92277,7 @@ zzzpooeaz-france.com
 .njs.imagicskin.com
 .njs.manhuahome.com
 .njsbzc.cn
+.njuptsacc.com
 .njwxh.com
 .njxczy.com
 .njygp.cn
@@ -92430,6 +92451,7 @@ zzzpooeaz-france.com
 .nondescriptstocking.com
 .none-test.com
 .noneclass.com
+.nonegrysu.pro
 .nonerr.com
 .nonestolesantes.com
 .nonetest.com
@@ -97950,6 +97972,7 @@ zzzpooeaz-france.com
 .prode.sprtad.com
 .proditor.sparda.de
 .prodmp.ru
+.prodplaguebacon.miniclippt.com
 .prodsbappanalyticsus1.servicebus.windows.net
 .producebreed.com
 .producecopy.com
@@ -99242,6 +99265,7 @@ zzzpooeaz-france.com
 .qfolkbbij.com
 .qfs365.com
 .qfszmlxypcqqyb.com
+.qfvedpldkde.com
 .qfwjclpckrdehi.com
 .qfxdvti.cn
 .qfy.innotechx.com
@@ -99324,6 +99348,7 @@ zzzpooeaz-france.com
 .qijiandian.xyz
 .qiklsv.com
 .qilashou.com
+.qilinwh.cn
 .qilungroup.cn
 .qimgg.com
 .qincai.info
@@ -99983,6 +100008,7 @@ zzzpooeaz-france.com
 .randevumads.com
 .randiul.com
 .randkisex.com
+.randomignitiondentist.com
 .randomlane.net
 .rang.com.ua
 .rangeblessedness.men
@@ -109096,6 +109122,7 @@ zzzpooeaz-france.com
 .stingoroubles.com
 .stingygirlieaccompany.com
 .stinkcomedian.com
+.stinkwailingbalk.com
 .stipple.cachefly.net
 .stipple.com
 .stippleit.com
@@ -109565,6 +109592,7 @@ zzzpooeaz-france.com
 .superinterstitial.com
 .superippo.com
 .superjuryger.site
+.superladiesnow.life
 .superlady.org
 .superlecker.info
 .superli666.top
@@ -109828,6 +109856,7 @@ zzzpooeaz-france.com
 .swasc.kaufland.sk
 .swat8toot.com
 .swayexploitaccustom.com
+.swaylieutenant.com
 .swbclcq.cn
 .swbdds.com
 .swc.weather.com.cn
@@ -111208,6 +111237,7 @@ zzzpooeaz-france.com
 .teralog.techhub.co.kr
 .terapou.com
 .teratedent.fun
+.terats.com
 .tercabilis.info
 .tercept.com
 .terdaywe.top
@@ -115534,6 +115564,7 @@ zzzpooeaz-france.com
 .umengcloud.com.gds.alibabadns.com
 .umengjmacs.m.taobao.com
 .umhadn49kldc.www.jeddd.com
+.umhfrtu.cn
 .umid.orion.meizu.com
 .umihecd.cn
 .umis.top
@@ -119790,6 +119821,7 @@ zzzpooeaz-france.com
 .wtgongsi.com
 .wth.lenovomm.com
 .wthnbwzk.com
+.wthykuvsntho.top
 .wtk.db.com
 .wtlive.com
 .wtmtrack.com
