@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:22
-# HOST-SUFFIX: 35898
+# UPDATED: 2021-12-23 02:11:45
+# HOST-SUFFIX: 35901
 # USER-AGENT: 78
 # HOST: 48
 # IP-CIDR: 1188
 # IP6-CIDR: 31
 # HOST-KEYWORD: 6
-# TOTAL: 37249
+# TOTAL: 37252
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -5576,6 +5576,7 @@ HOST-SUFFIX,binance.cc,GlobalMax
 HOST-SUFFIX,binance.charity,GlobalMax
 HOST-SUFFIX,binance.cloud,GlobalMax
 HOST-SUFFIX,binance.com,GlobalMax
+HOST-SUFFIX,binance.im,GlobalMax
 HOST-SUFFIX,binance.me,GlobalMax
 HOST-SUFFIX,binance.us,GlobalMax
 HOST-SUFFIX,binance.vision,GlobalMax
@@ -6505,6 +6506,7 @@ HOST-SUFFIX,bmwyachtsport.com,GlobalMax
 HOST-SUFFIX,bmwyemen.com,GlobalMax
 HOST-SUFFIX,bmwzentrum.com,GlobalMax
 HOST-SUFFIX,bn65.com,GlobalMax
+HOST-SUFFIX,bnappzh.com,GlobalMax
 HOST-SUFFIX,bnbstatic.com,GlobalMax
 HOST-SUFFIX,bnbzaubernuss.ch,GlobalMax
 HOST-SUFFIX,bnef.com,GlobalMax
@@ -6512,6 +6514,7 @@ HOST-SUFFIX,bnews.co,GlobalMax
 HOST-SUFFIX,bni.com,GlobalMax
 HOST-SUFFIX,bnn.co,GlobalMax
 HOST-SUFFIX,bnrmetal.com,GlobalMax
+HOST-SUFFIX,bntrace.com,GlobalMax
 HOST-SUFFIX,bo.beaconsco.com,GlobalMax
 HOST-SUFFIX,bo123g.com,GlobalMax
 HOST-SUFFIX,bo92.ml,GlobalMax

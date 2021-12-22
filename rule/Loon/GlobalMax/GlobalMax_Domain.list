@@ -1,16 +1,16 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:23
+# UPDATED: 2021-12-23 02:11:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 35898
+# DOMAIN-SUFFIX: 35901
 # USER-AGENT: 78
 # DOMAIN: 48
 # IP-CIDR: 1188
 # IP-CIDR6: 31
 # DOMAIN-KEYWORD: 6
 # URL-REGEX: 8
-# TOTAL: 37257
+# TOTAL: 37260
 amp-api.podcasts.apple.com
 api-p014.ribob01.net
 api.okzy.tv
@@ -5578,6 +5578,7 @@ zeke.scea.com
 .binance.charity
 .binance.cloud
 .binance.com
+.binance.im
 .binance.me
 .binance.us
 .binance.vision
@@ -6507,6 +6508,7 @@ zeke.scea.com
 .bmwyemen.com
 .bmwzentrum.com
 .bn65.com
+.bnappzh.com
 .bnbstatic.com
 .bnbzaubernuss.ch
 .bnef.com
@@ -6514,6 +6516,7 @@ zeke.scea.com
 .bni.com
 .bnn.co
 .bnrmetal.com
+.bntrace.com
 .bo.beaconsco.com
 .bo123g.com
 .bo92.ml

@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:26
-# DOMAIN-SUFFIX: 35898
+# UPDATED: 2021-12-23 02:11:49
+# DOMAIN-SUFFIX: 35901
 # DOMAIN: 48
 # IP-CIDR: 1188
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # DOMAIN-KEYWORD: 6
-# TOTAL: 37227
+# TOTAL: 37230
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,api-p014.ribob01.net
@@ -5577,6 +5577,7 @@ payload:
   - DOMAIN-SUFFIX,binance.charity
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.im
   - DOMAIN-SUFFIX,binance.me
   - DOMAIN-SUFFIX,binance.us
   - DOMAIN-SUFFIX,binance.vision
@@ -6506,6 +6507,7 @@ payload:
   - DOMAIN-SUFFIX,bmwyemen.com
   - DOMAIN-SUFFIX,bmwzentrum.com
   - DOMAIN-SUFFIX,bn65.com
+  - DOMAIN-SUFFIX,bnappzh.com
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bnbzaubernuss.ch
   - DOMAIN-SUFFIX,bnef.com
@@ -6513,6 +6515,7 @@ payload:
   - DOMAIN-SUFFIX,bni.com
   - DOMAIN-SUFFIX,bnn.co
   - DOMAIN-SUFFIX,bnrmetal.com
+  - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,bo.beaconsco.com
   - DOMAIN-SUFFIX,bo123g.com
   - DOMAIN-SUFFIX,bo92.ml
