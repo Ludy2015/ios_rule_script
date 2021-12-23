@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:22
-# HOST-SUFFIX: 33499
+# UPDATED: 2021-12-24 02:10:35
+# HOST-SUFFIX: 33500
 # USER-AGENT: 10
 # HOST: 19
 # IP-CIDR: 86
 # IP6-CIDR: 3
-# TOTAL: 33617
+# TOTAL: 33618
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,apip.videomarket.jp,ProxyLite
 HOST,blizzard.nefficient.co.kr,ProxyLite
@@ -2221,6 +2221,7 @@ HOST-SUFFIX,888bifa.com,ProxyLite
 HOST-SUFFIX,888dde.com,ProxyLite
 HOST-SUFFIX,888diao.com,ProxyLite
 HOST-SUFFIX,888funcity.net,ProxyLite
+HOST-SUFFIX,888poker.com,ProxyLite
 HOST-SUFFIX,888rch.com,ProxyLite
 HOST-SUFFIX,888xjs.net,ProxyLite
 HOST-SUFFIX,888ylg.com,ProxyLite

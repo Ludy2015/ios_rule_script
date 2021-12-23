@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:22
-# HOST-SUFFIX: 26550
+# UPDATED: 2021-12-24 02:10:35
+# HOST-SUFFIX: 26551
 # USER-AGENT: 12
 # HOST: 5
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 26658
+# TOTAL: 26659
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
 HOST,cvws.icloud-content.com,Proxy
 HOST,developer.apple.com,Proxy
@@ -2163,6 +2163,7 @@ HOST-SUFFIX,888bifa.com,Proxy
 HOST-SUFFIX,888dde.com,Proxy
 HOST-SUFFIX,888diao.com,Proxy
 HOST-SUFFIX,888funcity.net,Proxy
+HOST-SUFFIX,888poker.com,Proxy
 HOST-SUFFIX,888rch.com,Proxy
 HOST-SUFFIX,888xjs.net,Proxy
 HOST-SUFFIX,888ylg.com,Proxy

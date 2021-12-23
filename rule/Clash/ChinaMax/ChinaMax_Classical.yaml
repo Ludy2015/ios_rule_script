@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-23 02:11:48
-# DOMAIN-SUFFIX: 72523
+# UPDATED: 2021-12-24 02:10:38
+# DOMAIN-SUFFIX: 72537
 # PROCESS-NAME: 6
 # DOMAIN: 57
-# IP-CIDR: 6183
+# IP-CIDR: 6184
 # IP-CIDR6: 5536
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84306
+# TOTAL: 84321
 payload:
   - DOMAIN,265.com
   - DOMAIN,c.android.clients.google.com
@@ -5712,6 +5712,7 @@ payload:
   - DOMAIN-SUFFIX,5sai.com
   - DOMAIN-SUFFIX,5sdy.cc
   - DOMAIN-SUFFIX,5sdy.com
+  - DOMAIN-SUFFIX,5se34.com
   - DOMAIN-SUFFIX,5see.com
   - DOMAIN-SUFFIX,5seestar.com
   - DOMAIN-SUFFIX,5sem.com
@@ -6658,7 +6659,6 @@ payload:
   - DOMAIN-SUFFIX,7wx.org
   - DOMAIN-SUFFIX,7wx3675l72.com
   - DOMAIN-SUFFIX,7x24cc.com
-  - DOMAIN-SUFFIX,7x24s.com
   - DOMAIN-SUFFIX,7xdown.com
   - DOMAIN-SUFFIX,7xfilm.com
   - DOMAIN-SUFFIX,7y5.net
@@ -11374,6 +11374,7 @@ payload:
   - DOMAIN-SUFFIX,basestonedata.com
   - DOMAIN-SUFFIX,bashan.com
   - DOMAIN-SUFFIX,bashuhuapai.com
+  - DOMAIN-SUFFIX,bashuku.com
   - DOMAIN-SUFFIX,basiccat.org
   - DOMAIN-SUFFIX,basicfinder.com
   - DOMAIN-SUFFIX,bastengao.com
@@ -12016,6 +12017,7 @@ payload:
   - DOMAIN-SUFFIX,bianfengkuailai.com
   - DOMAIN-SUFFIX,bianhao6.com
   - DOMAIN-SUFFIX,bianjibu.net
+  - DOMAIN-SUFFIX,bianjiqi.net
   - DOMAIN-SUFFIX,bianjiyi.com
   - DOMAIN-SUFFIX,bianlidianjiameng.net
   - DOMAIN-SUFFIX,bianlifeng.com
@@ -13506,6 +13508,7 @@ payload:
   - DOMAIN-SUFFIX,buybieshu.com
   - DOMAIN-SUFFIX,buycarcn.com
   - DOMAIN-SUFFIX,buychuan.com
+  - DOMAIN-SUFFIX,buycoor.com
   - DOMAIN-SUFFIX,buyfine.net
   - DOMAIN-SUFFIX,buyhot.vip
   - DOMAIN-SUFFIX,buyigang.com
@@ -14810,6 +14813,7 @@ payload:
   - DOMAIN-SUFFIX,ceeunion.com
   - DOMAIN-SUFFIX,cef114.com
   - DOMAIN-SUFFIX,cefc.co
+  - DOMAIN-SUFFIX,ceh3.com
   - DOMAIN-SUFFIX,cehbe.com
   - DOMAIN-SUFFIX,cehbh.com
   - DOMAIN-SUFFIX,cehbk.com
@@ -19366,6 +19370,7 @@ payload:
   - DOMAIN-SUFFIX,d20.net
   - DOMAIN-SUFFIX,d22a.com
   - DOMAIN-SUFFIX,d2fan.com
+  - DOMAIN-SUFFIX,d2fbf.com
   - DOMAIN-SUFFIX,d2film.com
   - DOMAIN-SUFFIX,d2kdi2ss.com
   - DOMAIN-SUFFIX,d2mzb.com
@@ -24281,6 +24286,7 @@ payload:
   - DOMAIN-SUFFIX,fdzzjs.com
   - DOMAIN-SUFFIX,fe-cable.com
   - DOMAIN-SUFFIX,fe2x.cc
+  - DOMAIN-SUFFIX,fe347.com
   - DOMAIN-SUFFIX,fe520.com
   - DOMAIN-SUFFIX,fearlazy.com
   - DOMAIN-SUFFIX,feaye.com
@@ -29617,6 +29623,7 @@ payload:
   - DOMAIN-SUFFIX,heijiao.net
   - DOMAIN-SUFFIX,heijiazi.com
   - DOMAIN-SUFFIX,heijin.org
+  - DOMAIN-SUFFIX,heikexs.com
   - DOMAIN-SUFFIX,heilanhome.com
   - DOMAIN-SUFFIX,heilaot.com
   - DOMAIN-SUFFIX,heilei.com
@@ -30991,6 +30998,7 @@ payload:
   - DOMAIN-SUFFIX,hs13z.net
   - DOMAIN-SUFFIX,hs186.com
   - DOMAIN-SUFFIX,hs2005.net
+  - DOMAIN-SUFFIX,hs313.info
   - DOMAIN-SUFFIX,hs65.com
   - DOMAIN-SUFFIX,hs950.com
   - DOMAIN-SUFFIX,hsakyy.com
@@ -34557,7 +34565,6 @@ payload:
   - DOMAIN-SUFFIX,iyb.tm
   - DOMAIN-SUFFIX,iycdm.com
   - DOMAIN-SUFFIX,iycsky.com
-  - DOMAIN-SUFFIX,iycwl.com
   - DOMAIN-SUFFIX,iyd.wang
   - DOMAIN-SUFFIX,iydsj.com
   - DOMAIN-SUFFIX,iydu.net
@@ -35697,6 +35704,7 @@ payload:
   - DOMAIN-SUFFIX,jingwei.com
   - DOMAIN-SUFFIX,jingwei.link
   - DOMAIN-SUFFIX,jingwentian.com
+  - DOMAIN-SUFFIX,jingwuhotel.com
   - DOMAIN-SUFFIX,jingwuhui.com
   - DOMAIN-SUFFIX,jingxi.com
   - DOMAIN-SUFFIX,jingxialai.com
@@ -36223,6 +36231,7 @@ payload:
   - DOMAIN-SUFFIX,jmdedu.com
   - DOMAIN-SUFFIX,jmdlzx.com
   - DOMAIN-SUFFIX,jmeii.com
+  - DOMAIN-SUFFIX,jmeishe.com
   - DOMAIN-SUFFIX,jmf0.com
   - DOMAIN-SUFFIX,jmf6.com
   - DOMAIN-SUFFIX,jmfans.com
@@ -37361,7 +37370,6 @@ payload:
   - DOMAIN-SUFFIX,kaesoon.com
   - DOMAIN-SUFFIX,kafka.cc
   - DOMAIN-SUFFIX,kagirl.net
-  - DOMAIN-SUFFIX,kahxnsat.com
   - DOMAIN-SUFFIX,kai-ying.com
   - DOMAIN-SUFFIX,kaiba315.com
   - DOMAIN-SUFFIX,kaibo5888.com
@@ -37857,6 +37865,7 @@ payload:
   - DOMAIN-SUFFIX,kexing100.com
   - DOMAIN-SUFFIX,kexinguoji.com
   - DOMAIN-SUFFIX,kexinyun.org
+  - DOMAIN-SUFFIX,kexu.com
   - DOMAIN-SUFFIX,kexue.com
   - DOMAIN-SUFFIX,kexue.fm
   - DOMAIN-SUFFIX,kexuezixunzzs.com
@@ -38197,6 +38206,7 @@ payload:
   - DOMAIN-SUFFIX,kmlcl.com
   - DOMAIN-SUFFIX,kmlhh.com
   - DOMAIN-SUFFIX,kmmama.com
+  - DOMAIN-SUFFIX,kmplayercn.com
   - DOMAIN-SUFFIX,kmpwgxzy.com
   - DOMAIN-SUFFIX,kmtarena.net
   - DOMAIN-SUFFIX,kmvxwedy.com
@@ -48045,6 +48055,7 @@ payload:
   - DOMAIN-SUFFIX,potevio.com
   - DOMAIN-SUFFIX,potianji.net
   - DOMAIN-SUFFIX,potplayer.org
+  - DOMAIN-SUFFIX,potplayercn.com
   - DOMAIN-SUFFIX,pouchcontainer.io
   - DOMAIN-SUFFIX,poukao.com
   - DOMAIN-SUFFIX,poweizu.com
@@ -49235,7 +49246,6 @@ payload:
   - DOMAIN-SUFFIX,qingwk.com
   - DOMAIN-SUFFIX,qingxiaoyun.com
   - DOMAIN-SUFFIX,qingxuetang.com
-  - DOMAIN-SUFFIX,qingyiapp.com
   - DOMAIN-SUFFIX,qingyougames.com
   - DOMAIN-SUFFIX,qingyungou.com
   - DOMAIN-SUFFIX,qingzhanshi.com
@@ -53946,6 +53956,7 @@ payload:
   - DOMAIN-SUFFIX,sisijiyi.com
   - DOMAIN-SUFFIX,sisijp.com
   - DOMAIN-SUFFIX,sisp-china.com
+  - DOMAIN-SUFFIX,sisuoyun.com
   - DOMAIN-SUFFIX,siswin.com
   - DOMAIN-SUFFIX,sitcoffee.com
   - DOMAIN-SUFFIX,site-digger.com
@@ -54810,6 +54821,7 @@ payload:
   - DOMAIN-SUFFIX,sowin.com
   - DOMAIN-SUFFIX,sowu.com
   - DOMAIN-SUFFIX,soxs.cc
+  - DOMAIN-SUFFIX,soxscc.info
   - DOMAIN-SUFFIX,soxsok.com
   - DOMAIN-SUFFIX,soxuxu.com
   - DOMAIN-SUFFIX,soyao.me
@@ -57388,6 +57400,7 @@ payload:
   - DOMAIN-SUFFIX,tianzhao.net
   - DOMAIN-SUFFIX,tianzhuo.com
   - DOMAIN-SUFFIX,tianzikj.com
+  - DOMAIN-SUFFIX,tianziyu.com
   - DOMAIN-SUFFIX,tianzongyouxi.com
   - DOMAIN-SUFFIX,tiaodao.com
   - DOMAIN-SUFFIX,tiaoguangbolimo.com
@@ -69644,6 +69657,7 @@ payload:
   - DOMAIN-SUFFIX,z5a.com
   - DOMAIN-SUFFIX,z5encrypt.com
   - DOMAIN-SUFFIX,z5z4.com
+  - DOMAIN-SUFFIX,z701.com
   - DOMAIN-SUFFIX,z7xz.com
   - DOMAIN-SUFFIX,z7ys.com
   - DOMAIN-SUFFIX,z82a3814j5.com
@@ -78742,6 +78756,7 @@ payload:
   - IP-CIDR,67.198.239.0/24,no-resolve
   - IP-CIDR,67.198.244.0/24,no-resolve
   - IP-CIDR,67.198.255.0/24,no-resolve
+  - IP-CIDR,67.229.1.0/24,no-resolve
   - IP-CIDR,68.79.0.0/18,no-resolve
   - IP-CIDR,69.194.166.0/24,no-resolve
   - IP-CIDR,69.230.192.0/18,no-resolve

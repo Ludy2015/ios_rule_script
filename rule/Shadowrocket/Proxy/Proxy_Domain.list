@@ -1,12 +1,12 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:27
-# DOMAIN-SUFFIX: 26550
+# UPDATED: 2021-12-24 02:10:39
+# DOMAIN-SUFFIX: 26551
 # USER-AGENT: 12
 # DOMAIN: 5
 # IP-CIDR: 88
-# TOTAL: 26655
+# TOTAL: 26656
 assets-priconne-redive-us.akamaized.net
 cvws.icloud-content.com
 developer.apple.com
@@ -2162,6 +2162,7 @@ voice.telephony.goog
 .888dde.com
 .888diao.com
 .888funcity.net
+.888poker.com
 .888rch.com
 .888xjs.net
 .888ylg.com

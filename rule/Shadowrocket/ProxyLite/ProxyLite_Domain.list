@@ -1,12 +1,12 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:27
-# DOMAIN-SUFFIX: 33499
+# UPDATED: 2021-12-24 02:10:40
+# DOMAIN-SUFFIX: 33500
 # USER-AGENT: 10
 # DOMAIN: 19
 # IP-CIDR: 86
-# TOTAL: 33614
+# TOTAL: 33615
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -2220,6 +2220,7 @@ widgets.stripst.com
 .888dde.com
 .888diao.com
 .888funcity.net
+.888poker.com
 .888rch.com
 .888xjs.net
 .888ylg.com

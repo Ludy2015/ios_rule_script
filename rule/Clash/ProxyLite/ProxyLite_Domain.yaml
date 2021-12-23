@@ -1,12 +1,12 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:26
-# DOMAIN-SUFFIX: 33499
+# UPDATED: 2021-12-24 02:10:38
+# DOMAIN-SUFFIX: 33500
 # DOMAIN: 19
 # IP-CIDR: 86
 # IP-CIDR6: 3
-# TOTAL: 33607
+# TOTAL: 33608
 payload:
   - 'api-p.videomarket.jp'
   - 'apip.videomarket.jp'
@@ -2221,6 +2221,7 @@ payload:
   - '+.888dde.com'
   - '+.888diao.com'
   - '+.888funcity.net'
+  - '+.888poker.com'
   - '+.888rch.com'
   - '+.888xjs.net'
   - '+.888ylg.com'

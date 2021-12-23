@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:22
-# HOST-SUFFIX: 26557
+# UPDATED: 2021-12-24 02:10:35
+# HOST-SUFFIX: 26559
 # USER-AGENT: 49
 # HOST: 28
 # IP-CIDR: 129
 # IP6-CIDR: 4
 # HOST-KEYWORD: 1
-# TOTAL: 26768
+# TOTAL: 26770
 HOST,amp-api.podcasts.apple.com,Global
 HOST,apple.comscoreresearch.com,Global
 HOST,appleid.apple.com,Global
@@ -2188,6 +2188,7 @@ HOST-SUFFIX,888bifa.com,Global
 HOST-SUFFIX,888dde.com,Global
 HOST-SUFFIX,888diao.com,Global
 HOST-SUFFIX,888funcity.net,Global
+HOST-SUFFIX,888poker.com,Global
 HOST-SUFFIX,888rch.com,Global
 HOST-SUFFIX,888xjs.net,Global
 HOST-SUFFIX,888ylg.com,Global
@@ -13275,6 +13276,7 @@ HOST-SUFFIX,mediapart.fr,Global
 HOST-SUFFIX,mediapatra.com,Global
 HOST-SUFFIX,mediaplaynow.com,Global
 HOST-SUFFIX,mediawiki.org,Global
+HOST-SUFFIX,medibang.com,Global
 HOST-SUFFIX,medical-reference.net,Global
 HOST-SUFFIX,medicalcheckup.web.id,Global
 HOST-SUFFIX,medicalreference.net,Global

@@ -1,12 +1,12 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:25
-# DOMAIN-SUFFIX: 26550
+# UPDATED: 2021-12-24 02:10:37
+# DOMAIN-SUFFIX: 26551
 # DOMAIN: 5
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 26646
+# TOTAL: 26647
 payload:
   - DOMAIN,assets-priconne-redive-us.akamaized.net
   - DOMAIN,cvws.icloud-content.com
@@ -2163,6 +2163,7 @@ payload:
   - DOMAIN-SUFFIX,888dde.com
   - DOMAIN-SUFFIX,888diao.com
   - DOMAIN-SUFFIX,888funcity.net
+  - DOMAIN-SUFFIX,888poker.com
   - DOMAIN-SUFFIX,888rch.com
   - DOMAIN-SUFFIX,888xjs.net
   - DOMAIN-SUFFIX,888ylg.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 02:10:26
-# DOMAIN-SUFFIX: 26557
+# UPDATED: 2021-12-24 02:10:38
+# DOMAIN-SUFFIX: 26559
 # DOMAIN: 28
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # DOMAIN-KEYWORD: 1
-# TOTAL: 26720
+# TOTAL: 26722
 payload:
   - 'amp-api.podcasts.apple.com'
   - 'apple.comscoreresearch.com'
@@ -2189,6 +2189,7 @@ payload:
   - '+.888dde.com'
   - '+.888diao.com'
   - '+.888funcity.net'
+  - '+.888poker.com'
   - '+.888rch.com'
   - '+.888xjs.net'
   - '+.888ylg.com'
@@ -13276,6 +13277,7 @@ payload:
   - '+.mediapatra.com'
   - '+.mediaplaynow.com'
   - '+.mediawiki.org'
+  - '+.medibang.com'
   - '+.medical-reference.net'
   - '+.medicalcheckup.web.id'
   - '+.medicalreference.net'
