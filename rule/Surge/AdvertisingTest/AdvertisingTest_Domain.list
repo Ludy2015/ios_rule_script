@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:33
+# UPDATED: 2021-12-25 02:10:38
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 43198
-# DOMAIN-SUFFIX: 92555
+# DOMAIN: 43208
+# DOMAIN-SUFFIX: 92591
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 136314
+# TOTAL: 136360
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -4876,6 +4876,7 @@ battery-apps.com
 battery-booster-apps.com
 battery-problems.com
 batterypowerupgrade.com
+battle-mix.com
 battlefield3crack.org
 battlefield4-cdkey.com
 battlefield4.sharezips.net
@@ -5762,6 +5763,7 @@ bmo.instant-verification.com
 bmo.restricted-account.com
 bmo1-onlineverification.com
 bmosecurity.lensflyer.com
+bmosecurity.net
 bmoshyiypks.com
 bmqnguru.com
 bms.adjarabet.com
@@ -9850,6 +9852,7 @@ deluxesave.com
 delzzerro.cn
 demaingroup.com
 demandize.org
+demandlocker.com
 demarcapropia.com
 demenageur.com
 demhacks.com
@@ -13644,6 +13647,7 @@ flashdigitals.com
 flashgamestats.com
 flashinku.com
 flashipods4free.com
+flashmediaportal.com
 flashplayerload.com
 flashsavant.com
 flashsrealm.com
@@ -23417,6 +23421,7 @@ mavverick321.com
 max-apprais.com
 maxcorpmedia.com
 maxcrack.com
+maxdezignz.com
 maxdome.inq.com
 maxdome.touchcommerce.com
 maxibleefemaguer.com
@@ -25931,6 +25936,7 @@ nexi-web.com
 nexisicurezza.com
 nexon-loginc.com
 nexon-loginf.com
+nexprice.com
 nextdoor.com
 nextlandingads.com
 nextlevelfinance.com
@@ -32467,9 +32473,11 @@ secure.getcryptogift.com
 secure.komli.com
 secure.marketengines.com
 secure.myboa.cn-iba.com
+secure.nicemilfass.com
 secure.runescape.com-qi.top
 secure.runescape.com-ql.top
 secure.runescape.com-ye.xyz
+secure.sweetasianjuice.com
 secure.w3track.com
 secure.webresint.com
 secure3.marketengines.com
@@ -32485,6 +32493,8 @@ securedprotecition.com
 secureeioginattmpt.com
 securefastmall.com
 securefileupload.com
+securejoinsite.com
+secureldrtrack.com
 securelogin.archlines.com
 securemail-bbva.com
 securenetworkforyou.com
@@ -53164,6 +53174,7 @@ zzzpooeaz-france.com
 .ahumourned.club
 .ahunai.cn
 .ahunui.cn
+.ahvclick.com
 .ahw3.com
 .ahwangtao.com
 .ahwczn.cn
@@ -54561,6 +54572,7 @@ zzzpooeaz-france.com
 .analytics.tdameritrade.com
 .analytics.teamcoco.com
 .analytics.teamcovenant.com
+.analytics.tebilisim.com
 .analytics.techweb.com.cn
 .analytics.teespring.com
 .analytics.teko.vn
@@ -57536,6 +57548,7 @@ zzzpooeaz-france.com
 .bananastouching.com
 .banbanfun.com
 .banbf.com
+.banbw.com
 .banca-movil.com
 .bancamovil.com
 .banclip.com
@@ -57587,6 +57600,7 @@ zzzpooeaz-france.com
 .banhost.ru
 .banht.com
 .banhtv.org
+.banhx.com
 .banianspaddi.info
 .banicywan.com
 .banik.redigy.cz
@@ -58307,6 +58321,7 @@ zzzpooeaz-france.com
 .bdwblog.eastmoney.com
 .bdwbxmzmpu.ru
 .bdwmhz.120askimages.com
+.bdwst1.xyz
 .bdx.playnext.cn
 .bdxnc.com
 .bdyjxghwfbyups.com
@@ -64487,6 +64502,7 @@ zzzpooeaz-france.com
 .cococx.com
 .coconutdepreciate.com
 .coconuts.boy.jp
+.coconutsumptuousreseptivereseptive.com
 .cocounion.com
 .cod.bitrec.com
 .cod.fotis.xyz
@@ -71669,6 +71685,7 @@ zzzpooeaz-france.com
 .eatp.evztib.xyz
 .eatps.web.aol.com
 .eatsidebicep.com
+.eatwinner.com
 .eatyfailiffacc.club
 .eaus2watcab01.blob.core.windows.net
 .eaus2watcab02.blob.core.windows.net
@@ -73134,6 +73151,7 @@ zzzpooeaz-france.com
 .eotlqwxohyhu.com
 .eou01a.cn
 .eovnezvotrnp.com
+.eovpxhvi.top
 .eovrti.cn
 .ep.xone.com
 .ep00.epimg.net
@@ -73706,6 +73724,7 @@ zzzpooeaz-france.com
 .evbk.gamooga.com
 .evbsa.xyz
 .evcknbym.com
+.evdpguuavas.xyz
 .eveaggravationloosen.com
 .evealm.com
 .evefashion.cn
@@ -74018,6 +74037,7 @@ zzzpooeaz-france.com
 .exhaustedgemini.com
 .exi8ef83z9.com
 .exinnuo.cn
+.exiqukhftrlocq.top
 .existingpass.com
 .existsobey.com
 .exit-x.net
@@ -74499,6 +74519,7 @@ zzzpooeaz-france.com
 .faithknotpositive.com
 .faithlessdessertdetailed.com
 .fajnefanty.com
+.fajuer.xyz
 .fakinggivewacko.com
 .faktino.ru
 .faktor.io
@@ -76762,6 +76783,7 @@ zzzpooeaz-france.com
 .fvaweb.it
 .fvbaffiliate.com
 .fvenxjtzuaxu.com
+.fvhbful.cn
 .fvpsgi.niceonesa.com
 .fvtwyjev.com
 .fvvyjd.jtv.com
@@ -78370,6 +78392,7 @@ zzzpooeaz-france.com
 .glooliso.net
 .gloomilyinvesthave.com
 .gloomilypainkiller.com
+.gloomseb.net
 .gloophoa.net
 .gloorajo.com
 .glootang.net
@@ -79171,6 +79194,7 @@ zzzpooeaz-france.com
 .greeandjo.online
 .greeandjou.biz
 .greece-search.com
+.greedhail.com
 .greedrum.net
 .greedseed.world
 .greedtenant.com
@@ -81301,6 +81325,7 @@ zzzpooeaz-france.com
 .holiday-gift-offers.com
 .holiday4u.work
 .holidaygiftoffers.com
+.holidayhappy.online
 .holidayproductpromo.com
 .holidayshoppingrewards.com
 .hollowafterthought.com
@@ -83452,6 +83477,7 @@ zzzpooeaz-france.com
 .indemandads.com
 .independence.americanportfolios.com
 .independentdespisedevolution.com
+.independentendure.com
 .index-blog.net
 .index-markets.digital
 .index.ru
@@ -86406,6 +86432,7 @@ zzzpooeaz-france.com
 .jx.renrensousuo.com
 .jx118114.net
 .jx1999.com
+.jx3yixi.club
 .jx5m.com
 .jx8200o4h2.cn
 .jxabp.com.cn
@@ -86426,6 +86453,7 @@ zzzpooeaz-france.com
 .jxhcyc.com
 .jxin.xyz
 .jxinyue.top
+.jxirpyci.com
 .jxiwdw.ufret.jp
 .jxjzny.com
 .jxliu.com
@@ -86475,6 +86503,7 @@ zzzpooeaz-france.com
 .jyzaj.cn
 .jyzap.cn
 .jyzaw.cn
+.jyzaz.cn
 .jyzbv.cn
 .jyzce.cn
 .jyzmsy.com.cn
@@ -86490,6 +86519,7 @@ zzzpooeaz-france.com
 .jzm81.com
 .jzn360.cn
 .jzntxs.com
+.jzpffierce.cloud
 .jzq2019.top
 .jzqce.com
 .jzrzpump.com
@@ -90485,6 +90515,7 @@ zzzpooeaz-france.com
 .luhoio.zum.com
 .luhtb.top
 .luisardo.com
+.lujingyu.fun
 .lujxmxlmdfwhauw.top
 .lujxmxlmdfwhauw.xyz
 .lukomol.com
@@ -92955,6 +92986,7 @@ zzzpooeaz-france.com
 .mct.etherscan.com
 .mct01.com
 .mcteu.cn
+.mctptlrumhi.top
 .mctqu.com
 .mcuhinni.xyz
 .mcupdate.gstarcad.com
@@ -93724,6 +93756,7 @@ zzzpooeaz-france.com
 .meryjane.pro
 .merylaural.info
 .merzostueru2hu8jr09.com
+.meshare.site
 .meshlucky.com
 .mesiniklan.andipublisher.com
 .mesotherapy.jino-net.ru
@@ -96212,6 +96245,7 @@ zzzpooeaz-france.com
 .morningmaps.com
 .morningpiggy.com
 .morningsophisticatedcenter.com
+.morninguglychampionship.com
 .moronsquacco.com
 .morozhko.club
 .morphonebrities.info
@@ -104853,6 +104887,7 @@ zzzpooeaz-france.com
 .prahfoleruna.com
 .prairiedog.hashnode.com
 .praiserevision.com
+.prakswohlra.top
 .praktijkewalts.info
 .praktijkmariekehuisman.nl
 .pramdishevelledsquare.com
@@ -105057,6 +105092,7 @@ zzzpooeaz-france.com
 .prideindustry.net
 .pridetomyself.net
 .priefy.com
+.prield.com
 .prieseerunbe.info
 .prikol-girls.com
 .prikolgirls.com
@@ -105918,6 +105954,7 @@ zzzpooeaz-france.com
 .pubgenius.io
 .pubghio.fun
 .pubguru.com
+.pubhotmax.com
 .pubimgs.sapo.pt
 .publiads.com
 .public.app.autohome.com.cn
@@ -106456,6 +106493,7 @@ zzzpooeaz-france.com
 .pydnsv.ejobs.ro
 .pyeditingpro.biz
 .pyerc.com
+.pyhszs.cn
 .pyhuiyu.com
 .pyilgdamion.city
 .pyjamaican.club
@@ -115397,6 +115435,7 @@ zzzpooeaz-france.com
 .snnnyy.com
 .sno1.snowrental.com
 .snodlycaccias.com
+.snonsy.com
 .snoobi.com
 .snoresmile.com
 .snormida.top
@@ -125656,6 +125695,7 @@ zzzpooeaz-france.com
 .ueudahqfig.com
 .ueuerea.com
 .ueuodgnrhb.com
+.uewkohhl.com
 .uexjrlkcskm.xyz
 .uezbshzpdcbb.info
 .uf2.svrni.ca
@@ -126228,6 +126268,7 @@ zzzpooeaz-france.com
 .uopvdbudoe.com
 .uoquzy.touratech.de
 .uoredi.com
+.uosxberyg.top
 .uowbqce.surf
 .uoyrsd.com
 .up-cookiemon.wavecdn.net
@@ -129881,6 +129922,7 @@ zzzpooeaz-france.com
 .whrhzz.com
 .whrles.com
 .whs82908.com
+.whsdmiaxdujo.com
 .whsepelmrnz.com
 .whshangsha.com
 .whsia.cn
@@ -130679,6 +130721,7 @@ zzzpooeaz-france.com
 .wpyvue.idealwine.com
 .wq19w.cn
 .wq42219.com
+.wqdwork.com
 .wqfflc.fupa.net
 .wqfflc.gartendialog.de
 .wqfflc.gartenlexikon.de
@@ -134239,6 +134282,7 @@ zzzpooeaz-france.com
 .ypgdnrz.cn
 .yphlxtsgnpq.xyz
 .ypiads.com
+.ypjiavvxy.top
 .ypjmyskeii.com
 .ypkmppko.top
 .yplan.ru
@@ -134723,6 +134767,7 @@ zzzpooeaz-france.com
 .zaphakesleigh.com
 .zapr.in
 .zapunited.com
+.zaqedc.top
 .zarabotay.1gif.ru
 .zarabotki.ru
 .zarazazapolaza.com
@@ -135020,6 +135065,7 @@ zzzpooeaz-france.com
 .zhctrack.net
 .zhcxvk.qvc.com
 .zhekoudajie.com
+.zhemaijs.net
 .zhenghemold.com
 .zhengjian.org
 .zhengwunet.org

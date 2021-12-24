@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:39
+# UPDATED: 2021-12-25 02:10:43
 # DOMAIN-SUFFIX: 35902
-# DOMAIN: 48
+# DOMAIN: 49
 # IP-CIDR: 1188
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # DOMAIN-KEYWORD: 6
-# TOTAL: 37231
+# TOTAL: 37232
 payload:
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,dualstack.apiproxy-
