@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-25 02:10:42
-# DOMAIN: 43208
-# DOMAIN-SUFFIX: 92591
+# UPDATED: 2021-12-26 02:10:24
+# DOMAIN: 43209
+# DOMAIN-SUFFIX: 92635
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 136058
+# TOTAL: 136103
 payload:
   - DOMAIN-KEYWORD,stsdk.vivo.com.cn
   - DOMAIN-KEYWORD,stsdk.vivoglobal.com

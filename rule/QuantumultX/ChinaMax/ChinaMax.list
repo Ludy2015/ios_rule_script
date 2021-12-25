@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-25 02:10:39
+# UPDATED: 2021-12-26 02:10:22
 # USER-AGENT: 62
-# HOST-SUFFIX: 72537
+# HOST-SUFFIX: 72541
 # HOST: 57
 # IP-CIDR: 6207
 # IP6-CIDR: 5441
 # HOST-KEYWORD: 1
-# TOTAL: 84305
+# TOTAL: 84309
 HOST,265.com,ChinaMax
 HOST,c.android.clients.google.com,ChinaMax
 HOST,cache.pack.google.com,ChinaMax
@@ -19995,8 +19995,11 @@ HOST-SUFFIX,dbytwl.com,ChinaMax
 HOST-SUFFIX,dbzgia.com,ChinaMax
 HOST-SUFFIX,dc-cn.com,ChinaMax
 HOST-SUFFIX,dc-work.cn,ChinaMax
+HOST-SUFFIX,dcarapi.com,ChinaMax
 HOST-SUFFIX,dcarimg.com,ChinaMax
+HOST-SUFFIX,dcarlive.com,ChinaMax
 HOST-SUFFIX,dcarstatic.com,ChinaMax
+HOST-SUFFIX,dcarvod.com,ChinaMax
 HOST-SUFFIX,dcb123.com,ChinaMax
 HOST-SUFFIX,dccnet.com.cn,ChinaMax
 HOST-SUFFIX,dcdapp.com,ChinaMax
@@ -21327,6 +21330,7 @@ HOST-SUFFIX,dongcai.net,ChinaMax
 HOST-SUFFIX,dongcaibaoxian.com,ChinaMax
 HOST-SUFFIX,dongchaba.com,ChinaMax
 HOST-SUFFIX,dongchedi.com,ChinaMax
+HOST-SUFFIX,dongchediapp.com,ChinaMax
 HOST-SUFFIX,dongchehui.net,ChinaMax
 HOST-SUFFIX,dongcheng120.com,ChinaMax
 HOST-SUFFIX,dongchenghotels.com,ChinaMax
@@ -75715,7 +75719,6 @@ IP-CIDR,153.34.0.0/15,ChinaMax
 IP-CIDR,153.36.0.0/15,ChinaMax
 IP-CIDR,153.99.0.0/16,ChinaMax
 IP-CIDR,154.209.251.0/24,ChinaMax
-IP-CIDR,154.22.124.0/24,ChinaMax
 IP-CIDR,154.8.128.0/17,ChinaMax
 IP-CIDR,155.102.0.0/16,ChinaMax
 IP-CIDR,155.126.176.0/23,ChinaMax
@@ -78826,6 +78829,7 @@ IP-CIDR,67.198.188.0/23,ChinaMax
 IP-CIDR,67.198.192.0/23,ChinaMax
 IP-CIDR,67.198.195.0/24,ChinaMax
 IP-CIDR,67.198.199.0/24,ChinaMax
+IP-CIDR,67.198.201.0/24,ChinaMax
 IP-CIDR,67.198.207.0/24,ChinaMax
 IP-CIDR,67.198.208.0/24,ChinaMax
 IP-CIDR,67.198.221.0/24,ChinaMax

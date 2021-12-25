@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:38
-# DOMAIN-SUFFIX: 68921
+# UPDATED: 2021-12-26 02:10:25
+# DOMAIN-SUFFIX: 68925
 # DOMAIN: 82
 # IP-CIDR: 9
 # IP-CIDR6: 4
 # DOMAIN-KEYWORD: 1
-# TOTAL: 69017
+# TOTAL: 69021
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -19121,8 +19121,11 @@ payload:
   - DOMAIN-SUFFIX,dbytwl.com
   - DOMAIN-SUFFIX,dbzgia.com
   - DOMAIN-SUFFIX,dc-cn.com
+  - DOMAIN-SUFFIX,dcarapi.com
   - DOMAIN-SUFFIX,dcarimg.com
+  - DOMAIN-SUFFIX,dcarlive.com
   - DOMAIN-SUFFIX,dcarstatic.com
+  - DOMAIN-SUFFIX,dcarvod.com
   - DOMAIN-SUFFIX,dcb123.com
   - DOMAIN-SUFFIX,dcdapp.com
   - DOMAIN-SUFFIX,dcdkjx.com
@@ -20391,6 +20394,7 @@ payload:
   - DOMAIN-SUFFIX,dongcaibaoxian.com
   - DOMAIN-SUFFIX,dongchaba.com
   - DOMAIN-SUFFIX,dongchedi.com
+  - DOMAIN-SUFFIX,dongchediapp.com
   - DOMAIN-SUFFIX,dongcheng120.com
   - DOMAIN-SUFFIX,dongchenghotels.com
   - DOMAIN-SUFFIX,dongdalou.com

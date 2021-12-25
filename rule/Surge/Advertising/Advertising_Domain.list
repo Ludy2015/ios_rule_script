@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-25 02:10:38
+# UPDATED: 2021-12-26 02:10:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 44677
-# DOMAIN-SUFFIX: 80237
+# DOMAIN: 44678
+# DOMAIN-SUFFIX: 80279
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 125475
+# TOTAL: 125518
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -40035,6 +40035,7 @@ visitdetails.com
 visitor-metrics.com
 visitorapi.betaout.com
 visitors.lexus-europe.com
+visitpath.com
 visitsouthbd.com
 visittobali.com
 visolitech.com
@@ -47350,6 +47351,7 @@ zzzpooeaz-france.com
 .988878.com
 .9898c.com
 .98bf9h8jbg.com
+.98e22a373e.com
 .98hx.cn
 .991019.top
 .991pao.com
@@ -53514,6 +53516,7 @@ zzzpooeaz-france.com
 .agmtrk.com
 .agn.aty.snmsohu.aisee.tv
 .agndmn.com
+.agnezanna.com
 .agni3.xyz
 .agogdebitape.com
 .agomwefq.com
@@ -53850,6 +53853,7 @@ zzzpooeaz-france.com
 .aklamator.com
 .aklglpwljiv.com
 .aklm.cc
+.akmhw.com
 .akmxts.com
 .aknice.info
 .ako.cc
@@ -54952,6 +54956,7 @@ zzzpooeaz-france.com
 .anews7.nvwu.com
 .anfcadf.cn
 .anfeng.com
+.anfw.com.cn
 .angege.com
 .angeing.info
 .angelbaby.store
@@ -56959,6 +56964,7 @@ zzzpooeaz-france.com
 .b9377h.com
 .b94.yahoo.co.jp
 .b94ea798af.ac2e81c7b8.com
+.b9645fef65.com
 .b96bcea4.cc
 .b97.yahoo.co.jp
 .b99u.top
@@ -57312,7 +57318,6 @@ zzzpooeaz-france.com
 .banner.hpmdnetwork.ru
 .banner.icmedia.eu
 .banner.img.co.za
-.banner.interich.com
 .banner.inyourpocket.com
 .banner.itweb.co.za
 .banner.joylandcasino.com
@@ -57530,11 +57535,13 @@ zzzpooeaz-france.com
 .banwb.com
 .banwm.com
 .banwt.com
+.banxc.com
 .banxf.com
 .banxfw.cn
 .banzaiadv.it
 .banzd.com
 .banzdw.cn
+.banzf.com
 .baobaoshiye.com.cn
 .baobf.com
 .baodaozhan.cn
@@ -57622,6 +57629,7 @@ zzzpooeaz-france.com
 .baskidunyasi.net
 .basknausea.com
 .basnn14.com
+.bastingestival.com
 .bat.adforum.com
 .bat.bing.com
 .bat.maydream.com
@@ -58833,6 +58841,7 @@ zzzpooeaz-france.com
 .bitzad.com
 .bivgiokd0y.cn
 .bivitr.com
+.biwo.ink
 .bixia.fymm.cn
 .bixuyao.com.cn
 .biyibia.com
@@ -66450,6 +66459,7 @@ zzzpooeaz-france.com
 .dashingleather.com
 .dashingperfect.com
 .dashingsweater.com
+.dashuaibi.icu
 .dasistnews.net
 .daskm.com
 .dasmillennium.top
@@ -67928,6 +67938,7 @@ zzzpooeaz-france.com
 .dk2mvwe4uw0z3.cloudfront.net
 .dk45agakx3yfl.cloudfront.net
 .dk4ywix.com
+.dk57sacpbi4by.cloudfront.net
 .dk7rftbivnkgr.cloudfront.net
 .dkdlsj.com
 .dkdmygipll.com
@@ -69665,6 +69676,7 @@ zzzpooeaz-france.com
 .easyhitcounters.com
 .easyhits4u.com
 .easyinline.com
+.easyjz.com.cn
 .easyliao.com
 .easylist-to.xyz
 .easylistto.xyz
@@ -77111,6 +77123,7 @@ zzzpooeaz-france.com
 .hby7.destinia.it
 .hbyingchang.cn
 .hbyinzhibao.cn
+.hbyjrspyxgs.site
 .hbyyzm.com
 .hbzhenquan.cn
 .hbzhurong.cn
@@ -77841,6 +77854,7 @@ zzzpooeaz-france.com
 .hjl0618.cn
 .hjmagamal.com
 .hjnbvg.ru
+.hjqkwjyu.com
 .hjryl.com
 .hjsled.com
 .hjues.com
@@ -80744,6 +80758,7 @@ zzzpooeaz-france.com
 .iomsew.com
 .ionamin.1.p2l.info
 .ionamin.t35.com
+.ioniamcurren.com
 .ionrefreshotsev.info
 .ioomb.cn
 .iople.com
@@ -81986,6 +82001,7 @@ zzzpooeaz-france.com
 .jofbu.com
 .jofhsybikfnl.com
 .jofinchnettle.com
+.jogbxpg.cn
 .joggingavenge.com
 .johannes.voith.com
 .johays.co
@@ -82048,6 +82064,7 @@ zzzpooeaz-france.com
 .jovfwgr.cn
 .joxhvjnlpb.com
 .joycasino.com
+.joyceglobal.club
 .joyekepus.online
 .joyfuldoors.com
 .joyfullysacrificeralph.com
@@ -82251,6 +82268,7 @@ zzzpooeaz-france.com
 .jscount.com
 .jscounter.com
 .jscsd.cn
+.jscvalves.me
 .jsecoin.com
 .jsf.cnlinfo.net
 .jsfactory.net
@@ -82556,6 +82574,7 @@ zzzpooeaz-france.com
 .jxxiangchu.com
 .jxy6.evobanco.es
 .jxyufa.com
+.jxzz.tech
 .jy.zhongxues.com
 .jy135.com
 .jyagyffnbysg.com
@@ -84767,6 +84786,7 @@ zzzpooeaz-france.com
 .lilaelefant.de
 .lilangdianqi.cn
 .lilb2.shutterstock.com
+.lilith.ink
 .lilithgame.info
 .liliwoin.top
 .liliy9aydje10.com
@@ -86050,12 +86070,14 @@ zzzpooeaz-france.com
 .lptag.liveperson.net
 .lpuhcdnyejf.com
 .lpwre.top
+.lpwx.xyz
 .lq1.abcxs.com
 .lqcdn.com
 .lqcqhkgoer.com
 .lqeevjgkjjwi.com
 .lqela.ru
 .lqeqhc.yapo.cl
+.lqiusbnfmy.top
 .lqjince.com
 .lqmohun.com
 .lqpvvd.naadam.co
@@ -87089,6 +87111,7 @@ zzzpooeaz-france.com
 .macaxpower.com.br
 .maccleanersecurity.com
 .maccms.com
+.maccms.info
 .maccms.tan5858.com
 .macdamaged.tech
 .macfix.life
@@ -92919,6 +92942,7 @@ zzzpooeaz-france.com
 .njjmp.com
 .njjrlf.com
 .njmaq.com
+.njmeldkr.top
 .njmpacc.com
 .njohvxs.cn
 .njq.net
@@ -93027,6 +93051,7 @@ zzzpooeaz-france.com
 .nnn.ru
 .nnna.ru
 .nnnwwwe.com
+.nnocsin.cn
 .nnolljzcxzud.com
 .nnoxzo.rfskbylbsf.xyz
 .nnsbbd.com
@@ -94080,6 +94105,7 @@ zzzpooeaz-france.com
 .octopuspop.com
 .octopuszyw.cn
 .octozoon.org
+.oczkgx.com
 .ocznxv.cn
 .od0gddq27wkk.com
 .oda.markitondemand.com
@@ -94655,6 +94681,7 @@ zzzpooeaz-france.com
 .onads.com
 .onadvert.ru
 .onalentressionw.info
+.onalskillsexkc.com
 .onarydarlie.fun
 .onatozo.info
 .onaudience.com
@@ -94785,6 +94812,7 @@ zzzpooeaz-france.com
 .onhowever.fun
 .onhusband.top
 .oniad.com
+.onigagalai.ru
 .onindexicowillio.info
 .onivenapud.com
 .onlifjj.net
@@ -95053,6 +95081,7 @@ zzzpooeaz-france.com
 .operationsdelivery.com
 .operationsshifts.com
 .operavan.com
+.opertyvaluat.com
 .opetation.pro
 .opgafj.com
 .opgirl-tmp.adbxb.cn
@@ -100144,6 +100173,7 @@ zzzpooeaz-france.com
 .qoijertneio.com
 .qoisocrldvnesni.ru
 .qoiusky.com
+.qontent.pouvideo.cc
 .qooic.com
 .qoopler.ru
 .qopjaksmm.top
@@ -111106,6 +111136,7 @@ zzzpooeaz-france.com
 .taboola.com.cn
 .taboola.com.edgekey.net
 .taboolasyndication.com
+.tabsilfs.top
 .tabunder.com
 .tabwl.com
 .tabyee.cn
@@ -112376,6 +112407,7 @@ zzzpooeaz-france.com
 .thor.pureelectric.se
 .thormedia.ru
 .thoroughask.com
+.thoroughlycanyonunanimously.com
 .thorpknubby.com
 .thorsado.net
 .thorz.com
@@ -115444,6 +115476,7 @@ zzzpooeaz-france.com
 .ttdbj.com
 .ttdetect.staticimgfarm.com
 .tteasr.com
+.ttffhe.top
 .ttfgames.cn
 .ttgmjfgldgv9ed10.com
 .ttklg.net
@@ -115916,6 +115949,7 @@ zzzpooeaz-france.com
 .ubertracking.info
 .ubfhq.top
 .ubibibi.com
+.ubilox.com
 .ubiquitousyard.com
 .ubjectsandie.biz
 .ublrfs.com
@@ -116090,6 +116124,7 @@ zzzpooeaz-france.com
 .uhlirmnejsndfs.xyz
 .uhmevofiatnjg.xyz
 .uhodsplo.com
+.uhomsiofpcu.top
 .uhor8.cn
 .uhpdsplo.com
 .uhqpnhorurueku.com
@@ -116817,6 +116852,7 @@ zzzpooeaz-france.com
 .usatravelspecials.net
 .usbanners.com
 .uscarefusedshi.info
+.uscdn.top
 .uschoicevalue.com
 .uscpn0c485wn.com
 .usd.sierraboa.com
@@ -118023,7 +118059,6 @@ zzzpooeaz-france.com
 .visitortrack.com
 .visitortracklog.com
 .visitorville.com
-.visitpath.com
 .visitping.rossel.be
 .visits.lt
 .visits.quitsocialmedia.club
@@ -118183,6 +118218,7 @@ zzzpooeaz-france.com
 .vns3359.com
 .vns800600.net
 .vntsm.com
+.vnyqn.cn
 .voapozol.com
 .voaroawo.net
 .voastauz.net
@@ -118769,6 +118805,7 @@ zzzpooeaz-france.com
 .wangtianci.cn
 .wangxiankang.top
 .wangxingkui.online
+.wangyasen.link
 .wangyeshij.top
 .wangyh.icu
 .wangyouxs.cn
@@ -118847,6 +118884,7 @@ zzzpooeaz-france.com
 .warron.cn
 .warsalsintrol.site
 .warswhitawe.com
+.wartat.com
 .warten-sie-mal.xyz
 .wartensiemal.xyz
 .warumbistdusoarm.space
@@ -121794,6 +121832,7 @@ zzzpooeaz-france.com
 .xdadang.com
 .xdadevelopers.browsi.mobi
 .xdaoxa.footasylum.com
+.xdbnwjtpyvfu.com
 .xdbwc.com
 .xdcqcyp.com
 .xdcs-collector.ximalaya.com
@@ -122815,6 +122854,7 @@ zzzpooeaz-france.com
 .yaudience.com
 .yauhbgfc.com
 .yawcoynag.com
+.yawnspuker.com
 .yawsupvie.site
 .yaxinfushi.com.cn
 .yaxujiancai.cn
@@ -122868,6 +122908,7 @@ zzzpooeaz-france.com
 .ycurrentjobis.biz
 .ycx.kim
 .ycxjtd.com
+.ycych.com
 .ycypzx.cn
 .yd126.com
 .ydbeuq.superpharm.pl
@@ -123672,6 +123713,7 @@ zzzpooeaz-france.com
 .yuebofa.cc
 .yuedu.iqiyi.com
 .yueduyy.com
+.yuegepiano.cn
 .yueleshenghuo.cn
 .yueli101.xyz
 .yueqal.glassesusa.com
@@ -124028,6 +124070,7 @@ zzzpooeaz-france.com
 .zcoup.com
 .zcp.zwame.pt
 .zcpap.cn
+.zcpmenyq.com
 .zcpnq.cn
 .zcrtd.com
 .zcsdbj.cn

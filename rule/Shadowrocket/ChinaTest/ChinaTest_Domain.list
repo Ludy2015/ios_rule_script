@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:39
-# DOMAIN-SUFFIX: 68921
+# UPDATED: 2021-12-26 02:10:26
+# DOMAIN-SUFFIX: 68925
 # USER-AGENT: 31
 # DOMAIN: 82
 # IP-CIDR: 9
 # DOMAIN-KEYWORD: 1
-# TOTAL: 69044
+# TOTAL: 69048
 265.com
 2mdn.net
 adservice.google.com
@@ -19120,8 +19120,11 @@ www4-static.gog-statics.com
 .dbytwl.com
 .dbzgia.com
 .dc-cn.com
+.dcarapi.com
 .dcarimg.com
+.dcarlive.com
 .dcarstatic.com
+.dcarvod.com
 .dcb123.com
 .dcdapp.com
 .dcdkjx.com
@@ -20390,6 +20393,7 @@ www4-static.gog-statics.com
 .dongcaibaoxian.com
 .dongchaba.com
 .dongchedi.com
+.dongchediapp.com
 .dongcheng120.com
 .dongchenghotels.com
 .dongdalou.com
