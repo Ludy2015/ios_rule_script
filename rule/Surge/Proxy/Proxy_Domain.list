@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:34
+# UPDATED: 2021-12-27 02:10:28
 # DOMAIN-SUFFIX: 26551
 # USER-AGENT: 12
 # DOMAIN: 5
@@ -10869,6 +10869,7 @@ voice.telephony.goog
 .improv4business.com
 .impulsoti.com
 .imsystem.site
+.imtoken.fans
 .imxiqi.com
 .in-disguise.com
 .in-the-band.net
@@ -26241,7 +26242,6 @@ voice.telephony.goog
 .yun5888.com
 .yunchao.net
 .yunfan.pw
-.yunpanjingling.com
 .yuntipub.com
 .yuntv.letv.com
 .yunyunchao.com

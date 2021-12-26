@@ -1,7 +1,7 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-25 02:10:40
+# UPDATED: 2021-12-27 02:10:29
 # HOST-SUFFIX: 35902
 # USER-AGENT: 78
 # HOST: 49
@@ -15695,6 +15695,7 @@ HOST-SUFFIX,impulsoti.com,GlobalMax
 HOST-SUFFIX,imstagram.com,GlobalMax
 HOST-SUFFIX,imsystem.site,GlobalMax
 HOST-SUFFIX,imtagram.com,GlobalMax
+HOST-SUFFIX,imtoken.fans,GlobalMax
 HOST-SUFFIX,imxiqi.com,GlobalMax
 HOST-SUFFIX,in-disguise.com,GlobalMax
 HOST-SUFFIX,in-the-band.net,GlobalMax
@@ -22306,7 +22307,6 @@ HOST-SUFFIX,perfectprivacy.com,GlobalMax
 HOST-SUFFIX,perfectvpn.net,GlobalMax
 HOST-SUFFIX,perfekt.us,GlobalMax
 HOST-SUFFIX,perfektegirls.com,GlobalMax
-HOST-SUFFIX,perfops.doracdn.com,GlobalMax
 HOST-SUFFIX,perfspot.com,GlobalMax
 HOST-SUFFIX,periodicgames.com,GlobalMax
 HOST-SUFFIX,periscope.tv,GlobalMax
@@ -23203,6 +23203,7 @@ HOST-SUFFIX,putihome.org,GlobalMax
 HOST-SUFFIX,putlocker.com,GlobalMax
 HOST-SUFFIX,putty.org,GlobalMax
 HOST-SUFFIX,puuko.com,GlobalMax
+HOST-SUFFIX,pv-cdn.net,GlobalMax
 HOST-SUFFIX,pvp.im,GlobalMax
 HOST-SUFFIX,pvp.net,GlobalMax
 HOST-SUFFIX,pvp.tv,GlobalMax
@@ -35585,7 +35586,6 @@ HOST-SUFFIX,yun2133.com,GlobalMax
 HOST-SUFFIX,yun5888.com,GlobalMax
 HOST-SUFFIX,yunchao.net,GlobalMax
 HOST-SUFFIX,yunfan.pw,GlobalMax
-HOST-SUFFIX,yunpanjingling.com,GlobalMax
 HOST-SUFFIX,yuntipub.com,GlobalMax
 HOST-SUFFIX,yunyunchao.com,GlobalMax
 HOST-SUFFIX,yuren22.com,GlobalMax

@@ -1,7 +1,7 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:34
+# UPDATED: 2021-12-27 02:10:28
 # DOMAIN-SUFFIX: 33500
 # USER-AGENT: 10
 # DOMAIN: 19
@@ -14445,6 +14445,7 @@ widgets.stripst.com
 .imstagram.com
 .imsystem.site
 .imtagram.com
+.imtoken.fans
 .imxiqi.com
 .in-disguise.com
 .in-the-band.net
@@ -33165,7 +33166,6 @@ widgets.stripst.com
 .yun5888.com
 .yunchao.net
 .yunfan.pw
-.yunpanjingling.com
 .yuntipub.com
 .yunyunchao.com
 .yuren22.com

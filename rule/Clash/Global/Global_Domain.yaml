@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:38
+# UPDATED: 2021-12-27 02:10:33
 # DOMAIN-SUFFIX: 26559
 # DOMAIN: 28
 # IP-CIDR: 129
@@ -10908,6 +10908,7 @@ payload:
   - '+.improv4business.com'
   - '+.impulsoti.com'
   - '+.imsystem.site'
+  - '+.imtoken.fans'
   - '+.imxiqi.com'
   - '+.in-disguise.com'
   - '+.in-the-band.net'
@@ -26276,7 +26277,6 @@ payload:
   - '+.yun5888.com'
   - '+.yunchao.net'
   - '+.yunfan.pw'
-  - '+.yunpanjingling.com'
   - '+.yuntipub.com'
   - '+.yunyunchao.com'
   - '+.yuren22.com'

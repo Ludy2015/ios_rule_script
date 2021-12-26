@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-26 02:10:21
+# UPDATED: 2021-12-27 02:10:28
 # USER-AGENT: 62
 # DOMAIN-SUFFIX: 72541
 # PROCESS-NAME: 6
 # DOMAIN: 57
-# IP-CIDR: 6207
+# IP-CIDR: 6210
 # IP-CIDR6: 5441
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84315
+# TOTAL: 84318
 DOMAIN-KEYWORD,.tmall.com
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -6156,6 +6156,7 @@ IP-CIDR,64.85.27.0/24,no-resolve
 IP-CIDR,66.102.240.0/21,no-resolve
 IP-CIDR,66.102.248.0/22,no-resolve
 IP-CIDR,66.102.255.0/24,no-resolve
+IP-CIDR,67.198.135.0/24,no-resolve
 IP-CIDR,67.198.146.0/24,no-resolve
 IP-CIDR,67.198.148.0/24,no-resolve
 IP-CIDR,67.198.160.0/23,no-resolve
@@ -6170,14 +6171,16 @@ IP-CIDR,67.198.188.0/23,no-resolve
 IP-CIDR,67.198.192.0/23,no-resolve
 IP-CIDR,67.198.195.0/24,no-resolve
 IP-CIDR,67.198.199.0/24,no-resolve
-IP-CIDR,67.198.201.0/24,no-resolve
 IP-CIDR,67.198.207.0/24,no-resolve
 IP-CIDR,67.198.208.0/24,no-resolve
 IP-CIDR,67.198.221.0/24,no-resolve
+IP-CIDR,67.198.222.0/24,no-resolve
+IP-CIDR,67.198.229.0/24,no-resolve
 IP-CIDR,67.198.235.0/24,no-resolve
 IP-CIDR,67.198.239.0/24,no-resolve
 IP-CIDR,67.198.244.0/24,no-resolve
 IP-CIDR,67.198.255.0/24,no-resolve
+IP-CIDR,67.229.1.0/24,no-resolve
 IP-CIDR,68.79.0.0/18,no-resolve
 IP-CIDR,69.194.166.0/24,no-resolve
 IP-CIDR,69.230.192.0/18,no-resolve

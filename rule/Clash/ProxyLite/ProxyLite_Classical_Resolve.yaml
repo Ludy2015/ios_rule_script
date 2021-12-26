@@ -1,7 +1,7 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:38
+# UPDATED: 2021-12-27 02:10:33
 # DOMAIN-SUFFIX: 33500
 # DOMAIN: 19
 # IP-CIDR: 86
@@ -14445,6 +14445,7 @@ payload:
   - DOMAIN-SUFFIX,imstagram.com
   - DOMAIN-SUFFIX,imsystem.site
   - DOMAIN-SUFFIX,imtagram.com
+  - DOMAIN-SUFFIX,imtoken.fans
   - DOMAIN-SUFFIX,imxiqi.com
   - DOMAIN-SUFFIX,in-disguise.com
   - DOMAIN-SUFFIX,in-the-band.net
@@ -33165,7 +33166,6 @@ payload:
   - DOMAIN-SUFFIX,yun5888.com
   - DOMAIN-SUFFIX,yunchao.net
   - DOMAIN-SUFFIX,yunfan.pw
-  - DOMAIN-SUFFIX,yunpanjingling.com
   - DOMAIN-SUFFIX,yuntipub.com
   - DOMAIN-SUFFIX,yunyunchao.com
   - DOMAIN-SUFFIX,yuren22.com

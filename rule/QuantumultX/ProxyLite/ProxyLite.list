@@ -1,7 +1,7 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:35
+# UPDATED: 2021-12-27 02:10:29
 # HOST-SUFFIX: 33500
 # USER-AGENT: 10
 # HOST: 19
@@ -14445,6 +14445,7 @@ HOST-SUFFIX,impulsoti.com,ProxyLite
 HOST-SUFFIX,imstagram.com,ProxyLite
 HOST-SUFFIX,imsystem.site,ProxyLite
 HOST-SUFFIX,imtagram.com,ProxyLite
+HOST-SUFFIX,imtoken.fans,ProxyLite
 HOST-SUFFIX,imxiqi.com,ProxyLite
 HOST-SUFFIX,in-disguise.com,ProxyLite
 HOST-SUFFIX,in-the-band.net,ProxyLite
@@ -33165,7 +33166,6 @@ HOST-SUFFIX,yun2133.com,ProxyLite
 HOST-SUFFIX,yun5888.com,ProxyLite
 HOST-SUFFIX,yunchao.net,ProxyLite
 HOST-SUFFIX,yunfan.pw,ProxyLite
-HOST-SUFFIX,yunpanjingling.com,ProxyLite
 HOST-SUFFIX,yuntipub.com,ProxyLite
 HOST-SUFFIX,yunyunchao.com,ProxyLite
 HOST-SUFFIX,yuren22.com,ProxyLite

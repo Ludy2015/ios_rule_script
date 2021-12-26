@@ -1,7 +1,7 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-25 02:10:43
+# UPDATED: 2021-12-27 02:10:33
 # DOMAIN-SUFFIX: 35902
 # DOMAIN: 49
 # IP-CIDR: 1188
@@ -15696,6 +15696,7 @@ payload:
   - DOMAIN-SUFFIX,imstagram.com
   - DOMAIN-SUFFIX,imsystem.site
   - DOMAIN-SUFFIX,imtagram.com
+  - DOMAIN-SUFFIX,imtoken.fans
   - DOMAIN-SUFFIX,imxiqi.com
   - DOMAIN-SUFFIX,in-disguise.com
   - DOMAIN-SUFFIX,in-the-band.net
@@ -22307,7 +22308,6 @@ payload:
   - DOMAIN-SUFFIX,perfectvpn.net
   - DOMAIN-SUFFIX,perfekt.us
   - DOMAIN-SUFFIX,perfektegirls.com
-  - DOMAIN-SUFFIX,perfops.doracdn.com
   - DOMAIN-SUFFIX,perfspot.com
   - DOMAIN-SUFFIX,periodicgames.com
   - DOMAIN-SUFFIX,periscope.tv
@@ -23204,6 +23204,7 @@ payload:
   - DOMAIN-SUFFIX,putlocker.com
   - DOMAIN-SUFFIX,putty.org
   - DOMAIN-SUFFIX,puuko.com
+  - DOMAIN-SUFFIX,pv-cdn.net
   - DOMAIN-SUFFIX,pvp.im
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,pvp.tv
@@ -35586,7 +35587,6 @@ payload:
   - DOMAIN-SUFFIX,yun5888.com
   - DOMAIN-SUFFIX,yunchao.net
   - DOMAIN-SUFFIX,yunfan.pw
-  - DOMAIN-SUFFIX,yunpanjingling.com
   - DOMAIN-SUFFIX,yuntipub.com
   - DOMAIN-SUFFIX,yunyunchao.com
   - DOMAIN-SUFFIX,yuren22.com

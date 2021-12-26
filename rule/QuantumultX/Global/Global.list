@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-24 02:10:35
+# UPDATED: 2021-12-27 02:10:29
 # HOST-SUFFIX: 26559
 # USER-AGENT: 49
 # HOST: 28
@@ -10907,6 +10907,7 @@ HOST-SUFFIX,impp.mn,Global
 HOST-SUFFIX,improv4business.com,Global
 HOST-SUFFIX,impulsoti.com,Global
 HOST-SUFFIX,imsystem.site,Global
+HOST-SUFFIX,imtoken.fans,Global
 HOST-SUFFIX,imxiqi.com,Global
 HOST-SUFFIX,in-disguise.com,Global
 HOST-SUFFIX,in-the-band.net,Global
@@ -26275,7 +26276,6 @@ HOST-SUFFIX,yun2133.com,Global
 HOST-SUFFIX,yun5888.com,Global
 HOST-SUFFIX,yunchao.net,Global
 HOST-SUFFIX,yunfan.pw,Global
-HOST-SUFFIX,yunpanjingling.com,Global
 HOST-SUFFIX,yuntipub.com,Global
 HOST-SUFFIX,yunyunchao.com,Global
 HOST-SUFFIX,yuren22.com,Global
