@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:29
-# HOST-SUFFIX: 26551
+# UPDATED: 2021-12-28 02:11:26
+# HOST-SUFFIX: 26554
 # USER-AGENT: 12
 # HOST: 5
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 26659
+# TOTAL: 26662
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
 HOST,cvws.icloud-content.com,Proxy
 HOST,developer.apple.com,Proxy
@@ -4487,6 +4487,7 @@ HOST-SUFFIX,bloomfortune.com,Proxy
 HOST-SUFFIX,blpink.xyz,Proxy
 HOST-SUFFIX,blr335.com,Proxy
 HOST-SUFFIX,bls.gov,Proxy
+HOST-SUFFIX,blubrry.com,Proxy
 HOST-SUFFIX,blue9.com.au,Proxy
 HOST-SUFFIX,blueangellive.com,Proxy
 HOST-SUFFIX,bluecloud.pw,Proxy
@@ -18552,8 +18553,10 @@ HOST-SUFFIX,tibetanbuddhistinstitute.org,Proxy
 HOST-SUFFIX,tibetancommunity.org,Proxy
 HOST-SUFFIX,tibetancommunityuk.net,Proxy
 HOST-SUFFIX,tibetanculture.org,Proxy
+HOST-SUFFIX,tibetanentrepreneurs.org,Proxy
 HOST-SUFFIX,tibetanfeministcollective.org,Proxy
 HOST-SUFFIX,tibetangeeks.com,Proxy
+HOST-SUFFIX,tibetanhealth.org,Proxy
 HOST-SUFFIX,tibetanjournal.com,Proxy
 HOST-SUFFIX,tibetanlanguage.org,Proxy
 HOST-SUFFIX,tibetanliberation.org,Proxy
@@ -18930,6 +18933,7 @@ HOST-SUFFIX,trimondi.de,Proxy
 HOST-SUFFIX,trinita.tv,Proxy
 HOST-SUFFIX,trisla.com,Proxy
 HOST-SUFFIX,troktiko.eu,Proxy
+HOST-SUFFIX,tronscan.org,Proxy
 HOST-SUFFIX,trouw.nl,Proxy
 HOST-SUFFIX,trove.trionworlds.com,Proxy
 HOST-SUFFIX,trovigo.com,Proxy
@@ -21840,7 +21844,6 @@ HOST-SUFFIX,www.blogger.idv.tw,Proxy
 HOST-SUFFIX,www.bloomberg.com.br,Proxy
 HOST-SUFFIX,www.bloomberglink.com,Proxy
 HOST-SUFFIX,www.bloombergsef.com,Proxy
-HOST-SUFFIX,www.blubrry.com,Proxy
 HOST-SUFFIX,www.bm1100.cc,Proxy
 HOST-SUFFIX,www.bm30000.com,Proxy
 HOST-SUFFIX,www.bm505.cc,Proxy

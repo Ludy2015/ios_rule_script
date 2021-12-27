@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:31
+# UPDATED: 2021-12-28 02:11:29
 # DOMAIN: 44714
-# DOMAIN-SUFFIX: 79881
+# DOMAIN-SUFFIX: 79886
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 124854
+# TOTAL: 124859
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -47344,6 +47344,7 @@ payload:
   - DOMAIN-SUFFIX,9735476.test.skyscanner.net
   - DOMAIN-SUFFIX,976b97b6da.com
   - DOMAIN-SUFFIX,978655.online
+  - DOMAIN-SUFFIX,978ea72276.com
   - DOMAIN-SUFFIX,979067.com
   - DOMAIN-SUFFIX,97bike.com
   - DOMAIN-SUFFIX,97d73lsi.com
@@ -57625,6 +57626,7 @@ payload:
   - DOMAIN-SUFFIX,baskidunyasi.net
   - DOMAIN-SUFFIX,basknausea.com
   - DOMAIN-SUFFIX,basnn14.com
+  - DOMAIN-SUFFIX,basnn15.com
   - DOMAIN-SUFFIX,bastingestival.com
   - DOMAIN-SUFFIX,bat.adforum.com
   - DOMAIN-SUFFIX,bat.bing.com
@@ -80170,6 +80172,7 @@ payload:
   - DOMAIN-SUFFIX,infra-gtc.com
   - DOMAIN-SUFFIX,infra.systems
   - DOMAIN-SUFFIX,infrashift.com
+  - DOMAIN-SUFFIX,infuriateharder.com
   - DOMAIN-SUFFIX,infvb.com
   - DOMAIN-SUFFIX,ingage.tech
   - DOMAIN-SUFFIX,ingameads.gameloft.com
@@ -122905,6 +122908,7 @@ payload:
   - DOMAIN-SUFFIX,yladm.com
   - DOMAIN-SUFFIX,ylads.yaolan.com
   - DOMAIN-SUFFIX,ylbb-vipjs.com
+  - DOMAIN-SUFFIX,ylbbvipjs.com
   - DOMAIN-SUFFIX,yldbt.com
   - DOMAIN-SUFFIX,yldmgrimg.net
   - DOMAIN-SUFFIX,yldr.io
@@ -124098,6 +124102,7 @@ payload:
   - DOMAIN-SUFFIX,zisunion.com
   - DOMAIN-SUFFIX,zitanmushu.com
   - DOMAIN-SUFFIX,zitaoh.cn
+  - DOMAIN-SUFFIX,ziwyduke.xyz
   - DOMAIN-SUFFIX,zixiansun.com
   - DOMAIN-SUFFIX,zixinnuo.cn
   - DOMAIN-SUFFIX,zixivily.com

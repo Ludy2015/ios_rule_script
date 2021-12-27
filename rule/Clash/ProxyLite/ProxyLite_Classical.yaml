@@ -1,12 +1,12 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:33
-# DOMAIN-SUFFIX: 33500
+# UPDATED: 2021-12-28 02:11:31
+# DOMAIN-SUFFIX: 33503
 # DOMAIN: 19
 # IP-CIDR: 86
 # IP-CIDR6: 3
-# TOTAL: 33608
+# TOTAL: 33611
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,apip.videomarket.jp
@@ -24823,8 +24823,10 @@ payload:
   - DOMAIN-SUFFIX,tibetancommunity.org
   - DOMAIN-SUFFIX,tibetancommunityuk.net
   - DOMAIN-SUFFIX,tibetanculture.org
+  - DOMAIN-SUFFIX,tibetanentrepreneurs.org
   - DOMAIN-SUFFIX,tibetanfeministcollective.org
   - DOMAIN-SUFFIX,tibetangeeks.com
+  - DOMAIN-SUFFIX,tibetanhealth.org
   - DOMAIN-SUFFIX,tibetanjournal.com
   - DOMAIN-SUFFIX,tibetanlanguage.org
   - DOMAIN-SUFFIX,tibetanliberation.org
@@ -25241,6 +25243,7 @@ payload:
   - DOMAIN-SUFFIX,trmini.com
   - DOMAIN-SUFFIX,troisrivieresmini.com
   - DOMAIN-SUFFIX,troktiko.eu
+  - DOMAIN-SUFFIX,tronscan.org
   - DOMAIN-SUFFIX,trouw.nl
   - DOMAIN-SUFFIX,trove.trionworlds.com
   - DOMAIN-SUFFIX,trovigo.com

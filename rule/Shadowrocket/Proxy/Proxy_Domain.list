@@ -1,12 +1,12 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:34
-# DOMAIN-SUFFIX: 26551
+# UPDATED: 2021-12-28 02:11:31
+# DOMAIN-SUFFIX: 26554
 # USER-AGENT: 12
 # DOMAIN: 5
 # IP-CIDR: 88
-# TOTAL: 26656
+# TOTAL: 26659
 assets-priconne-redive-us.akamaized.net
 cvws.icloud-content.com
 developer.apple.com
@@ -4486,6 +4486,7 @@ voice.telephony.goog
 .blpink.xyz
 .blr335.com
 .bls.gov
+.blubrry.com
 .blue9.com.au
 .blueangellive.com
 .bluecloud.pw
@@ -18551,8 +18552,10 @@ voice.telephony.goog
 .tibetancommunity.org
 .tibetancommunityuk.net
 .tibetanculture.org
+.tibetanentrepreneurs.org
 .tibetanfeministcollective.org
 .tibetangeeks.com
+.tibetanhealth.org
 .tibetanjournal.com
 .tibetanlanguage.org
 .tibetanliberation.org
@@ -18929,6 +18932,7 @@ voice.telephony.goog
 .trinita.tv
 .trisla.com
 .troktiko.eu
+.tronscan.org
 .trouw.nl
 .trove.trionworlds.com
 .trovigo.com
@@ -21839,7 +21843,6 @@ voice.telephony.goog
 .www.bloomberg.com.br
 .www.bloomberglink.com
 .www.bloombergsef.com
-.www.blubrry.com
 .www.bm1100.cc
 .www.bm30000.com
 .www.bm505.cc

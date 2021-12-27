@@ -1,12 +1,12 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:34
-# DOMAIN-SUFFIX: 33500
+# UPDATED: 2021-12-28 02:11:32
+# DOMAIN-SUFFIX: 33503
 # USER-AGENT: 10
 # DOMAIN: 19
 # IP-CIDR: 86
-# TOTAL: 33615
+# TOTAL: 33618
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -24822,8 +24822,10 @@ widgets.stripst.com
 .tibetancommunity.org
 .tibetancommunityuk.net
 .tibetanculture.org
+.tibetanentrepreneurs.org
 .tibetanfeministcollective.org
 .tibetangeeks.com
+.tibetanhealth.org
 .tibetanjournal.com
 .tibetanlanguage.org
 .tibetanliberation.org
@@ -25240,6 +25242,7 @@ widgets.stripst.com
 .trmini.com
 .troisrivieresmini.com
 .troktiko.eu
+.tronscan.org
 .trouw.nl
 .trove.trionworlds.com
 .trovigo.com

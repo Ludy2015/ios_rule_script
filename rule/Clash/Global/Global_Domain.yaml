@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:33
-# DOMAIN-SUFFIX: 26559
+# UPDATED: 2021-12-28 02:11:30
+# DOMAIN-SUFFIX: 26562
 # DOMAIN: 28
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # DOMAIN-KEYWORD: 1
-# TOTAL: 26722
+# TOTAL: 26725
 payload:
   - 'amp-api.podcasts.apple.com'
   - 'apple.comscoreresearch.com'
@@ -18601,8 +18601,10 @@ payload:
   - '+.tibetancommunity.org'
   - '+.tibetancommunityuk.net'
   - '+.tibetanculture.org'
+  - '+.tibetanentrepreneurs.org'
   - '+.tibetanfeministcollective.org'
   - '+.tibetangeeks.com'
+  - '+.tibetanhealth.org'
   - '+.tibetanjournal.com'
   - '+.tibetanlanguage.org'
   - '+.tibetanliberation.org'
@@ -18979,6 +18981,7 @@ payload:
   - '+.trinita.tv'
   - '+.trisla.com'
   - '+.troktiko.eu'
+  - '+.tronscan.org'
   - '+.trouw.nl'
   - '+.trove.trionworlds.com'
   - '+.trovigo.com'

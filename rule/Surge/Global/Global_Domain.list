@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:28
+# UPDATED: 2021-12-28 02:11:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 26559
+# DOMAIN-SUFFIX: 26562
 # USER-AGENT: 49
 # DOMAIN: 28
 # IP-CIDR: 129
@@ -11,7 +11,7 @@
 # PROCESS-NAME: 1
 # DOMAIN-KEYWORD: 1
 # URL-REGEX: 1
-# TOTAL: 26772
+# TOTAL: 26775
 amp-api.podcasts.apple.com
 apple.comscoreresearch.com
 appleid.apple.com
@@ -18603,8 +18603,10 @@ tv.apple.com
 .tibetancommunity.org
 .tibetancommunityuk.net
 .tibetanculture.org
+.tibetanentrepreneurs.org
 .tibetanfeministcollective.org
 .tibetangeeks.com
+.tibetanhealth.org
 .tibetanjournal.com
 .tibetanlanguage.org
 .tibetanliberation.org
@@ -18981,6 +18983,7 @@ tv.apple.com
 .trinita.tv
 .trisla.com
 .troktiko.eu
+.tronscan.org
 .trouw.nl
 .trove.trionworlds.com
 .trovigo.com

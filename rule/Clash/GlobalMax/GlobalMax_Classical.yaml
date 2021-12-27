@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:33
-# DOMAIN-SUFFIX: 35902
+# UPDATED: 2021-12-28 02:11:31
+# DOMAIN-SUFFIX: 35905
 # DOMAIN: 49
 # IP-CIDR: 1188
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # DOMAIN-KEYWORD: 6
-# TOTAL: 37232
+# TOTAL: 37235
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,api-p014.ribob01.net
@@ -26874,8 +26874,10 @@ payload:
   - DOMAIN-SUFFIX,tibetancommunity.org
   - DOMAIN-SUFFIX,tibetancommunityuk.net
   - DOMAIN-SUFFIX,tibetanculture.org
+  - DOMAIN-SUFFIX,tibetanentrepreneurs.org
   - DOMAIN-SUFFIX,tibetanfeministcollective.org
   - DOMAIN-SUFFIX,tibetangeeks.com
+  - DOMAIN-SUFFIX,tibetanhealth.org
   - DOMAIN-SUFFIX,tibetanjournal.com
   - DOMAIN-SUFFIX,tibetanlanguage.org
   - DOMAIN-SUFFIX,tibetanliberation.org
@@ -27301,6 +27303,7 @@ payload:
   - DOMAIN-SUFFIX,trmini.com
   - DOMAIN-SUFFIX,troisrivieresmini.com
   - DOMAIN-SUFFIX,troktiko.eu
+  - DOMAIN-SUFFIX,tronscan.org
   - DOMAIN-SUFFIX,trontv.com
   - DOMAIN-SUFFIX,trouw.nl
   - DOMAIN-SUFFIX,trove.trionworlds.com

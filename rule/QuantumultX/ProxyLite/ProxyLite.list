@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:29
-# HOST-SUFFIX: 33500
+# UPDATED: 2021-12-28 02:11:27
+# HOST-SUFFIX: 33503
 # USER-AGENT: 10
 # HOST: 19
 # IP-CIDR: 86
 # IP6-CIDR: 3
-# TOTAL: 33618
+# TOTAL: 33621
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,apip.videomarket.jp,ProxyLite
 HOST,blizzard.nefficient.co.kr,ProxyLite
@@ -24823,8 +24823,10 @@ HOST-SUFFIX,tibetanbuddhistinstitute.org,ProxyLite
 HOST-SUFFIX,tibetancommunity.org,ProxyLite
 HOST-SUFFIX,tibetancommunityuk.net,ProxyLite
 HOST-SUFFIX,tibetanculture.org,ProxyLite
+HOST-SUFFIX,tibetanentrepreneurs.org,ProxyLite
 HOST-SUFFIX,tibetanfeministcollective.org,ProxyLite
 HOST-SUFFIX,tibetangeeks.com,ProxyLite
+HOST-SUFFIX,tibetanhealth.org,ProxyLite
 HOST-SUFFIX,tibetanjournal.com,ProxyLite
 HOST-SUFFIX,tibetanlanguage.org,ProxyLite
 HOST-SUFFIX,tibetanliberation.org,ProxyLite
@@ -25241,6 +25243,7 @@ HOST-SUFFIX,trithucvn.org,ProxyLite
 HOST-SUFFIX,trmini.com,ProxyLite
 HOST-SUFFIX,troisrivieresmini.com,ProxyLite
 HOST-SUFFIX,troktiko.eu,ProxyLite
+HOST-SUFFIX,tronscan.org,ProxyLite
 HOST-SUFFIX,trouw.nl,ProxyLite
 HOST-SUFFIX,trove.trionworlds.com,ProxyLite
 HOST-SUFFIX,trovigo.com,ProxyLite

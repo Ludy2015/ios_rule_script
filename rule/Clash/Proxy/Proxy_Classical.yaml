@@ -1,12 +1,12 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:32
-# DOMAIN-SUFFIX: 26551
+# UPDATED: 2021-12-28 02:11:30
+# DOMAIN-SUFFIX: 26554
 # DOMAIN: 5
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 26647
+# TOTAL: 26650
 payload:
   - DOMAIN,assets-priconne-redive-us.akamaized.net
   - DOMAIN,cvws.icloud-content.com
@@ -4487,6 +4487,7 @@ payload:
   - DOMAIN-SUFFIX,blpink.xyz
   - DOMAIN-SUFFIX,blr335.com
   - DOMAIN-SUFFIX,bls.gov
+  - DOMAIN-SUFFIX,blubrry.com
   - DOMAIN-SUFFIX,blue9.com.au
   - DOMAIN-SUFFIX,blueangellive.com
   - DOMAIN-SUFFIX,bluecloud.pw
@@ -18552,8 +18553,10 @@ payload:
   - DOMAIN-SUFFIX,tibetancommunity.org
   - DOMAIN-SUFFIX,tibetancommunityuk.net
   - DOMAIN-SUFFIX,tibetanculture.org
+  - DOMAIN-SUFFIX,tibetanentrepreneurs.org
   - DOMAIN-SUFFIX,tibetanfeministcollective.org
   - DOMAIN-SUFFIX,tibetangeeks.com
+  - DOMAIN-SUFFIX,tibetanhealth.org
   - DOMAIN-SUFFIX,tibetanjournal.com
   - DOMAIN-SUFFIX,tibetanlanguage.org
   - DOMAIN-SUFFIX,tibetanliberation.org
@@ -18930,6 +18933,7 @@ payload:
   - DOMAIN-SUFFIX,trinita.tv
   - DOMAIN-SUFFIX,trisla.com
   - DOMAIN-SUFFIX,troktiko.eu
+  - DOMAIN-SUFFIX,tronscan.org
   - DOMAIN-SUFFIX,trouw.nl
   - DOMAIN-SUFFIX,trove.trionworlds.com
   - DOMAIN-SUFFIX,trovigo.com
@@ -21840,7 +21844,6 @@ payload:
   - DOMAIN-SUFFIX,www.bloomberg.com.br
   - DOMAIN-SUFFIX,www.bloomberglink.com
   - DOMAIN-SUFFIX,www.bloombergsef.com
-  - DOMAIN-SUFFIX,www.blubrry.com
   - DOMAIN-SUFFIX,www.bm1100.cc
   - DOMAIN-SUFFIX,www.bm30000.com
   - DOMAIN-SUFFIX,www.bm505.cc

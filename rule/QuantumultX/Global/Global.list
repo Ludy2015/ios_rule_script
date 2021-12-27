@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:29
-# HOST-SUFFIX: 26559
+# UPDATED: 2021-12-28 02:11:26
+# HOST-SUFFIX: 26562
 # USER-AGENT: 49
 # HOST: 28
 # IP-CIDR: 129
 # IP6-CIDR: 4
 # HOST-KEYWORD: 1
-# TOTAL: 26770
+# TOTAL: 26773
 HOST,amp-api.podcasts.apple.com,Global
 HOST,apple.comscoreresearch.com,Global
 HOST,appleid.apple.com,Global
@@ -18600,8 +18600,10 @@ HOST-SUFFIX,tibetanbuddhistinstitute.org,Global
 HOST-SUFFIX,tibetancommunity.org,Global
 HOST-SUFFIX,tibetancommunityuk.net,Global
 HOST-SUFFIX,tibetanculture.org,Global
+HOST-SUFFIX,tibetanentrepreneurs.org,Global
 HOST-SUFFIX,tibetanfeministcollective.org,Global
 HOST-SUFFIX,tibetangeeks.com,Global
+HOST-SUFFIX,tibetanhealth.org,Global
 HOST-SUFFIX,tibetanjournal.com,Global
 HOST-SUFFIX,tibetanlanguage.org,Global
 HOST-SUFFIX,tibetanliberation.org,Global
@@ -18978,6 +18980,7 @@ HOST-SUFFIX,trimondi.de,Global
 HOST-SUFFIX,trinita.tv,Global
 HOST-SUFFIX,trisla.com,Global
 HOST-SUFFIX,troktiko.eu,Global
+HOST-SUFFIX,tronscan.org,Global
 HOST-SUFFIX,trouw.nl,Global
 HOST-SUFFIX,trove.trionworlds.com,Global
 HOST-SUFFIX,trovigo.com,Global

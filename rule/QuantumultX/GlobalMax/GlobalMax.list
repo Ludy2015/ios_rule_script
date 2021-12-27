@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:29
-# HOST-SUFFIX: 35902
+# UPDATED: 2021-12-28 02:11:27
+# HOST-SUFFIX: 35905
 # USER-AGENT: 78
 # HOST: 49
 # IP-CIDR: 1188
 # IP6-CIDR: 31
 # HOST-KEYWORD: 6
-# TOTAL: 37254
+# TOTAL: 37257
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -26873,8 +26873,10 @@ HOST-SUFFIX,tibetanbuddhistinstitute.org,GlobalMax
 HOST-SUFFIX,tibetancommunity.org,GlobalMax
 HOST-SUFFIX,tibetancommunityuk.net,GlobalMax
 HOST-SUFFIX,tibetanculture.org,GlobalMax
+HOST-SUFFIX,tibetanentrepreneurs.org,GlobalMax
 HOST-SUFFIX,tibetanfeministcollective.org,GlobalMax
 HOST-SUFFIX,tibetangeeks.com,GlobalMax
+HOST-SUFFIX,tibetanhealth.org,GlobalMax
 HOST-SUFFIX,tibetanjournal.com,GlobalMax
 HOST-SUFFIX,tibetanlanguage.org,GlobalMax
 HOST-SUFFIX,tibetanliberation.org,GlobalMax
@@ -27300,6 +27302,7 @@ HOST-SUFFIX,trithucvn.org,GlobalMax
 HOST-SUFFIX,trmini.com,GlobalMax
 HOST-SUFFIX,troisrivieresmini.com,GlobalMax
 HOST-SUFFIX,troktiko.eu,GlobalMax
+HOST-SUFFIX,tronscan.org,GlobalMax
 HOST-SUFFIX,trontv.com,GlobalMax
 HOST-SUFFIX,trouw.nl,GlobalMax
 HOST-SUFFIX,trove.trionworlds.com,GlobalMax

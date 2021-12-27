@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:34
+# UPDATED: 2021-12-28 02:11:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 43207
-# DOMAIN-SUFFIX: 92599
+# DOMAIN-SUFFIX: 92606
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # URL-REGEX: 302
-# TOTAL: 136366
+# TOTAL: 136373
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -46046,6 +46046,7 @@ zzzpooeaz-france.com
 .9735476.test.skyscanner.net
 .976b97b6da.com
 .978655.online
+.978ea72276.com
 .979067.com
 .97bike.com
 .97d73lsi.com
@@ -57991,6 +57992,7 @@ zzzpooeaz-france.com
 .baskidunyasi.net
 .basknausea.com
 .basnn14.com
+.basnn15.com
 .bass.kidneystonediet.com
 .bass.siterig.io
 .bastingestival.com
@@ -58149,6 +58151,7 @@ zzzpooeaz-france.com
 .bchur.com
 .bcjjg.bugsevent.com
 .bcjxf.bugsevent.com
+.bcjxwlkj.com
 .bckfnohmg.com
 .bckrono.cn
 .bclheggx.com
@@ -60510,6 +60513,7 @@ zzzpooeaz-france.com
 .bshrdr.com
 .bsjgc.com
 .bsjjtpkc.com
+.bsjxwlkj.com
 .bskblt.6thstreet.com
 .bskchina.cn
 .bskevojpydks.com
@@ -85652,6 +85656,7 @@ zzzpooeaz-france.com
 .jiu.njdkgm.com
 .jiuaixianzhi.mobi
 .jiubuhua.com
+.jiucaishuo.cn
 .jiudiandyw.com
 .jiudianhudong.com
 .jiudianxing.cn
@@ -133945,6 +133950,7 @@ zzzpooeaz-france.com
 .yladm.com
 .ylads.yaolan.com
 .ylbb-vipjs.com
+.ylbbvipjs.com
 .yldbt.com
 .yldmgrimg.net
 .yldr.io
@@ -135320,6 +135326,7 @@ zzzpooeaz-france.com
 .zl1.bravo-deg.com
 .zl1.bravodeg.com
 .zl588.com
+.zl856.cn
 .zlacraft.com
 .zlauk.cn
 .zlbkj.com
