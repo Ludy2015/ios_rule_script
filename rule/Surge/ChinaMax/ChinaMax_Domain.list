@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-28 02:11:25
+# UPDATED: 2021-12-29 02:11:30
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72541
+# DOMAIN-SUFFIX: 72544
 # PROCESS-NAME: 6
 # DOMAIN: 57
 # IP-CIDR: 6184
 # IP-CIDR6: 5441
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84292
+# TOTAL: 84295
 265.com
 c.android.clients.google.com
 cache.pack.google.com
@@ -46857,8 +46857,10 @@ www4-static.gog-statics.com
 .ozouckzr.com
 .ozrot.com
 .ozzyad.com
+.p-bstarstatic.akamaized.net
 .p-dragon.com
 .p-e-china.com
+.p.bstarstatic.com
 .p.cdn.persaas.dell.com
 .p0kc9ym05p.com
 .p1.com
@@ -59556,6 +59558,7 @@ www4-static.gog-statics.com
 .uplooking.com
 .upnb.com
 .upos-bstar-mirrorakam.akamaized.net
+.upos-bstar1-mirrorakam.akamaized.net
 .upos-hz-mirrorakam.akamaized.net
 .upowerchain.com
 .uppsd.com

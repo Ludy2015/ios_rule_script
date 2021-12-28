@@ -1,7 +1,7 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-28 02:11:31
+# UPDATED: 2021-12-29 02:11:36
 # DOMAIN-SUFFIX: 35905
 # DOMAIN: 49
 # IP-CIDR: 1188
@@ -46,7 +46,6 @@ payload:
   - DOMAIN,news-events.apple.com
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,ocsp.apple.com
-  - DOMAIN,p.bstarstatic.com
   - DOMAIN,pchomeonline.com.tw
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,radio.itunes.apple.com
@@ -58,6 +57,7 @@ payload:
   - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,widgets.stripst.com
   - DOMAIN,wmff.warnermediacdn.com
+  - DOMAIN,www.paypal-mktg.com
   - DOMAIN,zeke.scea.com
   - DOMAIN-SUFFIX,00006801.com
   - DOMAIN-SUFFIX,00006805.com

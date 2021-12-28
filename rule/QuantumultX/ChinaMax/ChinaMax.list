@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-28 02:11:26
+# UPDATED: 2021-12-29 02:11:31
 # USER-AGENT: 62
-# HOST-SUFFIX: 72541
+# HOST-SUFFIX: 72544
 # HOST: 57
 # IP-CIDR: 6184
 # IP6-CIDR: 5441
 # HOST-KEYWORD: 1
-# TOTAL: 84286
+# TOTAL: 84289
 HOST,265.com,ChinaMax
 HOST,c.android.clients.google.com,ChinaMax
 HOST,cache.pack.google.com,ChinaMax
@@ -46856,8 +46856,10 @@ HOST-SUFFIX,ozmvpbhc.com,ChinaMax
 HOST-SUFFIX,ozouckzr.com,ChinaMax
 HOST-SUFFIX,ozrot.com,ChinaMax
 HOST-SUFFIX,ozzyad.com,ChinaMax
+HOST-SUFFIX,p-bstarstatic.akamaized.net,ChinaMax
 HOST-SUFFIX,p-dragon.com,ChinaMax
 HOST-SUFFIX,p-e-china.com,ChinaMax
+HOST-SUFFIX,p.bstarstatic.com,ChinaMax
 HOST-SUFFIX,p.cdn.persaas.dell.com,ChinaMax
 HOST-SUFFIX,p0kc9ym05p.com,ChinaMax
 HOST-SUFFIX,p1.com,ChinaMax
@@ -59555,6 +59557,7 @@ HOST-SUFFIX,uplookedu.com,ChinaMax
 HOST-SUFFIX,uplooking.com,ChinaMax
 HOST-SUFFIX,upnb.com,ChinaMax
 HOST-SUFFIX,upos-bstar-mirrorakam.akamaized.net,ChinaMax
+HOST-SUFFIX,upos-bstar1-mirrorakam.akamaized.net,ChinaMax
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,ChinaMax
 HOST-SUFFIX,upowerchain.com,ChinaMax
 HOST-SUFFIX,uppsd.com,ChinaMax
@@ -78789,7 +78792,6 @@ IP-CIDR,61.8.160.0/20,ChinaMax
 IP-CIDR,61.87.192.0/18,ChinaMax
 IP-CIDR,62.234.0.0/16,ChinaMax
 IP-CIDR,62.3.6.0/24,ChinaMax
-IP-CIDR,63.140.0.0/24,ChinaMax
 IP-CIDR,63.217.23.0/24,ChinaMax
 IP-CIDR,63.218.252.10/32,ChinaMax
 IP-CIDR,63.243.252.0/24,ChinaMax
@@ -78815,6 +78817,7 @@ IP-CIDR,67.198.188.0/23,ChinaMax
 IP-CIDR,67.198.192.0/23,ChinaMax
 IP-CIDR,67.198.195.0/24,ChinaMax
 IP-CIDR,67.198.199.0/24,ChinaMax
+IP-CIDR,67.198.201.0/24,ChinaMax
 IP-CIDR,67.198.207.0/24,ChinaMax
 IP-CIDR,67.198.208.0/24,ChinaMax
 IP-CIDR,67.198.221.0/24,ChinaMax

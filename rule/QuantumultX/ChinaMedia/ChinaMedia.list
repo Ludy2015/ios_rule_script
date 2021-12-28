@@ -1,12 +1,12 @@
 # NAME: ChinaMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:39
+# UPDATED: 2021-12-29 02:11:31
 # USER-AGENT: 29
-# HOST-SUFFIX: 164
+# HOST-SUFFIX: 167
 # HOST: 47
-# IP-CIDR: 35
-# TOTAL: 275
+# IP-CIDR: 34
+# TOTAL: 277
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,ChinaMedia
 HOST,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,ChinaMedia
 HOST,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,ChinaMedia
@@ -171,6 +171,8 @@ HOST-SUFFIX,music.tc.qq.com,ChinaMedia
 HOST-SUFFIX,music.xiaomi.com,ChinaMedia
 HOST-SUFFIX,noxagile.duapp.com,ChinaMedia
 HOST-SUFFIX,olympicchannelchina.cn,ChinaMedia
+HOST-SUFFIX,p-bstarstatic.akamaized.net,ChinaMedia
+HOST-SUFFIX,p.bstarstatic.com,ChinaMedia
 HOST-SUFFIX,pplive.cn,ChinaMedia
 HOST-SUFFIX,pptv.com,ChinaMedia
 HOST-SUFFIX,qianqian.com,ChinaMedia
@@ -189,6 +191,7 @@ HOST-SUFFIX,tencentmusic.com,ChinaMedia
 HOST-SUFFIX,tvcc.cn,ChinaMedia
 HOST-SUFFIX,tvcc.com.cn,ChinaMedia
 HOST-SUFFIX,upos-bstar-mirrorakam.akamaized.net,ChinaMedia
+HOST-SUFFIX,upos-bstar1-mirrorakam.akamaized.net,ChinaMedia
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,ChinaMedia
 HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net,ChinaMedia
 HOST-SUFFIX,v-56.com,ChinaMedia
@@ -258,7 +261,6 @@ IP-CIDR,115.236.118.33/32,ChinaMedia
 IP-CIDR,115.236.121.1/32,ChinaMedia
 IP-CIDR,118.24.63.156/32,ChinaMedia
 IP-CIDR,119.176.0.0/12,ChinaMedia
-IP-CIDR,119.29.29.29/32,ChinaMedia
 IP-CIDR,119.3.238.64/32,ChinaMedia
 IP-CIDR,120.92.108.182/32,ChinaMedia
 IP-CIDR,120.92.113.99/32,ChinaMedia

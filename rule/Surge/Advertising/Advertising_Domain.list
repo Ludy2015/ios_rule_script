@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-28 02:11:25
+# UPDATED: 2021-12-29 02:11:30
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 44714
-# DOMAIN-SUFFIX: 79886
+# DOMAIN-SUFFIX: 79924
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 125161
+# TOTAL: 125199
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -53544,6 +53544,7 @@ zzzpooeaz-france.com
 .agreeablestew.com
 .agreeabletouch.com
 .agreenikeru.site
+.agriculta.top
 .agriturismoilcascinone.com
 .agro.net.ru
 .agroeconom.kz
@@ -54237,6 +54238,7 @@ zzzpooeaz-france.com
 .amads.xyz
 .amae.zjcapital.cn
 .amajorinryes.com
+.amandajuliett.com
 .amao.mobi
 .amaprop.net
 .amarceusan.com
@@ -55582,6 +55584,7 @@ zzzpooeaz-france.com
 .appleprotection.info
 .applequan.com
 .applesarmy.com
+.applescringe.com
 .applestore.commobile.gift
 .applicateco.space
 .applicationcodeshopnet.win
@@ -57774,6 +57777,7 @@ zzzpooeaz-france.com
 .bchur.com
 .bcjjg.bugsevent.com
 .bcjxf.bugsevent.com
+.bcjxwlkj.com
 .bckfnohmg.com
 .bckrono.cn
 .bclheggx.com
@@ -58623,6 +58627,7 @@ zzzpooeaz-france.com
 .bigbord.net
 .bigbos.top
 .bigboy.eurogamer.net
+.bigbrainker.top
 .bigbrandpromotions.com
 .bigbrandrewards.com
 .bigcattracks.com
@@ -59871,6 +59876,7 @@ zzzpooeaz-france.com
 .bshrdr.com
 .bsjgc.com
 .bsjjtpkc.com
+.bsjxwlkj.com
 .bskblt.6thstreet.com
 .bskchina.cn
 .bskevojpydks.com
@@ -65386,6 +65392,7 @@ zzzpooeaz-france.com
 .cwpush.com
 .cwt.citywire.info
 .cwwzubqasdqayf.com
+.cwyxyw.com
 .cx.ifengbi.com
 .cx.v5cam.com
 .cx0001.cn
@@ -65476,6 +65483,7 @@ zzzpooeaz-france.com
 .cysd.7kww.net
 .cytcm.com
 .cyteed.com
+.cythusheju.com
 .cyto-biotherapy.com
 .cytobiotherapy.com
 .cytoclause.com
@@ -71395,6 +71403,7 @@ zzzpooeaz-france.com
 .events.air.tv
 .events.antenna.is
 .events.api.godaddy.com
+.events.api.red.wemesh.ca
 .events.artirix.com
 .events.attentivemobile.com
 .events.audiate.me
@@ -72815,6 +72824,7 @@ zzzpooeaz-france.com
 .firstsponsor.de
 .firsttrack.ru
 .firstvideo.net
+.firtaips.com
 .firtribe.com
 .fisari.com
 .fisher56.com
@@ -74667,6 +74677,7 @@ zzzpooeaz-france.com
 .geethoap.com
 .gefadythi.pro
 .gefkkw.cyberport.de
+.geflan.com
 .gegmanu.info
 .geileba.cn
 .geili.co
@@ -76435,6 +76446,7 @@ zzzpooeaz-france.com
 .gwaaz.cn
 .gwallet.com
 .gwbangshou.com
+.gwbupxjkkwysv.top
 .gwdqp.com
 .gweini.com
 .gwikitanhr.top
@@ -76864,6 +76876,7 @@ zzzpooeaz-france.com
 .harnesssuccessorspray.com
 .harolddebris.com
 .harolmo.ru
+.harpahenny.com
 .harpiesong8.com
 .harrenmedia.com
 .harrenmedianetwork.com
@@ -81679,6 +81692,7 @@ zzzpooeaz-france.com
 .jiu.njdkgm.com
 .jiuaixianzhi.mobi
 .jiubuhua.com
+.jiucaishuo.cn
 .jiudiandyw.com
 .jiudianhudong.com
 .jiudianxing.cn
@@ -81958,6 +81972,7 @@ zzzpooeaz-france.com
 .jppbyrkkgpgo.com
 .jppolid-track.trackprod.integration.jppol.dk
 .jpqgxy.com
+.jpqiiqgydipb.com
 .jpush.cn
 .jpush.html5.qq.com
 .jpush.io
@@ -81995,6 +82010,7 @@ zzzpooeaz-france.com
 .jqyde7msbro2.com
 .jqz9.com
 .jrad.jd.com
+.jrbdlwwbiamabrq.top
 .jrclick.jd.com
 .jrdcd.biz
 .jrdkc.com
@@ -82341,6 +82357,7 @@ zzzpooeaz-france.com
 .justtrck.com
 .justuno.com
 .justwebads.com
+.justwkj.xyz
 .jutou5.com
 .jutulep.com
 .jutwrench.com
@@ -82459,6 +82476,7 @@ zzzpooeaz-france.com
 .jypugepha.pro
 .jyrwen.cn
 .jysbj.cn
+.jysbwtfct.top
 .jyshavefu.com
 .jystea.com
 .jytitenu.com
@@ -82520,6 +82538,7 @@ zzzpooeaz-france.com
 .k.veepee.it
 .k.voyageursdumonde.fr
 .k08999.com
+.k0r2eokjm6.ru
 .k1.dancihu.com
 .k1.mobileadsserver.com
 .k1.wanwenwan.cn
@@ -82581,6 +82600,7 @@ zzzpooeaz-france.com
 .kaifiluk.com
 .kaiguangdou.com
 .kaihutai.cn
+.kaikmumms.com
 .kaiphapt.net
 .kaisekiwebsite.com
 .kaitongyewu.com
@@ -82995,6 +83015,7 @@ zzzpooeaz-france.com
 .kilonefast.net
 .kilopog.com
 .kilorama.com
+.kiltyyoginis.com
 .kimus.ru
 .kinak.top
 .kindads.com
@@ -83517,6 +83538,7 @@ zzzpooeaz-france.com
 .kuaizip.com
 .kuaizitech.com
 .kuaizuoffice.com
+.kuajingtao.cc
 .kualianyingxiao.cn
 .kuangtuiguoo18888.com
 .kubam.cn
@@ -83538,6 +83560,7 @@ zzzpooeaz-france.com
 .kufun.me
 .kufun.site
 .kufun.win
+.kuglijuthi.com
 .kugo.cc
 .kuguopush.com
 .kuhaswuwaiting.xyz
@@ -87025,6 +87048,7 @@ zzzpooeaz-france.com
 .madsecz.com
 .madserving.com
 .madsimz.com
+.madsips.com
 .madskis.com
 .madskiz.com
 .madslims.com
@@ -89831,6 +89855,7 @@ zzzpooeaz-france.com
 .mieruca.com
 .miesobserv.fun
 .mieyisi.com
+.mifsirnhvvrps.top
 .mifun.mobi
 .mig8vn.com
 .migadrba.com
@@ -91229,6 +91254,7 @@ zzzpooeaz-france.com
 .mummyanonymous.com
 .mummypepdye.com
 .mumosy.com
+.mumtsioc.top
 .mumulian.com
 .munchenviableski.com
 .mundanepollution.com
@@ -94208,6 +94234,7 @@ zzzpooeaz-france.com
 .ok9ydq.ru
 .okanjo.com
 .okaoqyvdgoozbt.com
+.okapp.online
 .okayarab.com
 .okaynews.me
 .okbp.xyz
@@ -95405,6 +95432,7 @@ zzzpooeaz-france.com
 .oxd.hbr.org
 .oxd.hulkshare.com
 .oxen.hillcountrytexas.com
+.oxenfishtreaty.com
 .oxharmonysample.com
 .oxi23.cn
 .oxidesloot.com
@@ -96886,6 +96914,7 @@ zzzpooeaz-france.com
 .picbucks.com
 .pickcard.info
 .picklesadamantempire.com
+.pickpocketseenperch.com
 .picksavings.com
 .pickuchu.com
 .pickupmorbid.com
@@ -100257,6 +100286,7 @@ zzzpooeaz-france.com
 .qyctj.com
 .qydhjirz.com
 .qyfjeq.anapnet.com
+.qygzbxpt.com
 .qyjreehcxomjaon.top
 .qyjzleh.cn
 .qyqc4s.com
@@ -112451,6 +112481,7 @@ zzzpooeaz-france.com
 .tjhmsdd.cn
 .tjhtclwubg.xyz
 .tjhuajiantang.com
+.tjhxv.cn
 .tjhzsrqq.cn
 .tjiaa.com
 .tjisenap.com
@@ -114790,6 +114821,7 @@ zzzpooeaz-france.com
 .trekdata.com
 .trekluck.ru
 .trekmedia.net
+.trektinyreproduce.com
 .trellian.com
 .tremblingkeyboardassistant.com
 .tremdspace.com
@@ -115719,6 +115751,7 @@ zzzpooeaz-france.com
 .udockoan.net
 .udorik.com
 .udpolimenew.baidu.com
+.udpxhmsja.top
 .udr26c.cn
 .udr9.livera.nl
 .udrig.com
@@ -118237,6 +118270,7 @@ zzzpooeaz-france.com
 .vybbem.mk.ru
 .vybbem.womanhit.ru
 .vyborexperta.ru
+.vycqmzwftktb.com
 .vyg.mobi
 .vyhezucha.pro
 .vylmhkasl.top
@@ -122055,6 +122089,7 @@ zzzpooeaz-france.com
 .xqheb9yszyrd.com
 .xqiaqb.com
 .xqigou.top
+.xqiyi.top
 .xqkzsifxgv.com
 .xqtcur.kirklands.com
 .xqtzp.cn
@@ -122610,6 +122645,7 @@ zzzpooeaz-france.com
 .yemisleol.xyz
 .yemnn.cn
 .yemonisoni.com
+.yempid.com
 .yengo.com
 .yenlm.com
 .yenlqi.com
@@ -123720,6 +123756,7 @@ zzzpooeaz-france.com
 .zcrtd.com
 .zcsdbj.cn
 .zctibmvmbmev.com
+.zcuuqnrb.com
 .zd2020.top
 .zd6789.com
 .zdads.emedia.com
@@ -124160,6 +124197,7 @@ zzzpooeaz-france.com
 .zkwsdf.com
 .zl1.bravodeg.com
 .zl588.com
+.zl856.cn
 .zlacraft.com
 .zlauk.cn
 .zlbkj.com

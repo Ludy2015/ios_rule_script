@@ -1,7 +1,7 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-28 02:11:26
+# UPDATED: 2021-12-29 02:11:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-SUFFIX: 35905
 # USER-AGENT: 78
@@ -48,7 +48,6 @@ news-edge.apple.com
 news-events.apple.com
 np-edge.itunes.apple.com
 ocsp.apple.com
-p.bstarstatic.com
 pchomeonline.com.tw
 play-edge.itunes.apple.com
 radio.itunes.apple.com
@@ -60,6 +59,7 @@ testflight.apple.com
 uts-api.itunes.apple.com
 widgets.stripst.com
 wmff.warnermediacdn.com
+www.paypal-mktg.com
 zeke.scea.com
 .00006801.com
 .00006805.com

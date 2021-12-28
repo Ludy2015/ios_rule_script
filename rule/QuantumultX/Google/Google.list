@@ -1,13 +1,13 @@
 # NAME: Google
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-17 13:21:26
+# UPDATED: 2021-12-29 02:11:32
 # USER-AGENT: 3
-# HOST-SUFFIX: 642
+# HOST-SUFFIX: 643
 # HOST-KEYWORD: 1
 # IP-CIDR: 4
 # IP6-CIDR: 1
-# TOTAL: 651
+# TOTAL: 652
 HOST-SUFFIX,0emm.com,Google
 HOST-SUFFIX,1e100.net,Google
 HOST-SUFFIX,1ucrs.com,Google
@@ -528,6 +528,7 @@ HOST-SUFFIX,mobileview.page,Google
 HOST-SUFFIX,moodstocks.com,Google
 HOST-SUFFIX,near.by,Google
 HOST-SUFFIX,nest.com,Google
+HOST-SUFFIX,neverware.com,Google
 HOST-SUFFIX,nomulus.foo,Google
 HOST-SUFFIX,oasisfeng.com,Google
 HOST-SUFFIX,oauthz.com,Google
